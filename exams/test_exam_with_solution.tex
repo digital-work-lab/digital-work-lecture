@@ -1,0 +1,386 @@
+\documentclass[12pt]{scrartcl}
+
+\usepackage[ngerman]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+
+\usepackage{fancyhdr}
+\usepackage{enumerate}
+\usepackage{amssymb}
+\usepackage{mathtools}
+
+\usepackage{graphicx}
+\usepackage[dot, phantomtext]{dashundergaps}
+\usepackage[shortlabels]{enumitem}
+\usepackage{wasysym}
+\usepackage{multicol}
+\usepackage{xcolor}
+\usepackage{tikz}
+\usepackage{pgf}
+\usepackage{tikz}
+
+\parindent 0em
+
+\fancyhf{}
+\pagestyle{fancy}
+
+\fancyhead[L]{Name:\hspace{8cm}Student number:}
+\fancyfoot[R]{Page \thepage}
+
+\fancypagestyle{firststyle}
+{
+	 \renewcommand{\headrulewidth}{0pt}%
+   \fancyhf{}%
+   \fancyfoot[R]{Page \thepage}
+}
+
+\allowdisplaybreaks
+
+\begin{document}
+
+\thispagestyle{firststyle}
+
+\begin{center}
+\large{Exam with SOLUTION}\\
+%\large{Exam}\\
+\vspace{0.5cm}
+\large{\textbf{"`Introduction to Digital Work"'}}\\
+\vspace{0.5cm}
+\large{Prof. Dr. Gerit Wagner}\\
+\vspace{0.5cm}
+\large{Test exam}\\
+\end{center}
+\vspace{3cm}
+
+%Please note:
+%\begin{itemize}
+%\item The exam consists of 5 (five) parts, and you have 90 Minutes to complete it.
+%\item You can score 90 points overall (you have 1 minute for each point).
+%\item It is mandatory to use a pen with black or blue color. Anything written with a pencil will not be graded.
+%\item Points earned as part of the bonus exercises will be added to your score.
+%\item Auxiliaries: Dictionary (without annotations).
+%\end{itemize}
+%\vspace{2cm}
+
+
+\vfill
+
+\clearpage
+
+\subsection*{Part 1: Drivers of change in digital work (15 Points)}
+
+\textbf{A (7 points)} Indicate whether the following statements are true or false. (\textit{You receive points for correct answers and deductions for incorrect ones.})
+
+\begin{description}
+
+
+	\item[Statement 1] In digital work, research findings generally apply across different types of organizations.
+
+	\begin{multicols}{2}
+		\begin{itemize}[label={\Square}]
+			\item True
+			\item[\checkmark] False
+		\end{itemize}
+	\end{multicols}
+
+
+
+	\item[Statement 2] Cal Newport suggests that graduates looking for a job should always follow their passion.
+	
+	\begin{multicols}{2}
+		\begin{itemize}[label={\Square}]
+			\item True
+			\item[\checkmark] False
+		\end{itemize}
+	\end{multicols}
+
+
+	\item[Statement 3] The \textit{war for talent} allows highly qualified graduates to demand more flexible work arrangements, including remote work.
+
+	\begin{multicols}{2}
+		\begin{itemize}[label={\Square}]
+			\item[\checkmark] True
+			\item False
+		\end{itemize}
+	\end{multicols}
+
+
+	\item[Statement 4] Based on the hierarchy of evidence, data from an experiment should be considered as high-quality evidence, and data from an expert panel should be considered low-quality evidence.
+
+	\begin{multicols}{2}
+		\begin{itemize}[label={\Square}]
+			\item[\checkmark] True
+			\item False
+		\end{itemize}
+	\end{multicols}
+
+
+	\item[Statement 5] The \textit{New Work} paradigm assumes that workers have limited autonomy when reacting to the transformation of their work environments.
+
+	\begin{multicols}{2}
+		\begin{itemize}[label={\Square}]
+			\item True
+			\item[\checkmark] False
+		\end{itemize}
+	\end{multicols}
+
+	\item[Statement 6] Taylorism is a contemporary approach, which involves flat hierarchies.
+
+	\begin{multicols}{2}
+		\begin{itemize}[label={\Square}]
+			\item True
+			\item[\checkmark] False
+		\end{itemize}
+	\end{multicols}
+
+
+	\item[Statement 7 ] Raj Chetty's data suggest that upward mobility is declining in the US.
+
+	\begin{multicols}{2}
+		\begin{itemize}[label={\Square}]
+			\item[\checkmark] True
+			\item False
+		\end{itemize}
+	\end{multicols}
+
+
+\end{description}
+
+\textbf{B (8 points)} We considered different stages in the evolution of organizations, including the industrial and the digital revolution. Briefly summarize how these key stages affect the nature of work.
+
+\subsection*{Part 2: Digital work individually (20 Points)}
+
+\textbf{A (5 points)} Summarize the key categories of skills of the DigComp framework.
+
+\textcolor{red}{
+\begin{itemize}
+	\item Information and data literacy
+	\item Communication and collaboration
+	\item Digital content creation
+	\item Safety
+	\item Problem solving
+\end{itemize}	
+}
+
+\vspace{0.3cm}
+
+\textbf{B (5 points)} State the five core processes of Getting-Things-Done.
+
+\textcolor{red}{
+	\begin{itemize}
+		\item Collect
+		\item Process
+		\item Organize
+		\item Review
+		\item Do
+	\end{itemize}	
+}
+
+\vspace{0.3cm}
+\textbf{C (10 points)} Your colleagues at work are skeptical about Getting-Things-Done because it has not been tested scientifically. You agree with them, but you also remember that this method aligns with established principles from cognitive research. Select two principles and explain how they are implemented in Getting-Things-Done.
+
+\textcolor{red}{
+	\begin{itemize}
+		\item Externalizing memory: All information is entered into "the system"
+		\item Stigmergic action: All information is recorded in actionable form (next to dos)
+		\item Situated action: The selection of tasks (\textit{Do} phase) considers context (e.g., in action lists for the office, for calls, for admin tasks)
+		\item Adapting is more important than planning: Focus on guidelines for selecting tasks to work on (instead of putting everything in the calendar)
+		\item Bottom-up organizing: The process involves regularly revisiting and updating priorities (at different horizons)
+		\item Feedback: Tasks and projects are tracked explicitly, which can visualize progress and facilitate motivation
+	\end{itemize}	
+}
+
+\vspace{0.3cm}
+
+\subsection*{Part 3: Digital work in teams (30 Points)}
+
+\textbf{A (6 points)} In the case of Gitlab, we focused on a remote-first organization. Briefly summarize three of Gitlab's main principles for managing remote teams.
+
+\textcolor{red}{
+	\begin{itemize}
+		\item Handbook-first for transparent documentation
+		\item Asynchronous communication
+		\item Directly responsible individuals (DRI)
+		\item Explicit codification of company culture and values
+	\end{itemize}
+}
+
+\vspace{0.3cm}
+
+\textbf{B (8 points)} Your new colleague sends you a message informing you that he prefers to do all communication via Zoom. First, select and briefly outline a key benefit of using video conferences for communication. Afterward, highlight a situation in which e-mails could be preferred. Connect your position to prior theory.
+
+\textcolor{red}{
+	\begin{itemize}
+		\item Example benefits: Rich communication channel with immediate feedback, allowing participants to perceive reactions, emotions, and context. It is possible to ask for clarification and to develop shared ideas. Video conferences can help to build personal connection and trust, prevent personal conflict, and help to constructively resolve task-related conflicts.
+		\item Example situations: In highly distributed settings involving different time zones, email is more flexible. In other settings, it may be helpful to select words carefully (rehearsability) or to have the possibility of looking up information afterwards. As a form of asynchronous communication, e-mail can be particularly useful when information needs to be conveyed.
+		\item Prior theory: Media synchronicity theory (theory of situational awareness, media richness theory).
+	\end{itemize}
+}
+
+\newpage
+
+\textbf{C (6 points)} Your team works with git. In your repository, you have completed the following operations. Which changes are in the commit? Which changes are staged? Which changes are unstaged?
+
+\begin{verbatim}
+# modify README.md, src/utils.py, docs/setup.rst
+git add .
+git restore --staged README.md
+# modify README.md and docs/setup.rst
+git restore README.md
+git commit
+\end{verbatim}
+\vspace{0.3cm}
+
+\textcolor{red}{
+	\begin{itemize}
+		\item Unstaged: docs/setup.rst
+		\item Staged: None
+		\item Committed: src/utils.py, docs/setup.rst
+	\end{itemize}
+}
+
+\newpage
+
+\textbf{E (6 points)} Create the following git graph by using the short commands of the \textit{learngitbranching} tutorial (git commit, git checkout -b).
+
+\vspace{1cm}
+\begin{center}
+	\includegraphics[scale=0.6]{git-graph_2.png}
+\end{center}
+
+\textcolor{red}{Solution:}
+\begin{verbatim}
+git commit
+git branch dev
+git commit
+git checkout dev
+git commit
+git checkout main
+git merge dev
+git checkout dev
+git commit
+git checkout main
+git merge dev
+git checkout dev
+git commit
+\end{verbatim}
+
+\newpage
+
+\textbf{F (4 points)} Describe two challenges in Open-Source projects and potential measures to overcome them.
+
+\textcolor{red}{
+	Challenges:
+	\begin{itemize}
+		\item Conflicts and coordination problems in the absence of hierarchical control
+		\item Inefficient self-selection
+		\item Failure to establish inclusive and diverse communities
+		\item Conflicting values and goals among participants
+	\end{itemize}
+Solutions:
+	\begin{itemize}
+	\item Licenses to provide a legal framework and communicate community values
+	\item Code of conduct to define rules of conduct
+	\item Governance structures (authority to make decisions, leadership by example, responsibility for community development)
+	\item Supporting technology (often provided by the Git hoster)	
+\end{itemize}
+}
+
+\subsection*{Part 4: Digital work in crowds (15 Points)}
+
+\textbf{A (8 points)} Describe four possible ways in which digital entrepreneurs could use digital platforms, and provide an example for each one.
+
+\textcolor{red}{
+	\begin{itemize}
+		\item Crowdfunding to acquire captial, example: Kickstarter
+		\item Innovation contests to design marketing slogans and materials, example: 99designs
+		\item  Micro-task work to label data for machine-learning, example: Amazon Mechanical Turk
+		\item Knowledge work service platforms to develop or extend mobile applications, example: Upwork
+		\item Social networks to market the product, example: Facebook
+		\item Platforms to sell the product or service, example: Apple App-store
+	\end{itemize}
+}
+
+
+\vspace{0.3cm}
+\newpage
+\textbf{B (7 points)} You are part of a campaign aimed at informing digital entrepreneurs about the potential challenges of working on platforms. Based on the work of Cutolo and Kenney (2021), draft a short summary of two significant challenges and two possible responses.
+
+
+\textcolor{red}{
+	Challenges:
+	\begin{itemize}
+		\item Separation from customers
+		\item Dependence on ratings and algorithmic management
+		\item Entry of the platform owner (as a competitor offering similar products or services)
+		\item Changes in terms of participation by the platform owner
+		\item Restriction of platform access and delisting
+	\end{itemize}
+	Responses:
+	\begin{itemize}
+	\item Multihoming
+	\item Income diversification
+	\item Collective action
+	\item Government action
+	\end{itemize}
+}
+
+\subsection*{Part 5: Future of work (10 Points)}
+
+\textbf{A (6 points)} Give three skills that are unlikely to be replaced by artificial intelligence and provide an illustrative example for each one.
+
+\textcolor{red}{
+	\begin{itemize}
+		\item Communication
+		\item Contextual awareness
+		\item Emotional competence
+		\item Teaching
+		\item Connections
+		\item Ethical decision making
+	\end{itemize}
+}
+
+\vspace{0.3cm}
+\newpage
+\textbf{B (4 points)} Indicate whether the following statements are true or false. (\textit{You receive points for correct answers and deductions for incorrect ones.})
+\\
+\begin{description}
+	\item[Statement 1] Deontological approaches, such as Kant's categorical imperative, do not involve consideration of the potential consequences that a decision could have in a given situation.
+
+\begin{multicols}{2}
+	\begin{itemize}[label={\Square}]
+		\item[\checkmark] True
+		\item False
+	\end{itemize}
+\end{multicols}
+
+\item[Statement 2] Decisions based on utilitarian ethics could accept suffering of individuals when many others benefit.
+
+\begin{multicols}{2}
+	\begin{itemize}[label={\Square}]
+		\item[\checkmark] True
+		\item False
+	\end{itemize}
+\end{multicols}
+
+\item[Statement 3] Economic considerations related to the benefits and costs (potential harms) of workplace technology are rooted in Deontological ethics.
+
+\begin{multicols}{2}
+	\begin{itemize}[label={\Square}]
+		\item True
+		\item[\checkmark] False
+	\end{itemize}
+\end{multicols}
+
+\item[Statement 4] Jeremy Bentham's Panopticon is an utilitarian attempt to organize and justify surveillance.
+
+\begin{multicols}{2}
+	\begin{itemize}[label={\Square}]
+		\item[\checkmark] True
+		\item False
+	\end{itemize}
+\end{multicols}
+
+\end{description}
+
+\end{document}
