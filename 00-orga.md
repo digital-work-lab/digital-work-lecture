@@ -22,7 +22,16 @@ Mich vorstellen:
 
 ## Your expectations for the lecture "Introduction to Digital Work"
 
-<!-- 
+- Your background and perspective on digital work
+- Topics you are interested in
+- Challenges you grapple with
+- Work technologies that are exciting
+
+![bg right:45% width:550px](../assets/00_unsplash_office_space.jpeg)
+
+<!--
+"Die Vorlesung mit Leben füllen, Ihre Ideen mit einbringen
+
 Studiengänge?
 Semester?
 Wer plant den Master zu machen?
@@ -57,7 +66,6 @@ Nach Abschluss des Kurses haben die Studierenden ein Verständnis über die Ver�
 # How this lecture approaches digital work
 
 <!-- Philosophical foundations -->
-
 
 <!-- - Relying on scientific evidence is important. Understanding what practitioners do is important.  -->
 - In digital work, science and practice inform each other. 
@@ -95,20 +103,19 @@ not everyone will use the same system
 Learning: self-directed (additional resources), slides need to be complemented with notes (examples, ...)
  -->
 
-
 ---
 
 # Administration
 
 Contact: gerit.wagner@uni-bamberg.de
 
-Sessions: Wednesdays, 8.15-12.45, April 17 - July 21
-Location: WE5/04.014
+Sessions: Monday, 12.15-15.45, April 15 - July 15
+Location: WE5/05.003
 
-Consultation hours: Wednesday, 16-18 (by appointment)
+Consultation hours: by appointment
 Web: https://www.uni-bamberg.de/digital-work
 
-Materials: available via VC: https://vc.uni-bamberg.de/course/view.php?id=61244 (password: akah5She)
+Materials: available via VC: https://vc.uni-bamberg.de/course/view.php?id=68000 (password: 20idw24)
 
 <!-- 
 ---
@@ -123,9 +130,17 @@ WI/ISM, elective courses (**TODO : PO verlinken**)
 # Grades
 
 - Exam: 90 points (minimum required: 45 points)
-- Assignments: 12 points (in 3 parts)
+- Summaries for the exams
+	- You can submit summaries at lectures 5, 8, and 11.
+	- Each summary can be one page (A5).
+	- Contents have to be summarized.
+	- The summaries will be available during the exams.
 
 <!-- 
+If contents are not summarized, we may return them (with one opportunity to revise)
+
+- Assignments: 12 points (in 3 parts)
+
 bis zu 12 Punkte können vorher als Studienleistung eingebracht werden
 über die 90 Punkte der Klausur hinaus
 nach 45 Punkten in der Klausur werden die Bonuspunkte zugerechnet (cut bei 90 Punkten)
@@ -145,8 +160,30 @@ Literature
 - Materials will be made available via VC whenever possible.
 - Reading of complementary materials depends on your interest and ambition.
 
+---
+
+# You may also be interested in ...
+
+![bg right:35% width:400px vertical](../assets/images/logo)
+![bg right:35% width:400px vertical](../assets/images/logo-project.png)
+![bg right:35% width:400px](../assets/images/logo-theses.png)
+![bg right:35% width:400px](../assets/images/logo)
+
+## The open-source project (WI-Projekt)
+
+- Learn to code in Python and contribute to the CoLRev package
+- Practice the use of Git in a small-team setting
+
+First session: Thursday, 17. April, 12.15-13.45 (WE5 3.004)
+
+## Bachelor's theses
+
+- See information on the [process](https://digital-work-lab.github.io/theses/) and [open topics](https://digital-work-lab.github.io/theses/docs/topics.html)
+
 <!-- 
 ---
+
+Note: if the first session for the project is before the lecture, inform students about it via VC messages
 
 # Agenda
 
