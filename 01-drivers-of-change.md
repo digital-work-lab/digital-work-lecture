@@ -11,7 +11,16 @@ paginate: true
 
 ---
 
-## To understand changes in work, we need to understand changes in organizations.
+To understand **changes in work**, we need to understand **changes in organizations**.
+
+![bg right:55% Transaction cost illustration width:600px](../material/unsplash-organizational-change-office.jpeg)
+
+<!-- 
+- same building (previously a factory, today a coworking space)
+- major differences in worker protection: if a worker was injured 200 years ago, he was fired. If a worker is injured today, the manager may be fired.
+- the modern office almost looks like a church, focus on empowerment and well-being of workers
+- there are no production facilities, but books and digital devices (focus on knowledge work)
+-->
 
 --- 
 
@@ -50,10 +59,10 @@ Not covered: Peter Drucker etc.
 
 Named after Frederick Taylor (1865-1915)
 
-1. Use of the scientific method to study work and determine the most efficient way to perform specific tasks (instead of working based on common sense or rules of thumb).
-2. Match workers to their jobs based on capability and train them to work at maximum efficiency (instead of hiring generalists with broad skill sets).
-3. Monitor worker performance, and provide instructions to ensure that workers work in the most efficient way possible.
-4. Separate  the work of workers (efficient task completion) and managers (analysis, planning, training).
+1. Separate  the work of workers (efficient task completion) and managers (analysis, planning, training).
+2. Use of the scientific method to study work and determine the most efficient way to perform specific tasks (instead of working based on common sense or rules of thumb).
+3. Match workers to their jobs based on capability and train them to work at maximum efficiency (instead of hiring generalists with broad skill sets).
+4. Monitor worker performance, and provide instructions to ensure that workers work in the most efficient way possible.
 
 The principles have been criticized widely, but their influence on the organization of work is still visible.
 
@@ -73,7 +82,7 @@ Context: low skill requirements/workers can be replaced quickly
 
 # Competitive strategies move beyond mass production
 
-- Several markets are saturated by mass production in the 20th century. The demand for innovative, high quality products and services grows.
+- Several markets are saturated by mass production in the 20th century. Demand for innovative, high quality products and services grows.
 - Organizations adopt new competitive strategies (Porter 1985):
 	- Cost leadership strategy (e.g., involving automation technology, and efficiency measures like Lean or Sig Sigma)
 	- Differentiation strategy (e.g., focusing on high quality, and customer experience)
@@ -111,7 +120,7 @@ Digitalization as a key driver
 
 <!-- TBD: at one point, it may even be interesting to cover Institions (like banks, ... - trust and capital is important for work) -->
 
-Organizations are a key innovation: They are introduced as a legal entity that acquires capital, organizes work, and satisfies customer demands.
+Organizations are a key innovation: As a legal entity, organizations acquire capital, organize work, and satisfy customer demands.
 
 Different types of organizations often have different working cultures:
 
@@ -125,9 +134,10 @@ Different types of organizations often have different working cultures:
 <!--
 Can you think of examples?
 -> e.g., how they deal with innovation
-just think about how they would develop/introduce a website
 
-Still simplifying... but we could imagin that:
+Discuss how each organization would develop/introduce a website
+
+Still simplifying... but we could imagine that:
 
 - large industrial corporation: No website for 200 years, then the marketing department has hired programmers who are in charge of the website (since 20 years)
 - Public companies: public-relations with shareholders and investors are critical, all communication is controlled
@@ -141,18 +151,18 @@ Still simplifying... but we could imagin that:
 
 ---
 
-## Key question: Can we expect to work in larger or smaller organizations in the future? How can we explain the size of an organization?
+**Key question**: Can we expect to work in larger or smaller organizations in the future? How can we explain the size of an organization?
 
 ---
 
 # Transaction cost theory
 
-- Assumption: organizations can either organize work internally or source it from other organizations (make or buy decision).
+- Assumption: organizations can either organize work in institutional **hierarchies** or source it from the **market**.
 - Organizational size is then influenced by the balance of internal and external transaction costs.
 - Transaction costs include *search and information costs*, *bargaining and decision costs*, and *pricing and enforcement costs*.
-- Transaction costs vary across industries and value chains. Information and communication technology (ICT) generally leads to decreasing transaction costs.
+- Transaction costs vary across industries and value chains. Information and communication technology (ICT) often decrease transaction costs.
 
-![bg right:40% Transaction cost illustration width:400px](material/market-hierarchy-transaction-costs.png)
+![bg right:40% Transaction cost illustration width:400px](../material/market-hierarchy-transaction-costs.png)
 
 <!-- 
 Example: Getränkehandel - Lieferservice intern oder extern? - 
@@ -212,7 +222,7 @@ TODO : prepare a clear message:
 How the digital revolution changes the nature of work (examples):
 - Shift towards remote work
 - Shorter cycles for updating skills
-- AI augmenting or replacing jobs
+- Artificial Intelligence (AI) augments or replaces jobs
 
 <!-- 
 Shift towards remote work: interesting: 10-20 years ago, companies tried to persuade employees to "telework" (not successful). Today, employees ask for remote work.
@@ -262,7 +272,10 @@ TBD: disruptive inovation? / competition after market saturation / replacement o
 
 - Many professions increasingly involve knowledge work, and innovation is becoming a key driver of progress across industries
 - Examples of knowledge workers: consultants, programmers, researchers, lawyers, pilots, and doctors
-- The term "knowledge economy" is coined because knowledge is considered an essential input to labor and capital
+- Many of these professions aim to implement research innovations, adopt evidence-based practices, document compliance, and improve continuously
+- The term "knowledge economy" is coined to illustrate the the production of goods and services is dominated by knowledge-intensive activities
+
+![bg right:40% width:400px](../material/unsplash-knowledge-work.jpeg)
 
 <!-- 
 knowledge work: need for generalists (moving away from an extreme division of labor) - craftsmanship / thinking in processes/outside the box
@@ -294,17 +307,36 @@ Mention: a little bit of an outlook
 
 ---
 
+# The future of work: An economist's view
+
+Raj Chetty (Harvard University) presents results from large-scale econometric analyses, using census data and data provided by Facebook (big data).
+
+Findings:
+
+- Upward mobility is declining: "90% of children born in 1940 grew up to earn more than their parents. Today, only half of all children earn more than their parents did." (Opportunity Insight)
+- Implications for policy makers: Implement effective measures to reduce disparities (e.g., integrating disadvantaged people in small groups to interact with successful people).
+- Suggestion: It is not a zero-sum game (all competing for a limited number of jobs), but a cake that can grow through entrepreneurship, and innovation.
+
+<!--
+upward mobility: the "American Dream"
+
+entrepreneurship/innovation: many Einsteins lost
+
+ https://www.spiegel.de/ausland/harvard-oekonom-raj-chetty-kontakte-zu-reicheren-sind-der-entscheidende-faktor-fuer-den-aufstieg-a-c98f9b76-2422-41fa-8468-9cc139761c0b -->
+
+---
+
 # The future of work: A philosopher's view
 
-Key question: How should we work in the future, especially when automation will (partially) replace jobs?
+Key question: How *should* we work in the future, especially when automation will (partially) replace jobs?
 
-New work (Frithjof Bergmann, 1984) envisions new ways of working in the digital age. It is based on the values of autonomy, freedom, and participation.
+The *new work* paradigm (Frithjof Bergmann, 1984) envisions new ways of working in the digital age. It is based on the values of autonomy, freedom, and participation.
 
-New work consists of
+Three pillars of new work
 
 - Gainful employment
 - Smart consumption (self sufficiency)
-- Doing what you really, really *want*
+- Calling (doing what you really, really *want*)
 
 <!-- 
 Maslows pyramid of needs
@@ -336,38 +368,34 @@ https://de.wikipedia.org/wiki/Frithjof_Bergmann#New_Work
 
 ---
 
-# The future of work: An economist's view
-
-Raj Chetty (Harvard University) presents results from large-scale econometric analyses, using census data and data provided by Facebook (big data).
-
-Findings:
-
-- Upward mobility is declining: "90% of children born in 1940 grew up to earn more than their parents. Today, only half of all children earn more than their parents did." (Opportunity Insight)
-- Implications for policy makers: Implement effective measures to reduce disparities (e.g., integrating disadvantaged people in small groups to interact with successful people).
-- Suggestion: It is not a zero-sum game (all competing for a limited number of jobs), but a cake that can grow through entrepreneurship, and innovation.
-
-<!--
-upward mobility: the "American Dream"
-
-entrepreneurship/innovation: many Einsteins lost
-
- https://www.spiegel.de/ausland/harvard-oekonom-raj-chetty-kontakte-zu-reicheren-sind-der-entscheidende-faktor-fuer-den-aufstieg-a-c98f9b76-2422-41fa-8468-9cc139761c0b -->
-
----
-
 # The future of work: A realist's view
 
-Cal Newport (Professor of Computer Science at Georgetown University)
+![bg right:35% width:300px](../material/cal-newport.png)
 
-So good they can't ignore you (popular science book):
+Cal Newport (Professor, Georgetown University)
 
-- Rule #1: Don't follow your passion.
-- Rule #2: Be so good they can't ignore you.
-- Rule #3: Turn down a promotion. (Take control over your life.)
-- Rule #4: Think small, act big.
+So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love (popular science book):
+
+- Rule 1: Don't follow your passion.
+- Rule 2: Be so good they can't ignore you.
+- Rule 3: Turn down a promotion to take control.
+- Rule 4: Think small, act big.
+
+See [talk at 99U](https://www.youtube.com/watch?v=IIMu1PGbG-0)
 
 <!--
-Fokus: konkrete/individuelle Strategie 
+
+- why not follow your passion?
+
+	- no evidence that we have a lot of suitable passions in the first place
+	- passion as a by-product of skill (rather than a pre-condition)
+	- having a rare and valuable skill is necessary to gain autonomy
+	- satisfaction depends on autonomy, competence, and relatedness (Self-determination theory)
+
+- focused on knowledge work, 
+
+
+Fokus: konkrete/individuelle Strategie
 
 Passion is a side effect of skill/mastery
 
@@ -396,7 +424,8 @@ We covered:
 
 - The industrial revolutions and scientific management
 - The influence of more challenging competitive strategies
-- The differences in organizational settings
+- Facets of the digital revolution
+- Differences in organizational settings
 - Three approaches to thinking about the future of work
 
 <!-- 
