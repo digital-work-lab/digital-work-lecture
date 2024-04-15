@@ -14,10 +14,9 @@ Universität Bamberg
 
 <!-- 
 Mich vorstellen:
+- Regensburg (running)
 - Montreal
-- Regensburg
 -->
-
 ---
 
 ## Your expectations for the lecture "Introduction to Digital Work"
@@ -159,6 +158,10 @@ Literature
 - Literature and complementary materials will be listed at the end of each lecture.
 - Materials will be made available via VC whenever possible.
 - Reading of complementary materials depends on your interest and ambition.
+
+---
+
+![bg width:900px](../material/nightline.png)
 
 ---
 
