@@ -111,7 +111,7 @@ Contact: gerit.wagner@uni-bamberg.de
 Sessions: Monday, 12.15-15.45, April 15 - July 15
 Location: WE5/05.003
 
-Consultation hours: by appointment
+Consultation hours: [by appointment](https://calendly.com/gerit-wagner/30min) (individually or in small groups)
 Web: https://www.uni-bamberg.de/digital-work
 
 Materials: available via VC: https://vc.uni-bamberg.de/course/view.php?id=68000 (password: 20idw24)
