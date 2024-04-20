@@ -4,6 +4,8 @@ header: 'Introduction to Digital Work'
 theme: ub-theme
 ---
 
+<!-- _class: centered -->
+
 # Introduction to Digital Work
 
 Lecture, Bachelor
@@ -18,6 +20,8 @@ Mich vorstellen:
 - Montreal
 -->
 ---
+
+<!-- _class: centered -->
 
 ## Your expectations for the lecture "Introduction to Digital Work"
 

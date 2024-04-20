@@ -19,7 +19,10 @@ paginate: true
 
 ---
 
-Learning objective: Gain an overview of the discourse surrounding excellent work performance at the individual level. Understand the antecedents and facilitating conditions.
+# Learning objective
+
+- Gain an overview of the discourse surrounding excellent work performance at the individual level.
+- Understand the antecedents and facilitating conditions.
 
 ---
 
@@ -44,7 +47,7 @@ https://cacm.acm.org/blogs/blog-cacm/180512-is-there-a-10x-gap-between-best-and-
 
 DeMarco and Lister compared high and average performers in programming tasks:
 
-![width:900px center](material/DeMarco-Peopleware.png)
+![width:900px center](../material/DeMarco-Peopleware.png)
 
 Do the findings really tell us that having more space makes people more productive ???
 
@@ -87,7 +90,7 @@ Study of Adamczyk and Bailey (2004)
 - Focus on the effects of interruptions on emotional states and performance
 - Experiment to understand differences between interruptions occurring at coarse of fine breakpoints
 
-![bg right:45% width:400px](material/AdamczykBailey2004-fig1.png)
+![bg right:45% width:400px](../material/AdamczykBailey2004-fig1.png)
 
 <!--
 RCT/CONSORT
@@ -99,9 +102,9 @@ Introduce method: experiment (using a good example)
 
 ---
 
-## Findings (selected)
+# Findings (selected)
 
-![width:500px center](material/AdamczykBailey2004-fig4.png)
+![width:500px center](../material/AdamczykBailey2004-fig4.png)
 
 <!-- 
 
@@ -115,7 +118,9 @@ https://dl.acm.org/doi/abs/10.1145/1357054.1357072
 
 ---
 
-Break
+<!-- _class: centered -->
+
+# Break
 
 ---
 
@@ -144,7 +149,7 @@ https://en.wikipedia.org/wiki/Embodied_cognition
 
 Which aspects related to the body and environment could help to cause or facilitate work performance?
 
-![bg right:35% width:350px](material/Dynamical_Embodied_Model_of_Cognition.png)
+![bg right:35% width:350px](../material/Dynamical_Embodied_Model_of_Cognition.png)
 
 <!-- 
 (Varela et al. 1991)
@@ -193,7 +198,7 @@ our senses impact cognition
 
 # Stars may not necessarily shine as individuals
 
-![bg right:45% width:500px](material/Oettl2012-tab1.png)
+![bg right:45% width:500px](../material/Oettl2012-tab1.png)
 
 - Oettl (2012) analyzes the extent to which different types of academic stars influence the performance of their co-authors
 - For the analyses, scientists are categorized according to their helpfulness and productivity
@@ -211,7 +216,7 @@ Story/example: if we find that highly helpful researchers have highly productive
 - Instead, Oettl analyzes how the performance of co-authors changes when an academic star dies (a random event)
 - The quality of a co-author's output is heavily influenced by ties to scientists with high helpfulness and not by ties to scientists who are merely prolific.
 
-![bg right:40% width:450px](material/Oettl2012-fig1.png)
+![bg right:40% width:450px](../material/Oettl2012-fig1.png)
 
 <!-- 
 Innovation and helpfulness (as key impacts of star performers)

@@ -19,7 +19,7 @@ paginate: true
 
 ---
 
-Learning objectives: 
+# Learning objectives
 
 - Familiarize with the scientific discourse on sourcing knowledge-intensive services from platform markets.
 - Outline different ways in which literature review methods can contribute to scientific progress.
@@ -37,7 +37,7 @@ Platforms: Upwork, Toptal, Topcoder
 
 Examples of tasks: Programming, design, app development, data science, customer services, translation, and digital marketing.
 
-![bg right:35% width:400px](material/Snir2003-fig3.png)
+![bg right:35% width:400px](../material/Snir2003-fig3.png)
 
 Economic potential:
 
@@ -59,7 +59,7 @@ Concept groups as the typical query structure in database searches:
 - Use of controlled vocabulary (e.g., the [Medical Subject Headings, MeSH](https://meshb-prev.nlm.nih.gov/treeView))
 
 <!-- 
-![bg right:35% width:400px](material/MeSH-example.png)
+![bg right:35% width:400px](../material/MeSH-example.png)
 
 https://meshb-prev.nlm.nih.gov/treeView
 -->
@@ -119,13 +119,15 @@ The screen often involves specific inclusion and exclusion criteria.
 
 # Development of boundary conditions
 
-![width:800px center](material/methodology-short_1.png)
+![width:800px center](../material/methodology-short_1.png)
 
 ---
 
-![width:800px center](material/methodology-short_2.png)
+![width:800px center](../material/methodology-short_2.png)
 
 ---
+
+<!-- _class: centered -->
 
 # Break
 
@@ -141,7 +143,7 @@ The screen often involves specific inclusion and exclusion criteria.
 
 # Process model
 
-![width:800px center](material/WagnerPresterPare2021-fig2.png)
+![width:800px center](../material/WagnerPresterPare2021-fig2.png)
 
 Note : Example based on Wagner, Prester, Paré (2021)
 
@@ -200,7 +202,7 @@ Taken together, these steps can (partially) address the shortcomings of empirica
 
 # Model for selection decisions (preliminary)
 
-![width:750px center](material/PresterWagner2021-fig3.png)
+![width:750px center](../material/PresterWagner2021-fig3.png)
 
 Prester and Wagner (2021)
 

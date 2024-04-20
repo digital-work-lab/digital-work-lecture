@@ -141,15 +141,17 @@ TODO : check Table 1 for examples
 
 The "Job-Futuromat" is based on a task (dis)aggregation approach:
 
-![width:600px center](material/futuromat.png)
+![width:600px center](../material/futuromat.png)
 
 <!-- 
 - Man vs. machine (AI) discussions am Beispiel des [Job-Futuromat](https://job-futuromat.iab.de/) (Methode: Industrienahe Erhebung/Dekomposition in Kernanforderungen Analyse des Substituierbarkeitspotentials)
 - IAB Substituierbarkeitspotentiale.pdf
 -> give examples
  -->
+
 ---
 
+<!-- _class: centered -->
 
 # Break
 
@@ -174,7 +176,7 @@ TBD: "continuity of nature" assumption?
 - Customers want to pay extra for having contact with a human representative
 - Both AI and people will be employed at the same time for the same job
 
-![bg right:35% width:350px](material/robotic_waiter.jpg)
+![bg right:35% width:350px](../material/robotic_waiter.jpg)
 
 ---
 
@@ -185,7 +187,7 @@ TBD: "continuity of nature" assumption?
 - Machines will carry out the repetitive tasks
 - Humans would be supported by AI systems and become even more powerful
 
-![bg right:35% width:400px](material/healthcare.jpg)
+![bg right:35% width:400px](../material/healthcare.jpg)
 
 <!-- 
 (uncanny valley)
@@ -199,7 +201,7 @@ TBD: "continuity of nature" assumption?
 - Machines will be allowed to take over those industries, jobs or tasks that no human wants to engage with
 - People can choose to work in those jobs that give them a sense of satisfaction or fulfillment
 
-![bg right:35% width:350px](material/cleaning_robot.jpg)
+![bg right:35% width:350px](../material/cleaning_robot.jpg)
 
 ---
 
@@ -209,7 +211,7 @@ TBD: "continuity of nature" assumption?
 - People will be able to have body and mind enhancement
 - Elon Musk's Neuralink project: "A merger between biological and digital intelligence"
 
-![bg right:35% width:400px](material/neuralink.jpg)
+![bg right:35% width:400px](../material/neuralink.jpg)
 
 ---
 

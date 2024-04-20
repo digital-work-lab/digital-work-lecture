@@ -16,7 +16,8 @@ paginate: true
 <!-- _class: overview_part_3 -->
 
 ---
-Learning objectives: 
+
+# Learning objectives
 
 - Appreciate the key differences between software packages for collaborative content creation.
 - Understand the elements and operations of git.
@@ -36,14 +37,11 @@ What are suitable software packages and how would you select one?
 (e.g., live session/pair coding) 
 (lock vs. merge)-->
 
-
-
 ---
 
 # Focus session: Git
 
-
-![width:500px center](material/git-diffusion.png)
+![width:500px center](../material/git-diffusion.png)
 
 <!-- 
 - Windows, Linux, Github, ...
@@ -71,7 +69,7 @@ https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F
 
 # Git: Distributed version control
 
-![bg right:35% width:300px](material/git_distributed.png)
+![bg right:35% width:300px](../material/git_distributed.png)
 
 Advantages:
 
@@ -147,7 +145,7 @@ Dafür gibt Git uns die Möglichkeit, mit Branches zu arbeiten, also mit separat
 
 # The three sections of a Git project
 
-![bg right:35% width:400px](material/git_areas.png)
+![bg right:35% width:400px](../material/git_areas.png)
 
 Files can reside in three states:
 
@@ -407,7 +405,7 @@ The next page provides an overview of gitk (other Git GUIs have similar interfac
 
 ---
 
-![width:900px center](material/gitk-illustration_explained.png)
+![width:900px center](../material/gitk-illustration_explained.png)
 
 **Note**: More details about concepts like branches and head are provided in part 2 of this session.
 
@@ -522,7 +520,9 @@ TODO : how to test/demonstrate undoing an error?
 
 ---
 
-Recap: We have cloned a repository, added files to the working directory and staging area, created commits, applied patches, analyzed changes, and learned how to undo changes.
+<!-- _class: centered -->
+
+**Recap** We have cloned a repository, added files to the working directory and staging area, created commits, applied patches, analyzed changes, and learned how to undo changes.
 
 ---
 
@@ -558,7 +558,7 @@ example: git checkout main, git merge dev
 
 ---
 
-![width:800px center](material/git-branch-intro.png)
+![width:800px center](../material/git-branch-intro.png)
 
 <!-- 
 TBD: add reset/revert in demo!?
@@ -601,7 +601,7 @@ ESC to skip explanation
 
 To continue practicing, create the following tree, which resembles a typical setup of git branches.
 
-![width:400px center](material/git-branches.png)
+![width:400px center](../material/git-branches.png)
 
 <!-- 
 git commit
@@ -628,7 +628,9 @@ git merge dev
 
 ---
 
-Recap: We have learned how to create and merge branches.
+<!-- _class: centered -->
+
+**Recap** We have learned how to create and merge branches.
 
 <!-- 
 ---
@@ -646,8 +648,7 @@ Recap: We have learned how to create and merge branches.
 
 # What's in a commit?
 
-
-![width:800px center](material/git-commit.png)
+![width:800px center](../material/git-commit.png)
 
 <!--
 Author/date/message
@@ -667,7 +668,7 @@ Break
 -->
 ---
 
-![width:800px center](material/git-commit-initial.png)
+![width:800px center](../material/git-commit-initial.png)
 
 Note: `git cat-file -p sha` shows the contents of a git object.
 

@@ -22,7 +22,7 @@ style: |
 
 ---
 
-# Learning objectives:
+# Learning objectives
 
 - Identify and dissociate platforms supporting the work of digital entrepreneurs
 - Explain the different procedures for sourcing from online markets 
@@ -37,7 +37,7 @@ Our focus: Digital platforms as two-sided online markets involving supply and de
 - Platforms generally decrease transaction costs (e.g., search costs, bargaining costs, etc.)
 - Platforms lower the barrier for individuals to pursue entrepreneurial activity
  
-![bg right:48% width:600px](material/digital-platform.png)
+![bg right:48% width:600px](../material/digital-platform.png)
 
 <!-- 
 Lower transaction costs
@@ -55,7 +55,7 @@ https://www.ft.com/content/6d2fe2a8-722c-11e7-93ff-99f383b09ff9
 
 # Classification of platforms
 
-![bg right:48% width:600px](material/Gawer2014-fig1.png)
+![bg right:48% width:600px](../material/Gawer2014-fig1.png)
 
 - Gawer (2014) distinguishes three types of (technology) platforms and illustrates their key differences
 - We focus on digital platforms for entrepreneurial work: Entrepreneurs can use platforms as **demand-side actors** to orchestrate their value chain and they can use platforms as **supply-side actors** to sell their goods or services
@@ -81,7 +81,7 @@ C2C and non-commercial platforms, B2B platforms, **micro-entrepreneurial platfor
 
 # Entrepreneurial activities
 
-![width:500px center](material/Porter-value-chain.png)
+![width:500px center](../material/Porter-value-chain.png)
 
 <!-- 
 Porter's value chain provides an overview of acitivities that may be orchestrated on digital platforms.

@@ -4,7 +4,7 @@ watch: output/11-futures.html
 	docker run --rm --init -v "$(PWD)":/home/marp/app/ -e LANG=$LANG -p 37717:37717 marpteam/marp-cli -w 11-futures.md
 
 
-slides: output/00-orga.html output/01-drivers-of-change.html output/02-basics-of-individual-work.html output/03-personal-information-management.html output/04-excellence.html output/05-remote-teams.html output/06-communication.html output/07-collaborative-content-creation.html output/08-open-source.html output/09-platformization.html output/10-knowledge-intensive-services.html output/11-futures.html output/11-futures-notes.html output/12-ethics-notes.html output/13-exam-prep.html
+slides: output/00-orga.html output/01-drivers-of-change.html output/02-basics-of-individual-work.html output/03-personal-information-management.html output/04-excellence.html output/05-remote-teams.html output/06-communication.html output/07-collaborative-content-creation.html output/08-open-source.html output/09-platformization.html output/10-knowledge-intensive-services.html output/11-futures.html output/11-futures-notes.html output/12-ethics-notes.html output/12-ethics.html output/13-exam-prep.html
 
 UID := $(shell id -u)
 GID := $(shell id -g)
@@ -49,6 +49,9 @@ output/11-futures.html: 11-futures.md assets/theme.css
 
 output/11-futures-notes.html: 11-futures-notes.md assets/theme.css
 	docker run --rm --init -v "$(PWD)":/home/marp/app/ -e LANG=${LANG} -e MARP_USER="${UID}:${GID}" marpteam/marp-cli 11-futures-notes.md --theme-set assets/theme.css --html --allow-local-files -o output/11-futures-notes.html
+
+output/12-ethics.html: 12-ethics.md assets/theme.css
+	docker run --rm --init -v "$(PWD)":/home/marp/app/ -e LANG=${LANG} -e MARP_USER="${UID}:${GID}" marpteam/marp-cli 12-ethics.md --theme-set assets/theme.css --html --allow-local-files -o output/12-ethics.html
 
 output/12-ethics-notes.html: 12-ethics-notes.md assets/theme.css
 	docker run --rm --init -v "$(PWD)":/home/marp/app/ -e LANG=${LANG} -e MARP_USER="${UID}:${GID}" marpteam/marp-cli 12-ethics-notes.md --theme-set assets/theme.css --html --allow-local-files -o output/12-ethics-notes.html

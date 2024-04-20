@@ -23,7 +23,8 @@ https://www.theguardian.com/technology/2022/nov/10/elon-musk-scraps-twitter-work
 
 ---
 
-Learning objectives: 
+# Learning objectives
+
 - Explore GitLab's approach as a remote-first organization and familiarize with its handbook.
 - Appreciate the challenges and opportunities in settings where teams are highly dispersed.
 
@@ -32,6 +33,7 @@ digital newbie firms > digital-first firms > remote-first firms
 geographically dispersed...
 -->
 ---
+
 # The case of GitLab
 
 - GitLab: An open-source company that operates GitLab, a DevOps platform for software development
@@ -116,7 +118,7 @@ https://escalla.co.uk/blog-remote-working-5-benefits-challenges/
 ---
 # Evidence at the individual level (I)
 
-![width:800px center](material/CharalampousEtAl2018.png)
+![width:800px center](../material/CharalampousEtAl2018.png)
 
 Charalampous, M., Grant, C. A., Tramontano, C., & Michailidis, E. (2019). Systematically reviewing remote e-workers’ well-being at work: A multidimensional approach. _European 
 Journal of Work and Organizational Psychology_, _28_(1), 51-73.
@@ -130,18 +132,20 @@ Meta-analysis by Gajendran and Harrison (2007):
 - Beneficial effects on distal outcomes (e.g., job satisfaction, performance, turnover intention, role stress)
 - High-intensity telecommuting (> 2.5 days/week) is beneficial for (reduced) work-family conflict, but harms relationships with coworkers
 
-![bg right:40% width:500px](material/GajendranHarrison2007.png)
+![bg right:40% width:500px](../material/GajendranHarrison2007.png)
 
 ---
 # Evidence at the organizational level
 
-![width:800px center](material/HarkerMartin2012.png)
+![width:800px center](../material/HarkerMartin2012.png)
 
 Harker Martin, B., & MacDonnell, R. (2012). Is telework effective for organizations? A meta‐analysis of empirical research on perceptions of telework and organizational outcomes. _Management Research Review_, _35_(7), 602-616.
 
 ---
 
-Break
+<!-- _class: centered -->
+
+# Break
 
 ---
 # The GitLab handbook
@@ -202,7 +206,7 @@ TBD: which aspects should not be disclosed publicly?
 
 Meta-analysis by de Wit and Greer (2012):
 
-![width:500px center](material/dewitt2012.png)
+![width:500px center](../material/dewitt2012.png)
 
 ---
 
@@ -210,7 +214,8 @@ Meta-analysis by de Wit and Greer (2012):
 
 Meta-analysis by Breuer et al. (2016):
 
-![width:500px center](material/BreuerEtAl2016.png)
+![width:500px center](../material/BreuerEtAl2016.png)
+
 
 <!--
 Higher virtuality increases the effect of trust on team effectiveness (through higher perceived risk)

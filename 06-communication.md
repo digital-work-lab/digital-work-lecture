@@ -17,7 +17,20 @@ paginate: true
 
 ---
 
-## Choudhury et al. (2020): GitLab: work where you want, when you want
+# Learning objectives: 
+
+- Appreciate different facets and situational consideration related to communication in teams (e.g., conflict, interruption, inclusion).
+- Explain the selection of appropriate communication technologies based on extant theory (MST).
+
+<!--
+- Distinguish synchronous from asynchronous communication settings. / Distinguish forms of synchronous and asynchronous collaborative content creation and select appropriate technologies.
+-->
+
+---
+
+# GitLab: work where you want, when you want
+
+Read the case of Choudhury et al. (2020) and answer the following questions:
 
 - What are the **main challenges** that need to be addressed in all-remote companies?
 - What are the **key organizing principles** at GitLab?
@@ -60,17 +73,10 @@ TBD: does it fit with the discussion/summary? - adopt a communication/collaborat
 -->
 ---
 
-Break
+<!-- _class: centered -->
 
----
+# Break
 
-Learning objectives: 
-- Appreciate different facets and situational consideration related to communication in teams (e.g., conflict, interruption, inclusion).
-- Explain the selection of appropriate communication technologies based on extant theory (MST).
-
-<!--
-- Distinguish synchronous from asynchronous communication settings. / Distinguish forms of synchronous and asynchronous collaborative content creation and select appropriate technologies.
--->
 ---
 # Communication at GitLab
 
@@ -150,7 +156,7 @@ propositions...
 -->
 ---
 
-![width:800px center](material/Endsley-SA-model.jpg)
+![width:800px center](../material/Endsley-SA-model.jpg)
 
 ---
 
@@ -168,7 +174,7 @@ Media synchronicity theory (Dennis, Fuller, and Valacich, 2006):
 [[DennisFullerValacich2006]]
 -->
 
-![width:700px center](material/DennisFullerValacich2006-fig1.png)
+![width:700px center](../material/DennisFullerValacich2006-fig1.png)
 
 <!-- 
 ## MST: Communication processes

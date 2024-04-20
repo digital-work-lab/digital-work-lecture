@@ -15,7 +15,8 @@ paginate: true
 <!-- _class: overview_part_4 -->
 
 ---
-Learning objectives: 
+
+# Learning objectives
 
 - Learn how to **use the collaboration features of Git**, including forks, pull requests, merges, and issues
 - Apply them in a **realistic setting of multiple contributors** without requiring time to write code
@@ -46,7 +47,9 @@ Sumary: Key concepts and processes
 
 ---
 
-Break
+<!-- _class: centered -->
+
+# Break
 
 ---
 # Work in Open-Source projects
@@ -58,7 +61,7 @@ The well-known book of Raymond (1999), "The Cathedral and the Bazaar", compares 
 
 This distinction raises interesting questions on how effective work can be organized in the absence of hierarchical control.
 
-![bg right:35% width:300px](material/raymond-cathedral-bazaar.png)
+![bg right:35% width:300px](../material/raymond-cathedral-bazaar.png)
 
 <!-- 
 Transition: Teams to Crowds (lecture)

@@ -1,6 +1,6 @@
 ---
 marp: true
-header: 'IDW: Drivers of change in digital work'
+header: 'Introduction to Digital Work'
 theme: ub-theme
 paginate: true
 ---
@@ -10,6 +10,8 @@ paginate: true
 # Lecture 1: Drivers of change in digital work
 
 ---
+
+<!-- _class: centered -->
 
 To understand **changes in work**, we need to understand **changes in organizations**.
 
@@ -151,6 +153,8 @@ Still simplifying... but we could imagine that:
 
 ---
 
+<!-- _class: centered -->
+
 **Key question**: Can we expect to work in larger or smaller organizations in the future? How can we explain the size of an organization?
 
 ---
@@ -290,6 +294,8 @@ Information Volume, overload, and the need to rethink (grant book)
  -->
 
 ---
+
+<!-- _class: centered -->
 
 **Question**: If you could shape the future, how should the future of work look like?
 
@@ -457,5 +463,7 @@ Mention that this is actually how I organized the course structure
 -->
 
 ---
+
+<!-- _class: centered -->
 
 ## Next week: Digital work individually - Basics of individual digital work

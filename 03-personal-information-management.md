@@ -21,7 +21,7 @@ TODO : recap the last session (open questions)
 
 ---
 
-## Learning objective
+# Learning objective
 
 - Familiarize with key constructs of personal information management effectiveness and appreciate their association with job performance
 - Describe the key principles of second-brain approaches and create an interconnected knowledge repository
@@ -46,13 +46,13 @@ In the following: jump between the paper and the slides
 
 ---
 
-## Personal Information Management Effectiveness (PIME)
+# Personal Information Management Effectiveness
 
 - Effective personal information management (behaviors) as a key element to organizational knowledge management
 - Lack of insights on the dimensions of PIM and the effect of PIM on job performance
 - Foundational framework and model development
 
-![bg right:45% width:400px](material/HwangKettingerYi2015.png)
+![bg right:45% width:400px](../material/HwangKettingerYi2015.png)
 
 <!--
 - Background: Highlight that managing information is a key part of digital/knowledge work
@@ -61,9 +61,9 @@ Introduce elements of an empirical study (intro/background, model or theory/hypo
 
 ---
 
-## Conceptual framework
+# Conceptual framework
 
-![width:600px center](material/HwangKettingerYi2015-fig1.png)
+![width:600px center](../material/HwangKettingerYi2015-fig1.png)
 
 
 <!-- - Model development: the conceptual framework (figure 1), the synthesis of concepts from prior research (including definitions), the hypotheses (the full model) -->
@@ -72,13 +72,13 @@ Introduce elements of an empirical study (intro/background, model or theory/hypo
 
 # Development of PIM dimensions and sub-dimensions
 
-![width:550px center](material/HwangKettingerYi2015-fig2.png)
+![width:550px center](../material/HwangKettingerYi2015-fig2.png)
 
  <!-- based on prior literature -->
 
 ---
 
-## PIME: Methods
+# PIME: Methods
 
 - Survey of 352 knowledge workers employed in a healthcare insurance company in the US
 - Based on the following instrument (structured questions)
@@ -87,13 +87,13 @@ instruments: partially new
 (participants/demographics (population?), instruments: look at the appendix for an example)
  - Introduce variables (definitions and what students would expect in each dimension) -->
 
-![width:700px center](material/HwangKettingerYi2015-appendix.png)
+![width:700px center](../material/HwangKettingerYi2015-appendix.png)
 
 ---
 
-## PIME: Results
+# PIME: Results
 
-![width:800px center](material/HwangKettingerYi2015-fig4.png)
+![width:800px center](../material/HwangKettingerYi2015-fig4.png)
 
 <!-- 
 - Results: effect sizes (usually standardized/comparable - but better check)/significance (-> likely to result from chance?), explained variance, control variables (same as the other variable,s but ok if they are non-significant)
@@ -102,7 +102,7 @@ instruments: partially new
 
 ---
 
-## PIME: Questions
+# PIME: Questions
 
 - How do you interpret the results?
 - How would you rate the quality of evidence provided by the study?
@@ -157,6 +157,8 @@ Think of applications and practices that are important in your work but not list
 
 ---
 
+<!-- _class: centered -->
+
 # Break
 
 Download and install [obsidian](https://obsidian.md/) on your personal or CIP machine
@@ -200,7 +202,7 @@ Better: make students think about how they would re-use/retrieve the materials f
 # Second brain approaches
 
 
-![bg right:45% width:400px](material/Zettelkasten_paper_schematic.png)
+![bg right:45% width:400px](../material/Zettelkasten_paper_schematic.png)
 
 Historical origins: Luhmann's Zettelkasten (70 books, 400 papers)
 
@@ -247,7 +249,7 @@ https://neuron.zettel.page/heterarchy
 - Supports emergent data structures and associations ("second brain" approaches)
 - Based on open data standards (markdown) and extensible
 
-![bg right:50% width:600px](material/obsidian_screenshot.png)
+![bg right:50% width:600px](../material/obsidian_screenshot.png)
 
 <!-- 
 Illustrate markdown!
@@ -326,7 +328,7 @@ This is a typical case in which a second-brain approach, or an information heter
 
 ---
 
-## Setup
+# Setup
 
 To explore how second-brain approaches work in practice, we transfer Lisa's case to an obsidian vault (i.e., repository), using the files provided in the VC course.
 
@@ -336,7 +338,7 @@ As a preliminary step, download the materials, and move them to a new obsidian v
 
 ---
 
-## Step 1: Set goals
+# Step 1: Set goals
 
 <!-- Lisa’s plan is to participate in all mandatory courses (such as introductory ones), but in the following,  -->
 
@@ -354,7 +356,7 @@ Note: Now, we have a classical hierarchy. But the links/serendipity of obsidian 
 -->
 ---
 
-## Step 2: Assess the courses
+# Step 2: Assess the courses
 
 Next, we focus on the courses
 
@@ -370,7 +372,7 @@ The list of courses is provided (as markdown files). Read through the contents a
 
 ---
 
-## Step 3: Make plans
+# Step 3: Make plans
 
 Next, we would like to create a canvas as a more stable structural representation that connects to the different notes.
 
@@ -411,11 +413,17 @@ Brainstorm with students: how could bots support obsidian, e.g.,
 
 ---
 
-Short video: [How a software developer advocate uses Obsidian for work](https://www.youtube.com/watch?v=D7e1ud_Dk24)
+<!-- _class: centered -->
+
+# Short video
+
+[How a software developer advocate uses Obsidian for work](https://www.youtube.com/watch?v=D7e1ud_Dk24)
 
 --- 
 
-## Recap
+<!-- _class: centered -->
+
+# Recap
 
 - Familiarize with key constructs of personal information management effectiveness and appreciate their association with job performance
 - Describe the key principles of second-brain approaches and create an interconnected knowledge repository

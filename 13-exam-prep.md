@@ -14,27 +14,33 @@ paginate: true
 
 # Entrepreneurial work on digital platforms
 
-![width:900px center](material/platform-market-sides.PNG)
+![width:900px center](../material/platform-market-sides.PNG)
 
 ---
 
 # Entrepreneurial work on digital platforms
 
-![width:750px center](material/platforms-cycle.PNG)
+![width:750px center](../material/platforms-cycle.PNG)
 
 ---
 
 # Power-dependency: risks and responses
 
-![width:650px center](material/platform-power.PNG)
+![width:650px center](../material/platform-power.PNG)
 
 ---
 
 # Costs, risks, and uncertainty over time
 
-![width:600px center](material/CutoloKenney-fig3.png)
+![width:600px center](../material/CutoloKenney-fig3.png)
 
 In the long term, the cost, risks, and uncertainty for platform-dependent entprepreneurs may be higher compared to the traditional entrepreneurship model.
+
+---
+
+# Outlook: Courses you should be interested in
+
+TODO: advertise other teaching offers, including the project and theses
 
 ---
 
@@ -46,7 +52,7 @@ In the long term, the cost, risks, and uncertainty for platform-dependent entpre
 
 Keep in touch, keep up with digital work trends, and enjoy summer vacations!
 
-![bg right:50% width:400px](material/ressources.PNG)
+![bg right:50% width:400px](../material/ressources.PNG)
 
 <!-- 
 Recap / typical exam questions
