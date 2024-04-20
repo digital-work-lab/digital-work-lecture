@@ -1,15 +1,18 @@
-run : slides
-
-watch: output/11-futures.html
-	docker run --rm --init -v "$(PWD)":/home/marp/app/ -e LANG=$LANG -p 37717:37717 marpteam/marp-cli -w 11-futures.md
-
-
-slides: output/00-orga.html output/01-drivers-of-change.html output/02-basics-of-individual-work.html output/03-personal-information-management.html output/04-excellence.html output/05-remote-teams.html output/06-communication.html output/07-collaborative-content-creation.html output/08-open-source.html output/09-platformization.html output/10-knowledge-intensive-services.html output/11-futures.html output/11-futures-notes.html output/12-ethics-notes.html output/12-ethics.html output/13-exam-prep.html
-
 UID := $(shell id -u)
 GID := $(shell id -g)
 LANG := "en_CA.UTF-8"
 
+LATEX_REF_DOC = --template /assets/basic.tex
+
+PANDOC_CALL = docker run --rm \
+	--volume "`pwd`:/data" \
+	--volume "$(shell readlink -f ./assets)":/assets/ \
+	--user `id -u`:`id -g` \
+	pandoc/ubuntu-latex
+
+run : slides
+
+slides: output/00-orga.html output/01-drivers-of-change.html output/02-basics-of-individual-work.html output/03-personal-information-management.html output/04-excellence.html output/05-remote-teams.html output/06-communication.html output/07-collaborative-content-creation.html output/08-open-source.html output/09-platformization.html output/10-knowledge-intensive-services.html output/11-futures.html output/11-futures-notes.html output/12-ethics-notes.html output/12-ethics.html output/13-exam-prep.html output/teaching_notes/02_gtd.html
 
 output/00-orga.html: 00-orga.md assets/theme.css
 	docker run --rm --init -v "$(PWD)":/home/marp/app/ -e LANG=${LANG} -e MARP_USER="${UID}:${GID}" marpteam/marp-cli 00-orga.md --theme-set assets/theme.css --html --allow-local-files -o output/00-orga.html
@@ -59,3 +62,9 @@ output/12-ethics-notes.html: 12-ethics-notes.md assets/theme.css
 output/13-exam-prep.html: 13-exam-prep.md assets/theme.css
 	docker run --rm --init -v "$(PWD)":/home/marp/app/ -e LANG=${LANG} -e MARP_USER="${UID}:${GID}" marpteam/marp-cli 13-exam-prep.md --theme-set assets/theme.css --html --allow-local-files -o output/13-exam-prep.html
 
+output/teaching_notes/02_gtd.html: teaching_notes/02_gtd.md
+	$(PANDOC_CALL) \
+		teaching_notes/02_gtd.md \
+		--filter pandoc-crossref \
+		--citeproc \
+		--output output/teaching_notes/02_gtd.html

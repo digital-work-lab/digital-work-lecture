@@ -8,24 +8,22 @@ permalink: /
 
 # Introduction to digital work
 
-| No. | Session | Link to Slides |
-|-------------|---------|----------------|
-| 00 | Orga | [Session Slides](output/00-orga.html){: target="_blank"} |
-| 01 | Drivers of Change | [Session Slides](output/01-drivers-of-change.html){: target="_blank"} |
-| 02 | Basics of Individual Work | [Session Slides](output/02-basics-of-individual-work.html){: target="_blank"} |
-| 03 | Personal Information Management | [Session Slides](output/03-personal-information-management.html){: target="_blank"} |
-| 04 | Excellence | [Session Slides](output/04-excellence.html){: target="_blank"} |
-| 05 | Remote Teams | [Session Slides](output/05-remote-teams.html){: target="_blank"} |
-| 06 | Communication | [Session Slides](output/06-communication.html){: target="_blank"} |
-| 07 | Collaborative Content Creation | [Session Slides](output/07-collaborative-content-creation.html){: target="_blank"} |
-| 08 | Open Source | [Session Slides](output/08-open-source.html){: target="_blank"} |
-| 09 | Platformization | [Session Slides](output/09-platformization.html){: target="_blank"} |
-| 10 | Knowledge-Intensive Services | [Session Slides](output/10-knowledge-intensive-services.html){: target="_blank"} |
-| 11 | Futures | [Session Slides](output/11-futures.html){: target="_blank"} |
-| 12 | Ethics | [Session Slides](output/12-ethics.html){: target="_blank"} |
-| 13 | Exam Prep | [Session Slides](output/13-exam-prep.html){: target="_blank"} |
-
-
+| No. | Session and slides | Exercise | Teaching notes |
+|-----|--------------------|----------|----------------|
+| 00  | [Orga](output/00-orga.html){: target="_blank"} | - | - |
+| 01  | [Drivers of Change](output/01-drivers-of-change.html){: target="_blank"} | - | - |
+| 02  | [Basics of Individual Work](output/02-basics-of-individual-work.html){: target="_blank"} | - | [Note/GTD](output/teaching_notes/02_gtd.html){: target="_blank"} |
+| 03  | [Personal Information Management](output/03-personal-information-management.html){: target="_blank"} | - | - |
+| 04  | [Excellence](output/04-excellence.html){: target="_blank"} | - | - |
+| 05  | [Remote Teams](output/05-remote-teams.html){: target="_blank"} | - | - |
+| 06  | [Communication](output/06-communication.html){: target="_blank"} | - | - |
+| 07  | [Collaborative Content Creation](output/07-collaborative-content-creation.html){: target="_blank"} | - | - |
+| 08  | [Open Source](output/08-open-source.html){: target="_blank"} | - | - |
+| 09  | [Platformization](output/09-platformization.html){: target="_blank"} | - | - |
+| 10  | [Knowledge-Intensive Services](output/10-knowledge-intensive-services.html){: target="_blank"} | - | - |
+| 11  | [Futures](output/11-futures.html){: target="_blank"} | - | - |
+| 12  | [Ethics](output/12-ethics.html){: target="_blank"} | - | - |
+| 13  | [Exam Prep](output/13-exam-prep.html){: target="_blank"} | - | - |
 
 <!-- 
 
