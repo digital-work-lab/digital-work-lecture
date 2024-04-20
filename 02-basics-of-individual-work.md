@@ -99,7 +99,7 @@ Supports wider EU policy objectives: efforts to boost jobs, growth, and investme
 
 Development: consultation process involving experts, scientists, and stakeholders.
 
-![bg right:15% width:150px](material/EU-DigCompFigure.png)
+![bg right:15% width:150px](../material/EU-DigCompFigure.png)
 
 <!-- 
 Being digitally competent is more than being able to use the latest smart phone or computer software — it is about being able to use such digital technologies in a
@@ -113,7 +113,7 @@ two-year research and
 
 ---
 
-![width:900px center](material/EU-DigComp.png)
+![width:900px center](../material/EU-DigComp.png)
 
 <!-- 
 Surprised to find safety? -> typically considered an organizational task
@@ -139,13 +139,9 @@ Also ask: what is covered by the curriculum/where are the gaps?
 feed the most wanted items into next years course!)
 Self-assessment (mentimeter): where do you see your strengths/areas for improvement, what is still missing in the curriculum? -->
 
-
-
 ---
 
-
 # An empirical study
-
 
 Published by Weritz (2022) in *Administrative Sciences*.
 
@@ -153,7 +149,7 @@ Research question:
 
 - What are the critical future skills of employees in the digital workplace?
 
-![bg right:40% width:400px](material/Weritz2022-coverpage.png)
+![bg right:40% width:400px](../material/Weritz2022-coverpage.png)
 
 ---
 
@@ -167,13 +163,13 @@ Methods:
 	- (3) create aggregated dimensions.
 
 
-![bg right:47% width:500px](material/Weritz2022-sample-characteristics.png)
+![bg right:47% width:500px](../material/Weritz2022-sample-characteristics.png)
 
 ---
 
 Results (1)
 
-![width:800px center](material/Weritz2022-results-1.png)
+![width:800px center](../material/Weritz2022-results-1.png)
 
 <!-- 
 self-efficacy: Selbstwirksamkeitserwartung, kurz SWE, bezeichnet das Vertrauen einer Person, aufgrund eigener Kompetenzen gewünschte Handlungen auch in Extremsituationen erfolgreich selbst ausführen zu können.
@@ -183,14 +179,14 @@ self-efficacy: Selbstwirksamkeitserwartung, kurz SWE, bezeichnet das Vertrauen e
 
 Results (2)
 
-![width:800px center](material/Weritz2022-results-2.png)
+![width:800px center](../material/Weritz2022-results-2.png)
 
 ---
 
 
 Results (3)
 
-![width:800px center](material/Weritz2022-results-3.png)
+![width:800px center](../material/Weritz2022-results-3.png)
 
 <!-- 
 Implications: 
@@ -236,7 +232,7 @@ Research Question
 
 - What are the required competencies to lead in the digital business environment?
 
-![bg right:40% width:400px](material/GagnePratte2022-coverpage.png)
+![bg right:40% width:400px](../material/GagnePratte2022-coverpage.png)
 
 
 ---
@@ -244,16 +240,15 @@ Research Question
 Methods:
 
 - Expert panel to identify **overarching categories**: technical, managerial, social, and motivational
-- Search for relevant papers in three databases (ABI/INFORM, EBSCOhost, and Scopus) with the following search string*:
+- Search for relevant papers in three databases (ABI/INFORM, EBSCOhost, and Scopus) with the following search string (simplified):
 
-Digital literacy OR Skills OR Competencies OR Capabilities OR Capacities OR Digital Savvy **AND**
-Manager OR Leader OR CEO OR CIO OR CTO OR Top Management OR Director OR Executive **AND**
-Digital transformation OR Digital Era OR Digital Context OR Digitalization OR Digitalization OR Digitization OR Digitisation OR Smart Company
+(Digital literacy OR Skills OR Competencies OR Capabilities OR Capacities OR Digital Savvy) **AND**
+(Manager OR Leader OR CEO OR CIO OR CTO OR Top Management OR Director OR Executive) **AND**
+(Digital transformation OR Digital Era OR Digitalization OR Digitisation OR Smart Company)
 
 - Screening for relevant papers: Out of 459 papers, 76 are retained in the final sample
 - Content analysis to synthesize competencies based on the overarching categories 
 
-Note: The search string is simplified.
 
 <!-- 
 Search string: illustrate ven-diagram (blackboard)
@@ -264,7 +259,7 @@ Search string: illustrate ven-diagram (blackboard)
 
 ### Results  on "Digital Technical Competencies and Abilities" (extract)
 
-![width:800px center](material/Gagné-Pratte2022.png)
+![width:800px center](../material/Gagne-Pratte2022.png)
 
 <!-- 
 - Very comprehensive
@@ -385,7 +380,7 @@ CREATE A TABLE? (examples: DigComp, Weritz, Pratte)
 
 ---
 
-![bg right:50% width:400px](material/hierarchy-of-evidence.svg)
+![bg right:50% width:400px](../material/hierarchy-of-evidence.svg)
 
 ## Research designs
 
@@ -508,7 +503,7 @@ TBD:
 - There are no scientific methods for organizing digital work.
 - GoogleTrends provides an indication of key methods.
 
-![Google trends overview of methods width:600px center](material/google-trends_GTD_etc.png)
+![Google trends overview of methods width:600px center](../material/google-trends_GTD_etc.png)
 
 <!-- 
 No "comprehensive methods"
@@ -575,7 +570,7 @@ How do we treat messengers, voice mail, files on your harddrive, links in your b
 
 # GTD: Processing and organizing
 
-![width:620px center](material/GTD-processing-and-organizing.png)
+![width:620px center](../material/GTD-processing-and-organizing.png)
 
 
 <!--
@@ -622,13 +617,13 @@ Decide based on the four criteria model:
 mention: agenda
 interesting: priority last?
 
-![](material/GTD_Abbildung_3.png)
+![](../material/GTD_Abbildung_3.png)
 
-![](material/GTD_Abbildung_5.png)
+![](../material/GTD_Abbildung_5.png)
 
-![](material/GTD_Abbildung_6.png)
+![](../material/GTD_Abbildung_6.png)
 
-![](material/GTD_Abbildung_7.png)
+![](../material/GTD_Abbildung_7.png)
 
 Schritt 1 „Collecting“:
 
@@ -673,6 +668,10 @@ Für den Review täglich oder wöchentlich sollte mindestens 60-90 Minuten einge
 
 ---
 
+Excercise...
+
+---
+
 [David Allen's TED Talk: "Are your out of your mind?"](https://www.ted.com/talks/david_allen_are_you_out_of_your_mind)
 
 <!--
@@ -703,7 +702,7 @@ Almost no scientific evidence, but Heylighen and Vidal (2008) discuss cognitive 
 - Organizing from the bottom-up
 - Using feedback to keep on track (checking tasks done)
 
-![bg right:38% width:400px](material/GTD_Abbildung_7.png)
+![bg right:38% width:400px](../material/GTD_Abbildung_7.png)
 
 <!-- 
 sigmergy: indirect coordination (through traces in the environment)
@@ -807,6 +806,13 @@ Recap
 - Appreciate processes and principles of organizing digital work effectively
 
 ---
+
+<style scoped>
+p {
+    padding-left: 36px;
+    text-indent: -36px;
+}
+</style>
 
 ## Materials
 

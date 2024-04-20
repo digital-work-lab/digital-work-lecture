@@ -270,7 +270,15 @@ e.g., virtual assistants (4hour work week) / ability to create the impression of
 
 ---
 
+<style scoped>
+p {
+    padding-left: 36px;
+    text-indent: -36px;
+}
+</style>
+
 # Materials
 
-Khanna, T., & Palepu, K. G. (2010). Winning in emerging markets: A road map for strategy and execution. Harvard Business Press.
-Gawer, A. (2014). Bridging differing perspectives on technological platforms: Toward an integrative framework. Research policy, 43(7), 1239-1249.
+Khanna, T., & Palepu, K. G. (2010). Winning in emerging markets: A road map for strategy and execution. *Harvard Business Press*.
+
+Gawer, A. (2014). Bridging differing perspectives on technological platforms: Toward an integrative framework. *Research Policy*, 43(7), 1239-1249.

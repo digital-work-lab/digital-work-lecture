@@ -143,6 +143,13 @@ https://github.com/marketplace/what-the-diff
 -->
 ---
 
+<style scoped>
+p {
+    padding-left: 36px;
+    text-indent: -36px;
+}
+</style>
+
 # Materials
 
-Raymond, E. (1999). The cathedral and the bazaar. Knowledge, Technology & Policy, 12(3), 23-49.
+Raymond, E. (1999). The cathedral and the bazaar. *Knowledge, Technology & Policy*, 12(3), 23-49.

@@ -422,8 +422,15 @@ Short video: [How a software developer advocate uses Obsidian for work](https://
 
 ---
 
+<style scoped>
+p {
+    padding-left: 36px;
+    text-indent: -36px;
+}
+</style>
+
 ## Material
 
 Ahrens, S. (2022). How to take smart notes: One simple technique to boost writing, learning and thinking. Sönke Ahrens.
 
-Hwang, Y., Kettinger, W. J., & Yi, M. Y. (2015). Personal information management effectiveness of knowledge workers: conceptual development and empirical validation. European Journal of Information Systems, 24(6), 588-606.
+Hwang, Y., Kettinger, W. J., & Yi, M. Y. (2015). Personal information management effectiveness of knowledge workers: conceptual development and empirical validation. *European Journal of Information Systems*, 24(6), 588-606.

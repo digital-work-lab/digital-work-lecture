@@ -259,16 +259,23 @@ the Book I have - billion-dollar coach?
 
 -->
 
+<style scoped>
+p {
+    padding-left: 36px;
+    text-indent: -36px;
+}
+</style>
+
 # Materials
 
-Adamczyk, P. D., & Bailey, B. P. (2004). If not now, when? The effects of interruption at different moments within task execution. In Proceedings of the SIGCHI conference (pp. 271-278).
+Adamczyk, P. D., & Bailey, B. P. (2004). If not now, when? The effects of interruption at different moments within task execution. In *Proceedings of the SIGCHI Conference* (pp. 271-278).
 
 Davenport, Thomas; Beck, John (2001). The Attention Economy: Understanding the New Currency of Business. Cambridge: MA: Harvard Business School Press.
 
 DeMarco, T., & Lister, T. (2013). Peopleware: productive projects and teams. Addison-Wesley.
 
-O’Boyle Jr, E., & Aguinis, H. (2012). The best and the rest: Revisiting the norm of normality of individual performance. Personnel Psychology, 65(1), 79-119.
+O’Boyle Jr, E., & Aguinis, H. (2012). The best and the rest: Revisiting the norm of normality of individual performance. *Personnel Psychology*, 65(1), 79-119.
 
-Oettl, A. (2012). Reconceptualizing stars: Scientist helpfulness and peer performance. Management Science, 58(6), 1122-1140.
+Oettl, A. (2012). Reconceptualizing stars: Scientist helpfulness and peer performance. *Management Science*, 58(6), 1122-1140.
 
 Varela, F. J., Thompson, E., & Rosch, E. (1991). The embodied mind. MIT press.

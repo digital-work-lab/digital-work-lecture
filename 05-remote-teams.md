@@ -231,6 +231,14 @@ Choudhury, P., Crowston, K., Dahlander, L., Minervini, M. S., & Raghuram, S. (20
 Lookup terms that you don't know.
 -->
 ---
+
+<style scoped>
+p {
+    padding-left: 36px;
+    text-indent: -36px;
+}
+</style>
+
 ## Materials
 
 Breuer, C., Hüffmeier, J., & Hertel, G. (2016). Does trust matter more in virtual teams? A meta-analysis of trust and team effectiveness considering virtuality and documentation as moderators. _Journal of Applied Psychology_, _101_(8), 1151.

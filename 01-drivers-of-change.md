@@ -302,7 +302,6 @@ Mention: a little bit of an outlook
 - challenges: Robots/AI/Automation taking care of many tasks (especially repetitive ones)
 - What would the ideal world look like, what values would be important?
 - How would you make it happen for yourself? Follow your passion?
-
 -->
 
 ---
@@ -321,6 +320,8 @@ Findings:
 upward mobility: the "American Dream"
 
 entrepreneurship/innovation: many Einsteins lost
+
+There is saturation in average job prospects (compared to previous generations, across the working population)
 
  https://www.spiegel.de/ausland/harvard-oekonom-raj-chetty-kontakte-zu-reicheren-sind-der-entscheidende-faktor-fuer-den-aufstieg-a-c98f9b76-2422-41fa-8468-9cc139761c0b -->
 

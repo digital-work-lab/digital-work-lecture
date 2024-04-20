@@ -260,12 +260,22 @@ Gladwell: Journalist with honorary doctorates and best-sellers: outliers was nr1
 
 ---
 
+<style scoped>
+p {
+    padding-left: 36px;
+    text-indent: -36px;
+}
+</style>
+
 # Materials
 
-Atasoy, H., Banker, R. D., & Pavlou, P. A. (2021). Information technology skills and labor market outcomes for workers. Information Systems Research, 32(2), 437-461.
-Deranty, J. P., & Corbin, T. (2022). Artificial Intelligence and work: a critical review of recent research from the social sciences. AI & Society, 1-17.
-Gustein, A. J., & Sviokla, J. (7). skills that aren’t about to be automated. Harvard Business Review.
-Mithas, S., & Whitaker, J. (2007). Is the world flat or spiky? Information intensity, skills, and global service disaggregation. Information Systems Research, 18(3), 237-259.
+Atasoy, H., Banker, R. D., & Pavlou, P. A. (2021). Information technology skills and labor market outcomes for workers. *Information Systems Research*, 32(2), 437-461.
+
+Deranty, J. P., & Corbin, T. (2022). Artificial Intelligence and work: a critical review of recent research from the social sciences. *AI & Society*, 1-17.
+
+Gustein, A. J., & Sviokla, J. (7). skills that aren’t about to be automated. *Harvard Business Review*.
+
+Mithas, S., & Whitaker, J. (2007). Is the world flat or spiky? Information intensity, skills, and global service disaggregation. *Information Systems Research*, 18(3), 237-259.
 
 <!--
 TBD: blockchain networks/DAO and the implications/opportunities for the future of work (trust, disintermediation/direct interaction with objects)

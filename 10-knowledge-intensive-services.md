@@ -224,7 +224,6 @@ It is important to recognize that despite many studies (and many significant fin
 - Digital platforms for knowledge-intensive services: Boundary conditions, process, and model of contracting decisions.
 - Literature review contributions: Synthesizing prior work across heterogeneous terminology and seemingly incompatible process descriptions. Aggregating evidence to overcome the shortcomings of individual empirical studies.
 
----
 
 <!-- - Role of the platform provider (Gol / central vs decentral) 
 
@@ -237,18 +236,26 @@ It is important to recognize that despite many studies (and many significant fin
 https://freelancermania.com/hourly-fixed-price-upwork/#:~:text=On%20one%20hand%2C%20you%20can,be%20delivered%20at%20specific%20deadlines.
 -->
 
+---
+
+<style scoped>
+    p {
+        padding-left: 36px;
+    text-indent: -36px;
+}
+</style>
+
 ## Materials
 
 Card, N. A. (2015). Applied meta-analysis for social science research. Guilford Publications.
 
-Clemens, M.A., 2011. Economics and Emigration: Trillion-dollar Bills on the Sidewalk? J. Econ. Perspect. 25 (3), 83–106.
+Clemens, M.A., 2011. Economics and Emigration: Trillion-dollar Bills on the Sidewalk? *Journal of Economic Perspectives* 25 (3), 83–106.
 
-Lin, M., Lucas Jr, H. C., & Shmueli, G. (2013). Research commentary—too big to fail: large samples and the p-value problem. Information Systems Research, 24(4), 906-917.
+Lin, M., Lucas Jr, H. C., & Shmueli, G. (2013). Research commentary—too big to fail: large samples and the p-value problem. *Information Systems Research*, 24(4), 906-917.
 
-Manyika, J., Lund, S., Robinson, K., Valentino, J., Dobbs, R., 2015. A Labor Market that Works: Connecting Talent with Opportunity in the Digital Age. McKinsey
-Global Institute.
+Manyika, J., Lund, S., Robinson, K., Valentino, J., Dobbs, R., 2015. A Labor Market that Works: Connecting Talent with Opportunity in the Digital Age. McKinsey Global Institute.
 
-Prester, J., & Wagner, G. (2021). Contracting Decisions on Digital Markets for Knowledge Work Services: A Qualitative Systematic Review. International Conference on Information Systems.
+Prester, J., & Wagner, G. (2021). Contracting Decisions on Digital Markets for Knowledge Work Services: A Qualitative Systematic Review. In: *Proceedings of the International Conference on Information Systems*.
 
 <!--
 Exercise:

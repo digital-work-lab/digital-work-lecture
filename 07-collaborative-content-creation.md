@@ -630,6 +630,7 @@ git merge dev
 
 Recap: We have learned how to create and merge branches.
 
+<!-- 
 ---
 
 # Bonus part 2
@@ -639,6 +640,7 @@ Recap: We have learned how to create and merge branches.
 - Develop contents
 - Create a pull request (available in the original repository, not the fork)
 - Assign the maintainer and respond to feedback
+-->
 
 ---
 

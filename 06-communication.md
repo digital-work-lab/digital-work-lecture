@@ -218,7 +218,16 @@ https://coachbetter.tv/the-difference-between-communication-cooperation-coordina
 
 Read [external communication](https://about.gitlab.com/handbook/communication/#external-communication)
 -->
+
 ---
+
+<style scoped>
+p {
+    padding-left: 36px;
+    text-indent: -36px;
+}
+</style>
+
 # Material
 
 Moorman, C. and Hinkfuss, K. (2023). Managing the cultural pitfalls of hybrid work. MIT Sloan Management Review. [link](https://sloanreview.mit.edu/article/managing-the-cultural-pitfalls-of-hybrid-work/)
