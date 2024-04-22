@@ -9,7 +9,10 @@ Next week: start at 14.00 (stud. Vollversammlung)
 
 ## Recap
 
-- Cal Newport: Deep work
+- Drivers of change: historical and organizational context (scientific management, which was shaped by the industrial revolutions and still influences the world of digital work)
+- Change of organizations and work: facets of organization types, transaction costs and the possibility of smaller companies/freelances, war for talent and knowledge economy
+- Different views on how digital work is or should change. Economists, New Work, Realist on how to find job satisfaction
+- Cal Newport: Deep work - time blocking, avoid distraction, do the hard thinking
 
 ## Warm-up question
 
@@ -52,7 +55,7 @@ Show Ven-Diagram for the AND-OR terms
 
 - Highlight that priority is the last criterion (discuss how that makes sense)
 
-# GTD
+# GTD Exercise
 
 Notes:
 
@@ -84,6 +87,8 @@ Expected outcome:
 
 - Inbox
 - Action lists
+- Agenda
+- To read, Calls, ...
 - Project list
 - Checklists
 - Waiting for
@@ -95,9 +100,7 @@ After groups have completed the initial setup, ask them **whether they would add
 
 Discuss whether the e-mail, phone, workspace would require any particular setup for GTD.
 
-Possible outcomes:
-
-- E-Mail: waiting-for (self-cc)
+Possible outcomes: E-Mail: waiting-for (self-cc)
 
 ## Organizing (few days before the semester): 5 min
 
@@ -114,7 +117,27 @@ Students are provided with input material to process according to the GTD workfl
 
 **Show the GTD workflow** slide using the beamer.
 
+Discuss:
 
+- how items were processed.
+- the digital setup (inbox-directories on file-shares, waiting-for and self-cc in email)
+- tickler setups (43 folders) and importance of having material activated at a given time (e.g., )
+
+## Weekly review (Friday)
+
+How would we conduct the review?
+
+1. Review inbox and other lists (action, calendar, waiting-for, ...)
+2. Review the week (anything to change?)
+3. Prioritize (stop responding, start acting, think strategically, be aware of your workload/priorities when committing to new projects)
+
+Cover different levels of planning:
+
+- Projects
+- Areas of focus and acountability
+- One- to two-year goals and objectives
+- Three- to five-year vision 
+- Purpose and principles
 
 <!-- 
 
