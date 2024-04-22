@@ -96,6 +96,19 @@ Wiederholungssession
 Fragesession
 - Ihre Fragen
 
+Summary:
+- hist.+org. Entwicklung
+- Skill classifications, GTD (with cognitive principles)
+- PIME and second-brain appraoches
+- Excellence: theory of embodied cognition + Influences
+- Remote work: effects, role of trust and conflict, Gitlab examples
+- Communication: MST, model of situational awareness
+- Git: manipulating branch trees and areas
+- OpenSource work principles (Raymond) + collaboration game (control and coordination in operations)
+- Entrepreneurial work: contexts and procedures (power of platform owners)
+- Sourcing knowledge intensive services: boundaries, challenges, process
+- Futures of work summaries + substitution and disaggregation
+- Ethics: examples and theories
 
 <!-- 
 
