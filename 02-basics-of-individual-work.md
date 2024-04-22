@@ -20,7 +20,7 @@ Start: summarize last session, summarize the main things that students would lik
 -->
 ---
 
-## Learning objectives:
+# Learning objectives
 
 - Familiarize with skill classifications related to digital work.
 - Apply and adapt Getting-Things-Done as an exemplary method.
@@ -30,11 +30,13 @@ Start: summarize last session, summarize the main things that students would lik
 
 --- 
 
-## Warm-up questions
+<!-- _class: centered -->
+
+# Warm-up question
 
 - What's different about digital? Which skills do we need for digital work?
 
-<!-- 
+<!--
 TODO : how to organize the skill reponses?
 
 
@@ -67,12 +69,12 @@ digital systems are often designed in a robust way/self-explanatory...
 
 --- 
 
-## Frameworks for digital work competences
+# Digital work competences
+
+Frameworks that *describe and classify* digital competences (selection):
 
 - Digital competence framework for EU citizens
-
 - Multiple case study and grounded theory by Weritz (2022)
-
 - Review of prior research: Gagné-Pratte et al. (2022)
 
 <!--
@@ -128,7 +130,11 @@ Find examples/challenges/methods for each item
 
 ---
 
-**Exercise**: Complete the [DigComp](https://digcomp.digital-competence.eu/) test and reflect on the skill frameworks. Where do your strengths lie? Where are potential gaps?
+<!-- _class: centered -->
+
+# Exercise
+
+Complete the [DigComp](https://digcomp.digital-competence.eu/) test and reflect on the skill frameworks. Where do your strengths lie? Where are potential gaps?
 
 <!-- 
 TODO : prepare mentimeter
@@ -153,7 +159,7 @@ Research question:
 
 ---
 
-Methods:
+**Methods**
 
 - Multiple case studies in nine multi-national corporations
 - Interviews with open questions
@@ -167,7 +173,7 @@ Methods:
 
 ---
 
-Results (1)
+**Results (1)**
 
 ![width:800px center](../material/Weritz2022-results-1.png)
 
@@ -177,14 +183,14 @@ self-efficacy: Selbstwirksamkeitserwartung, kurz SWE, bezeichnet das Vertrauen e
 
 ---
 
-Results (2)
+**Results (2)**
 
 ![width:800px center](../material/Weritz2022-results-2.png)
 
 ---
 
 
-Results (3)
+**Results (3)**
 
 ![width:800px center](../material/Weritz2022-results-3.png)
 
@@ -196,7 +202,11 @@ Implications:
 
 ---
 
-**Question**: What are the strengths and limitations of the study?
+<!-- _class: centered -->
+
+# Question
+
+What are the strengths and limitations of the study?
 
 <!-- 
 TODO : add Implications for practice
@@ -204,12 +214,14 @@ TODO : add Implications for practice
 
 ---
 
-Strengths:
+**Strengths**
+
 - Empirical data collected from key informants
 - Covers different organizations (multiple cases)
 - Transparent reporting of the data analysis
 
-Limitations:
+**Limitations**
+
 - Focused on large corporations, maybe startups have different requirements
 - Informants recruited exclusively from C-level positions
 - Data analysis completed by one individual author (other authors may reach different conclusions)
@@ -226,7 +238,7 @@ Potential criticism
 
 # A review of prior research
 
-Published by Gagné-Pratte, Mosconi, and Freitosa Jorge (2022)
+Published by Gagné-Pratte et al. (2022)
 
 Research Question
 
@@ -234,10 +246,9 @@ Research Question
 
 ![bg right:40% width:400px](../material/GagnePratte2022-coverpage.png)
 
-
 ---
 
-Methods:
+**Methods**
 
 - Expert panel to identify **overarching categories**: technical, managerial, social, and motivational
 - Search for relevant papers in three databases (ABI/INFORM, EBSCOhost, and Scopus) with the following search string (simplified):
@@ -357,12 +368,12 @@ Overall: 10 items, including:
 
 ---
 
-|Dimension   | DigComp (EU)  | Weritz (2022)  | Gagné-Pratte et al. (2022)   |   
-|---|---|---|---|
-| Focus  |   |   |   |   
-| Research design |   |   |   |   
-| Principal findings | | | 
-| Target audience and purpose  |   |   |   |   
+|Dimension   | <div style="width:270px">DigComp (EU)</div>  | <div style="width:270px">Weritz (2022)</div>  | <div style="width:290px">Gagné-Pratte et al. (2022) </div> |   
+|-------------|---|---|---|
+| Focus  <br><br>|   |   |   |   
+| Research design<br><br> |   |   |   |   
+| Principal findings <br><br><br><br> | | | 
+| Target audience <br><br> |   |   |   |   
 
 <!-- 
 TBD: comparisons between frameworks?
@@ -382,7 +393,7 @@ CREATE A TABLE? (examples: DigComp, Weritz, Pratte)
 
 ![bg right:50% width:400px](../material/hierarchy-of-evidence.svg)
 
-## Research designs
+# Research designs
 
 The *hierarchy of evidence* provides a useful point of reference to compare research designs 
 
@@ -399,7 +410,9 @@ It is important to evaluate the method. "Published by scientists" is not enough
 
 ---
 
-Recap and break
+<!-- _class: centered -->
+
+# Recap and break
 
 <!-- 
 You should
@@ -413,23 +426,23 @@ Dont memorize all the categories and abilities
 
 ---
 
-**Warm-up question**: Which methods do you know for organizing work, time, priorities, or flows of information?
+<!-- _class: centered -->
+
+# Warm-up question 
+
+Which methods do you know for organizing work, time, priorities, or flows of information?
 
 ---
 
 # Overview of methods
 
- - Pomodoro (management of time and concentration)
-
- - Eisenhower matrix (priorities)
-
- - Checklists or standard operating procedures (repetitive and critical tasks)
-
- - Bullet journaling (priorities and tracking habits)
-
- - Getting-things-done (time, priorities, and information flows)
-
- - Emergent knowledge management systems (individual knowledge management)
+- Deep work
+- Pomodoro (management of time and concentration)
+- Eisenhower matrix (priorities)
+- Checklists or standard operating procedures (repetitive and critical tasks)
+- Bullet journaling (priorities and tracking habits)
+- Getting-things-done (time, priorities, and information flows)
+- Emergent knowledge management systems (individual knowledge management)
 
 <!--
 Theoretical models (next session)
@@ -498,7 +511,7 @@ TBD:
 -->
 ---
 
-## Methods for organizing digital work
+# Methods for organizing digital work
 
 - There are no scientific methods for organizing digital work.
 - GoogleTrends provides an indication of key methods.
@@ -568,7 +581,7 @@ How do we treat messengers, voice mail, files on your harddrive, links in your b
 
 ---
 
-# GTD: Processing and organizing
+# GTD: Process and organize
 
 ![width:620px center](../material/GTD-processing-and-organizing.png)
 
@@ -592,28 +605,21 @@ Lists:
 
 ---
 
-# GTD: Review
+# GTD: Do and review
 
-- Regularly review: Calendar first, then: action lists (depending on context)
-- Weekly review: The system, different lists, and priorities (levels)
+- To decide what to do, check the calendar, and then the action lists, based on the following criteria:
+
+	1. Context (office, phone, meeting)
+	2. Time available
+	3. Energy available
+	4. Priority
+
+- Regularly review the system (weekly, monthly, annual), and priorities, based on different horizons of focus: Projects > Areas of focus and acountability > One- to two-year goals and objectives <br> > Three- to five-year vision > Purpose and principles
 
 <!-- 
 make key decisions on fridays: compare commitments/time available
 Use checklists/templates for reviews
--->
 
----
-
-# GTD: Do
-
-Decide based on the four criteria model:
-
-1. Context (office, phone, meeting)
-2. Time available
-3. Energy available
-4. Priority
-
-<!-- 
 mention: agenda
 interesting: priority last?
 
@@ -668,9 +674,9 @@ Für den Review täglich oder wöchentlich sollte mindestens 60-90 Minuten einge
 
 ---
 
-Excercise...
+<!-- _class: centered -->
 
----
+# Excercise and talk
 
 [David Allen's TED Talk: "Are your out of your mind?"](https://www.ted.com/talks/david_allen_are_you_out_of_your_mind)
 
@@ -799,7 +805,7 @@ Code wird gespeichert
 
 ---
 
-Recap
+# Recap
 
 - Familiarize with skill classifications related to digital work
 - Apply and adapt Getting-Things-Done as an exemplary method
