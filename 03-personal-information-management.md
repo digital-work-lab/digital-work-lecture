@@ -7,7 +7,9 @@ paginate: true
 
 <!-- _class: lead -->
 
-# Lecture 3 - Digital work individually - Personal information management
+# Lecture 3 - Digital work individually
+
+# Personal information management
 
 <!-- - The digital workplace -->
 
@@ -63,7 +65,7 @@ Introduce elements of an empirical study (intro/background, model or theory/hypo
 
 # Conceptual framework
 
-![width:600px center](../material/HwangKettingerYi2015-fig1.png)
+![width:800px center](../material/PIME-framework.png)
 
 
 <!-- - Model development: the conceptual framework (figure 1), the synthesis of concepts from prior research (including definitions), the hypotheses (the full model) -->
@@ -202,15 +204,18 @@ Better: make students think about how they would re-use/retrieve the materials f
 # Second brain approaches
 
 
-![bg right:45% width:400px](../material/Zettelkasten_paper_schematic.png)
+![bg right:35% width:350px](../material/Zettelkasten_paper_schematic.png)
 
 Historical origins: Luhmann's Zettelkasten (70 books, 400 papers)
 
 Principles:
 
-- Heterarchical instead of (mono-) hierarchical structures (multiple connections and emergence) 
+- Information heterarchy
 - Atomicity of notes
 - Serendipity
+
+Information heterarchies allow for bidirectional links between resources, supporting serendipituous emergence of connections. 
+In contrast, classical hierarchies such digital folders, require items to be assigned to one category exclusively.
 
 <!--
 Luhmann: extraordinary output (without a lot of phd students)
@@ -322,17 +327,13 @@ Information, including notes and files, could either be organized according to t
 
 This is a typical case in which a second-brain approach, or an information heterarchy, can be helpful.
 
-<!-- 
-
--->
-
 ---
 
 # Setup
 
 To explore how second-brain approaches work in practice, we transfer Lisa's case to an obsidian vault (i.e., repository), using the files provided in the VC course.
 
-As a preliminary step, download the materials, and move them to a new obsidian vault. Briefly explore the contents of the files and familiarize with the obsidian functionality.
+As a preliminary step, [download the materials](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fdigital-work-lab%2Fdigital-work-lecture%2Ftree%2Fmain%2Fexercises%2Fobsidian_exercise), and move them to a new obsidian vault. Briefly explore the contents of the files and familiarize with the obsidian functionality.
 
 <!-- These are the steps that need to be taken to get organized using markdown, canvas, and obsidian. -->
 
