@@ -20,7 +20,7 @@ permalink: /
 | 07  | May 27  🎙️ | [Platformization](output/07-platformization.html){: target="_blank"}  | - |
 | 08  | Jun. 3  📋 | [Collaborative Content Creation](output/08-collaborative-content-creation.html){: target="_blank"} | - |
 | 09  | Jun. 10    | [Open Source](output/09-open-source.html){: target="_blank"} | - |
-| 10  | Jun. 17 🎙️ | [Knowledge-Intensive Services](output/10-knowledge-intensive-services.html){: target="_blank"} | - |
+| 10  | Jun. 17    | [Knowledge-Intensive Services](output/10-knowledge-intensive-services.html){: target="_blank"} | - |
 | 11  | Jun. 24 📋 | [Futures](output/11-futures.html){: target="_blank"} | [Notes](output/teaching_notes/11-futures-notes.html){: target="_blank"} |
 | 12  | Jul. 1     | [Ethics](output/12-ethics.html){: target="_blank"} | [Notes](output/teaching_notes/12-ethics-notes.html){: target="_blank"} |
 | 13  | Jul. 8     | [Exam Prep](output/13-exam-prep.html){: target="_blank"} | - |
