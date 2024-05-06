@@ -270,6 +270,12 @@ e.g., virtual assistants (4hour work week) / ability to create the impression of
 
 ---
 
+<!-- _class: centered -->
+
+# Reminder: first summaries can be submitted next week
+
+---
+
 <style scoped>
 p {
     padding-left: 36px;

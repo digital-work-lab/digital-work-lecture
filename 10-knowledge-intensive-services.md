@@ -240,6 +240,12 @@ https://freelancermania.com/hourly-fixed-price-upwork/#:~:text=On%20one%20hand%2
 
 ---
 
+<!-- _class: centered -->
+
+# Reminder: first summaries can be submitted next week
+
+---
+
 <style scoped>
     p {
         padding-left: 36px;

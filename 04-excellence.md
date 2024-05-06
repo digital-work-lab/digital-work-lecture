@@ -232,8 +232,6 @@ Innovation and helpfulness (as key impacts of star performers)
 - Session 3: Personal information management effectiveness and knowledge management
 - Session 4: The pursuit of excellence
 
----
-
 <!--
 
 ## Digital leadership (skills of the individual)
@@ -263,6 +261,14 @@ excellence in knowledge work (10x productive)
 the Book I have - billion-dollar coach? 
 
 -->
+
+---
+
+<!-- _class: centered -->
+
+# Reminder: first summaries can be submitted next week
+
+---
 
 <style scoped>
 p {
