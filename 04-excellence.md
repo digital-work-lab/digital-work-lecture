@@ -43,9 +43,33 @@ https://cacm.acm.org/blogs/blog-cacm/180512-is-there-a-10x-gap-between-best-and-
 
 ---
 
-# The environment of a 10x developer
+# A study of a 10x developer
 
-DeMarco and Lister compared high and average performers in programming tasks:
+DeMarco and Lister (2013) compared high and average performers in programming tasks
+
+- 600 programmers from over 90 companies worldwide
+- Programmers solved a competition (*Coding War Games*) and completed a survey
+
+Findings:
+
+- No differences in performance when considering salary or years of experience (min. 6 months)
+- Programmers who were paired with a high-performer had higher productivity
+
+<!-- 
+Possible explanation: other factors at play: e.g., learning (quality of experience)
+-->
+
+---
+
+# Speed-typing as an ingredient of productivity and a signal of performance (?)
+
+![width:600px center](../material/typing-edclub.png)
+
+Join the [TypingClub](https://www.typingclub.com/) for a quick introduction and playful competition
+
+---
+
+# Differences in workspaces (DeMarco and Lister)
 
 ![width:900px center](../material/DeMarco-Peopleware.png)
 
@@ -55,7 +79,7 @@ Do the findings really tell us that having more space makes people more producti
 
 --- 
 
-# Focus
+# The concept of focus
 
 - Attention economy: information is abundant, firms compete for attention (Davenport)
 - Focus as the hidden driver of excellence: focused learning with immediate and adequate feedback is more important than practicing 10,000 hours (Goleman)
@@ -177,9 +201,9 @@ our senses impact cognition
  -->
 ---
 
-# The role of physical activity (PA)
+# Example of "beyond-the-brain" influences: Physical activity
 
-- Several meta-analyses published in the health sciences provide evidence on the effects of PA on a range of measures, including:
+- Several meta-analyses published in the health sciences provide evidence on the effects of physical activity on a range of measures, including:
 
     - Mortality
     - Cardiovascular disease, and chronic pain (e.g., lower back, neck)
