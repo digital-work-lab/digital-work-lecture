@@ -15,7 +15,7 @@ permalink: /
 | 02  | Apr. 22    | [Basics of Individual Work](output/02-basics-of-individual-work.html){: target="_blank"} | [Notes](output/teaching_notes/02_gtd.html){: target="_blank"} |
 | 03  | Apr. 29    | [Personal Information Management](output/03-personal-information-management.html){: target="_blank"} | [Notes](output/teaching_notes/03_PIM.html){: target="_blank"} |
 | 04  | May 6      | [Excellence](output/04-excellence.html){: target="_blank"} | [Notes](output/teaching_notes/04_Excellence.html){: target="_blank"} |
-| 05  | May 13 📋  | [Remote Teams](output/05-remote-teams.html){: target="_blank"} | - |
+| 05  | May 13 📋  | [Remote Teams](output/05-remote-teams.html){: target="_blank"} | [Notes](output/teaching_notes/05_remote-teams.html){: target="_blank"} |
 | 06  | May 20     | [Communication](output/06-communication.html){: target="_blank"} | - |
 | 07  | May 27  🎙️ | [Platformization](output/07-platformization.html){: target="_blank"}  | - |
 | 08  | Jun. 3  📋 | [Collaborative Content Creation](output/08-collaborative-content-creation.html){: target="_blank"} | - |
