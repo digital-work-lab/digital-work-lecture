@@ -25,16 +25,62 @@ https://www.theguardian.com/technology/2022/nov/10/elon-musk-scraps-twitter-work
 
 # Learning objectives
 
+- Appreciate the challenges and opportunities in remote work and virtual team settings.
 - Explore GitLab's approach as a remote-first organization and familiarize with its handbook.
-- Appreciate the challenges and opportunities in settings where teams are highly dispersed.
+
 
 <!-- 
 digital newbie firms > digital-first firms > remote-first firms
 geographically dispersed...
 -->
+
 ---
 
-# The case of GitLab
+# Virtual teams
+
+Virtual teams are defined as "groups of geographically, organizationally and/or time dispersed workers brought together by information and telecommunication technologies to accomplish one or more organizational tasks." (Powell, Piccoli and Ives 2004)
+
+Research on virtual teams has started decades ago, but the pandemic has created an unprecedented shift to remote work settings.
+
+Our focus:
+
+- Effects of working remotely, or in virtual teams (for individuals and organizations)
+- The role of trust in virtual teams
+- The role of conflicts in virtual teams
+
+![bg right:30% width:300px](../material/Unsplash-videoconference.jpg)
+
+---
+
+# Effects of remote work: Evidence at the individual level (I)
+
+![width:800px center](../material/CharalampousEtAl2018.png)
+
+Charalampous, M., Grant, C. A., Tramontano, C., & Michailidis, E. (2019). Systematically reviewing remote e-workers’ well-being at work: A multidimensional approach. _European Journal of Work and Organizational Psychology_, _28_(1), 51-73.
+
+---
+
+# Effects of remote work: Evidence at the individual level (II)
+
+Meta-analysis by Gajendran and Harrison (2007):
+- Small but beneficial effects on proximal outcomes (e.g., perceived autonomy and (lower) work-family conflict)
+- No generally negative effects on quality of workplace relationships
+- Beneficial effects on distal outcomes (e.g., job satisfaction, performance, turnover intention, role stress)
+- High-intensity telecommuting (> 2.5 days/week) is beneficial for (reduced) work-family conflict, but harms relationships with coworkers
+
+![bg right:40% width:500px](../material/GajendranHarrison2007.png)
+
+---
+
+# Effects of remote work: Evidence at the organizational level
+
+![width:800px center](../material/HarkerMartin2012.png)
+
+Harker Martin, B., & MacDonnell, R. (2012). Is telework effective for organizations? A meta‐analysis of empirical research on perceptions of telework and organizational outcomes. _Management Research Review_, _35_(7), 602-616.
+
+---
+
+# Remote in practice: The case of GitLab
 
 - GitLab: An open-source company that operates GitLab, a DevOps platform for software development
 - A public all-remote company with no physical offices
@@ -65,7 +111,7 @@ How does the DRI (everyone can make decisions) work?  (hiring selection,  builds
 
 -->
 ---
-# The Remote playbook
+# Remote in practice: GitLab's remote playbook
 
 Take a look at the following sections of the  [playbook](https://about.GitLab.com/company/culture/all-remote/) :
 
@@ -116,39 +162,8 @@ BATNA
 https://escalla.co.uk/blog-remote-working-5-benefits-challenges/
 -->
 ---
-# Evidence at the individual level (I)
 
-![width:800px center](../material/CharalampousEtAl2018.png)
-
-Charalampous, M., Grant, C. A., Tramontano, C., & Michailidis, E. (2019). Systematically reviewing remote e-workers’ well-being at work: A multidimensional approach. _European 
-Journal of Work and Organizational Psychology_, _28_(1), 51-73.
-
----
-# Evidence at the individual level (II)
-
-Meta-analysis by Gajendran and Harrison (2007):
-- Small but beneficial effects on proximal outcomes (e.g., perceived autonomy and (lower) work-family conflict)
-- No generally negative effects on quality of workplace relationships
-- Beneficial effects on distal outcomes (e.g., job satisfaction, performance, turnover intention, role stress)
-- High-intensity telecommuting (> 2.5 days/week) is beneficial for (reduced) work-family conflict, but harms relationships with coworkers
-
-![bg right:40% width:500px](../material/GajendranHarrison2007.png)
-
----
-# Evidence at the organizational level
-
-![width:800px center](../material/HarkerMartin2012.png)
-
-Harker Martin, B., & MacDonnell, R. (2012). Is telework effective for organizations? A meta‐analysis of empirical research on perceptions of telework and organizational outcomes. _Management Research Review_, _35_(7), 602-616.
-
----
-
-<!-- _class: centered -->
-
-# Break
-
----
-# The GitLab handbook
+# Remote in practice: The GitLab handbook
 
 - The handbook is a key element at GitLab 
 - It has over 2,000 pages and everyone can suggest changes
@@ -202,11 +217,10 @@ TBD: which aspects should not be disclosed publicly?
 -->
 
 ---
-# The role of conflicts in virtual teams
 
-Meta-analysis by de Wit and Greer (2012):
+<!-- _class: centered -->
 
-![width:500px center](../material/dewitt2012.png)
+# Break
 
 ---
 
@@ -223,6 +237,31 @@ Documentation should decrease the effect of trust on team effectiveness  (throug
 -->
 
 ---
+
+# The role of conflicts in virtual teams
+
+Meta-analysis by de Wit and Greer (2012):
+
+![width:500px center](../material/dewitt2012.png)
+
+---
+
+# The digital-work-lab handbook: Our core values
+
+🚀 **Impact in research, teaching, and practice**: We challenge ourselves every day to make significant contributions to research on digital work, inspiring students in different teaching formats, and facilitating the application of our work in practice.
+
+🛠️ **Rigor, reliability, and reproducibility**: We value rigorous methods that are based on evidence and yield reproducible results. To this end, we select reliable tools and standard operating principles.
+
+♻️ **Sustainability, openness, and sharing**: We aim to make our work processes, continuous improvement efforts, and outcomes openly accessible. In particular, we prefer open-source over proprietary technology.
+
+🙏 **Support, participation, and diversity**: We build a culture of support, encouraging the participation of different stakeholders, including current and former team members, students, and colleagues. We make diversity our strength.
+
+🧑‍🎓️ **Continuous learning**: We believe in continuous growth, setting aside time to learn on a regular basis, and curating helpful resources.
+
+**Task**: How could the [values](https://digital-work-lab.github.io/handbook/docs/10-lab/10_processes/10.01.goals.html) be operationalized and integrated in the [digital-work-lab handbook](https://digital-work-lab.github.io/handbook/)
+
+---
+
 # Homework
 
 Read the paper of Choudhury et al. (2020), who presents the perspectives of different organizational scientists on GitLab's all-remote approach. Take notes to answer the following questions:
@@ -231,6 +270,14 @@ Read the paper of Choudhury et al. (2020), who presents the perspectives of diff
 - What are the **boundary conditions** for all-remote approaches?
 
 Choudhury, P., Crowston, K., Dahlander, L., Minervini, M. S., & Raghuram, S. (2020). GitLab: work where you want, when you want. _Journal of Organization Design_, _9_, 1-17. [link](https://link.springer.com/article/10.1186/s41469-020-00087-8#citeas)
+
+---
+
+<!-- _class: centered -->
+
+# Reminder
+
+Next session: May 27
 
 <!--
 Lookup terms that you don't know.
@@ -253,6 +300,8 @@ Choudhury, P., Crowston, K., Dahlander, L., Minervini, M. S., & Raghuram, S. (20
 De Wit, F. R., Greer, L. L., & Jehn, K. A. (2012). The paradox of intragroup conflict: a meta-analysis. _Journal of Applied Psychology_, _97_(2), 360.
 
 Gajendran, R. S., & Harrison, D. A. (2007). The good, the bad, and the unknown about telecommuting: meta-analysis of psychological mediators and individual consequences. _Journal of Applied Psychology_, _92_(6), 1524.
+
+Powell, A., Piccoli, B., and Ives, B. (2004) Virtual teams: a review of current literature and directions for future research. _The DATA BASE for Advances in Information Systems_, _35_ (1).
 
 <!-- 
 https://www.ted.com/talks/nedra_glover_tawwab_your_3_step_guide_to_setting_better_boundaries_at_work/comments
