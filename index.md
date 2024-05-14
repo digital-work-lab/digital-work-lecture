@@ -16,19 +16,19 @@ permalink: /
 | 03  | Apr. 29    | [Personal Information Management](output/03-personal-information-management.html){: target="_blank"} | [Notes](output/teaching_notes/03_PIM.html){: target="_blank"} |
 | 04  | May 6      | [Excellence](output/04-excellence.html){: target="_blank"} | [Notes](output/teaching_notes/04_Excellence.html){: target="_blank"} |
 | 05  | May 13 📋  | [Remote Teams](output/05-remote-teams.html){: target="_blank"} | [Notes](output/teaching_notes/05_remote-teams.html){: target="_blank"} |
-| 06  | May 20     | [Communication](output/06-communication.html){: target="_blank"} | - |
-| 07  | May 27  🎙️ | [Platformization](output/07-platformization.html){: target="_blank"}  | - |
-| 08  | Jun. 3  📋 | [Collaborative Content Creation](output/08-collaborative-content-creation.html){: target="_blank"} | - |
-| 09  | Jun. 10    | [Open Source](output/09-open-source.html){: target="_blank"} | - |
-| 10  | Jun. 17    | [Knowledge-Intensive Services](output/10-knowledge-intensive-services.html){: target="_blank"} | - |
-| 11  | Jun. 24 📋 | [Futures](output/11-futures.html){: target="_blank"} | [Notes](output/teaching_notes/11-futures-notes.html){: target="_blank"} |
-| 12  | Jul. 1     | [Ethics](output/12-ethics.html){: target="_blank"} | [Notes](output/teaching_notes/12-ethics-notes.html){: target="_blank"} |
-| 13  | Jul. 8     | [Exam Prep](output/13-exam-prep.html){: target="_blank"} | - |
+| -   | May 20     | No session / public holiday |
+| 06  | May 27  🎙️ | [Communication](output/06-communication.html){: target="_blank"} | - |
+| 07  | Jun. 10    | [Collaborative Content Creation](output/08-collaborative-content-creation.html){: target="_blank"} | - |
+| 08  | Jun. 17    | [Open Source](output/09-open-source.html){: target="_blank"} | - |
+| 09  | Jun. 3  📋 | [Platformization](output/07-platformization.html){: target="_blank"}  | - |
+| 10  | Jun. 24    | [Knowledge-Intensive Services](output/10-knowledge-intensive-services.html){: target="_blank"} | - |
+| 11  | Jul. 1 📋  | [Futures](output/11-futures.html){: target="_blank"} | [Notes](output/teaching_notes/11-futures-notes.html){: target="_blank"} |
+| 12  | Jul. 8     | [Ethics](output/12-ethics.html){: target="_blank"} | [Notes](output/teaching_notes/12-ethics-notes.html){: target="_blank"} |
+| 13  | Jul. 15    | [Exam Prep](output/13-exam-prep.html){: target="_blank"} | - |
 
 📋 Collect summaries for exam
 
 🎙️ Online
-
 
 <!-- 
 
