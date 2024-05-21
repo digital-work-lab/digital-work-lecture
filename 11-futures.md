@@ -42,10 +42,20 @@ https://www.youtube.com/watch?v=dRw4d2Si8LA
 
 ---
 
+<style>
+blockquote {
+    border-top: 0.1em;
+    font-size: 60%;
+    margin-top: auto;
+}
+</style>
+
 # Learning objectives
 
 - Predict the replacement of human labor by machines in the near future using illustrative examples.
-- Discuss possible futures at the intersection of AI-based and human work.
+- Discuss possible futures* at the intersection of AI-based and human work.
+
+> \* Note: In our context, the term "futures" is used to refer to different developments that are possible in the future (as discussed in prior literature, see [1](https://aisel.aisnet.org/jais/vol21/iss6/10/), or [2](https://aisel.aisnet.org/ecis2021_panels/2/)). In finance, the term "futures" has a different meaning.
 
 ---
 
