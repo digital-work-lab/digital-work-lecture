@@ -19,9 +19,9 @@ paginate: true
 
 # Learning objectives: 
 
-- Appreciate different facets and practical consideration related to communication in teams
 - Explain the selection of appropriate communication technologies based on media synchronicity theory
 - Describe the role of situational awareness in communication settings
+- Appreciate different facets and practical consideration related to communication in teams
 
 <!--
  (e.g., conflict, interruption, inclusion).
@@ -44,28 +44,7 @@ Read the case of Choudhury et al. (2020) and answer the following questions:
 # Break
 
 -->
----
 
-# Communication at GitLab
-
-<!-- In small groups (2-3),  -->
-Take a few minutes to examine the [communication section](https://about.gitlab.com/handbook/communication/) in GitLab's handbook and take notes on
-- the different communication settings
-- best practices (potential challenges to keep in mind)
-
-Major items to cover:
-- [Effective and responsible communication guidelines](https://about.gitlab.com/handbook/communication/#effective--responsible-communication-guidelines)
-- [Internal communication best practices](https://about.gitlab.com/handbook/communication/#top-tips-and-best-practices)
-- [Video calls](https://about.gitlab.com/handbook/communication/#video-calls) and [E-Mail](https://about.gitlab.com/handbook/communication/#email)
-
-Additional items (select the ones you are most interested in):
-- [Slack](https://about.gitlab.com/handbook/communication/#managing-noise-and-creating-focus-in-slack), [direct messages](https://about.gitlab.com/handbook/communication/#avoid-direct-messages), [listening](https://about.gitlab.com/handbook/communication/#effective-listening), [meeting problems](https://about.gitlab.com/handbook/communication/#common-meeting-problems), or [video and presentation tips](https://about.gitlab.com/handbook/communication/#video-and-presentation-tips-with-lorraine-lee)
-
-<!--
-https://about.gitlab.com/handbook/communication/#smart-note-taking-in-meetings
-https://about.gitlab.com/handbook/communication/#types-of-meetings
-
--->
 ---
 
 # Communication and media selection
@@ -90,7 +69,19 @@ https://is.theorizeit.org/wiki/Media_synchronicity_theory -->
 
 ---
 
-## Media synchronicity theory (MST)
+# Communication processes and characteristics
+
+![width:700px center](../material/DennisEtAl2008-Communication-process-characteristics.png)
+
+---
+
+# Communication System and Capabilities
+
+![width:700px center](../material/DennisEtAl2008-communication-system-and-capabilities.png)
+
+---
+
+# Media synchronicity theory (MST)
 
 <!--
 
@@ -107,41 +98,41 @@ Media synchronicity theory (Dennis, Fuller, and Valacich, 2006):
 ![width:700px center](../material/DennisFullerValacich2006-fig1.png)
 
 <!-- 
-## MST: Communication processes
+# MST: Communication processes
 
 - Introduce the elements step-by-step:
 
  - Communication processes: conveyance vs. convergence, which are more specific/smaller than tasks (MRT). also distinguish transmission from processing
 
 
-## MST: Media synchronicity
+# MST: Media synchronicity
 
  - Media synchronicity: synchronous vs. asynchronous (definition)
 
 
-## MST: Media synchronicity requirements
+# MST: Media synchronicity requirements
 
 - Media synchronicity requirements for different communication processess (table 1, proposition P1) -> importance of **fit**
 
 
-## MST: Appropriation factors
+# MST: Appropriation factors
 
 - Appropriation factors (**fit**)
 
 
-## MST: Examples I
+# MST: Examples I
 
 - **TODO : short exercise for the main concepts (communication processes, media synchronicity, appropriation factors, fit and communcation performance)**
 
-## MST: Media characteristics
+# MST: Media characteristics
 
 - Media characteristics: transmission and processing capabilities: construct figure 2 step-by-step (starting with the simple sender - medium - receiver model and then adding the different elements)
 
-## MST: Examples II
+# MST: Examples II
 
 - TODO : exercise: rate different communication media...
 
-## MST: Summary
+# MST: Summary
 
 - refer back to HwangKettingerYi2015 and point out that DennisFullerValacich2006 stop at the hypothesis generation step (no empirical study)
 - Derive implications
@@ -154,6 +145,24 @@ https://coachbetter.tv/the-difference-between-communication-cooperation-coordina
 
 Read [external communication](https://about.gitlab.com/handbook/communication/#external-communication)
 -->
+---
+
+# MST: examples and application
+
+1. Shared whiteboard in videoconferences: how does it change the media capabilities?
+2. It was a misunderstanding, but one that escalated quickly. Why can asynchronous textual communication (such as email or chat) be problematic in such settings?
+3. When sending out invitations to the weekly video-conference, your colleague emphasizes that he looks forward to **seeing** you in the call, and greets participants who share their video with a "nice to see you". Do you see any connections to MST?
+4. Take a minute to review the features offered by the [Zoom AI assistant](https://www.zoom.com/en/products/collaboration-tools/features/). How do they relate to MST?
+5. Consider a setting in which you would like to help your colleague with a challenging programming task. Your colleague works remotely. Which technologies would you select, and how could your choice be connected to MST?
+
+<!--
+whiteboard: expands the symbol set, e.g., allowing participants to develop sketches or mathematical models. also increases parallelism (audio, video of participants, and video of whiteboard)
+Video: increase symbol set (visual cues, gestures, reactions) - especially when meetings aim to converge on particular items. Appropriation factors: familiar with the challenges, perhaps even trained to increase video-use, could be due to past experiences, or even norms in the team or organization.
+AI assistant: several features to transcribe, summarize, or sub-title meetings - improves reprocessability (during and after the meeting)
+coding: Convergence requires high synchronicity, especially wrt. the symbol set of collaborative coding (synchronous) - e.g., [Visual Studio Live Share](https://visualstudio.microsoft.com/de/services/live-share/)
+
+ https://www.zoom.com/en/products/collaboration-tools/features/ -->
+
 ---
 
 # Communication and situational awareness
@@ -185,9 +194,45 @@ propositions...
 
 ---
 
+# Situational awareness: examples
+
+Examples of situational awareness in practice:
+
+- "At what times do you focus, at what times are you available for calls?"
+- "Are you green?"
+- "You have been quiet. What is your view on the issue?"
+
+<!--
+- we have a short explanation video for that
+- should we reschedule? should I brief you after the meeting? -->
+---
+
+# Practice: Communication at GitLab
+
+<!-- In small groups (2-3),  -->
+Take a few minutes to examine the [communication section](https://about.gitlab.com/handbook/communication/) in GitLab's handbook and take notes on
+- The different communication settings
+- Best practices (potential challenges to keep in mind)
+
+Major items to cover:
+- [Effective and responsible communication guidelines](https://about.gitlab.com/handbook/communication/#effective--responsible-communication-guidelines)
+- [Internal communication best practices](https://about.gitlab.com/handbook/communication/#top-tips-and-best-practices)
+- [Video calls](https://about.gitlab.com/handbook/communication/#video-calls) and [E-Mail](https://about.gitlab.com/handbook/communication/#email)
+
+Additional items (select the ones you are most interested in):
+- [Slack](https://about.gitlab.com/handbook/communication/#slack), [direct messages](https://about.gitlab.com/handbook/communication/#avoid-direct-messages), [meeting problems](https://about.gitlab.com/handbook/communication/#common-meeting-problems), or [video and presentation tips](https://about.gitlab.com/handbook/communication/#video-and-presentation-tips-with-lorraine-lee)
+
+<!--
+https://about.gitlab.com/handbook/communication/#smart-note-taking-in-meetings
+https://about.gitlab.com/handbook/communication/#types-of-meetings
+-->
+---
+
 # Summary 
 
-TODO
+- Discussed media selection and synchronicity
+- Covered the role of situational awareness in communication settings
+- Considered different facets and practical consideration related to communication in teams
 
 ---
 
@@ -212,11 +257,11 @@ Moorman, C. and Hinkfuss, K. (2023). Managing the cultural pitfalls of hybrid wo
 Homework: 
 read the product-development workflow in the gitlab handbook
 
-## Exercise and homework
+# Exercise and homework
 
 Preparation: do a git tutorial (provide short/longer and interactive ones) - be prepared for the in-depth session next week (have your questions ready)
 
-## Materials
+# Materials
 
 - [ ] TODO
 
@@ -227,4 +272,9 @@ TBD: communities-of-practice (e.g., wikipedia on CSCW: awareness)
 
 alternative exercise:
 TBD: maybe give students 2-3 cases, have brief discussion, have them read different papers (MRT,MST,interruptions,conflict,team-leadership,learning/onboarding), and then discuss the cases from the perspective of different theories
+
+Note: possible extensions:
+- zoom-fatigue (what are the different forms of labor that make videoconferences exhausting?)
+- Virtual impression management: https://journals.sagepub.com/doi/10.1177/01492063231225160
+
 -->
