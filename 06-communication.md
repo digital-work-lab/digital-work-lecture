@@ -59,7 +59,7 @@ Key question: which communication media are the most effective ones, or should b
 
 **Media synchronicity theory** (Dennis et al. 2008)
 - There are different communication tasks:
-    - *Conveyance* refers to the transmission of (large quantities of) information.
+    - *Conveyance* refers to the transmission of information.
     - *Convergence* refers to the process of mutually agreeing on the meaning of information.
 - Communication media differ in their ability to support synchronicity, depending on their transmission or processing capabilities.
 - Communiation performance, essentially, depends on the **fit** between communication processes, media synchronicity, and appropriation factors.
@@ -75,7 +75,7 @@ https://is.theorizeit.org/wiki/Media_synchronicity_theory -->
 
 ---
 
-# Communication System and Capabilities
+# Communication system and media capabilities
 
 ![width:700px center](../material/DennisEtAl2008-communication-system-and-capabilities.png)
 
