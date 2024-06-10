@@ -19,7 +19,7 @@ paginate: true
 # Learning objectives
 
 - Learn how to **use the collaboration features of Git**, including forks, pull requests, merges, and issues
-- Apply them in a **realistic setting of multiple contributors** without requiring time to write code
+- Apply them in a **realistic setting of multiple contributors**
 - Familiarize with the **key elements of open-source project documentation**
 
 <!-- 
@@ -33,6 +33,8 @@ paginate: true
 # The Open-Source Collaboration Game
 
 Materials for this part are available [here](https://github.com/geritwagner/open-source-collaboration-game)
+
+![bg width:400px](../material/go_game.jpg)
 
 <!-- 
 ---
@@ -50,6 +52,29 @@ Sumary: Key concepts and processes
 <!-- _class: centered -->
 
 # Break
+
+---
+
+# Concepts and principles for collaborative Open-Source work
+
+Conceptual foundations
+
+- Transparent versioning: code, people, and processes are visible and enable sigmergic coordination
+- Openness to modifications: everyone can create issues, suggest specific code modifications, or fork the project
+- Control of contributions: maintainers can review changes proposed in pull request (with the help of [code quality checkers](https://pre-commit.ci/), [automated builds and tests](https://docs.github.com/en/actions/automating-builds-and-tests), and [GenAI Code Review](https://github.com/marketplace/actions/code-review-with-chatgpt)), request changes, and decide whether or not to merge the contributions
+
+Principles
+
+- Freedom to use, study, modify, share
+- Meritocracy instead of organizational hierarchy
+- Decentralization and open governance
+
+<!-- 
+Note:
+Powerful and efficient model
+- almost no limitations for modifications (even forks are possible) - introduces variation
+- very efficient control mechanisms
+-->
 
 ---
 # Work in Open-Source projects
@@ -88,6 +113,8 @@ Underlying:
 
 # Challenges in Open-Source work 
 
+Challenges:
+
 - The lack of hierarchical control can lead to conflicts and coordination problems
 - Self-selection into tasks can be inefficient (e.g., for beginners, tasks that are not interesting)
 - Establishing open, welcoming, and inclusive communities
@@ -99,6 +126,12 @@ Open-Source projects implement measures to address these challenges:
 - A code of conduct, which defines acceptable behavior and sanctions for violations
 - Governance structures, which define the roles and responsibilities of contributors
 - Technologies and organizing best practices, which facilitate coordination and collaboration (e.g., issue labels identifying "good first issues" for beginners)
+
+---
+
+<!-- _class: centered -->
+
+# Summaries for part 2: Digital work in teams
 
 <!-- 
 
@@ -154,5 +187,7 @@ p {
 </style>
 
 # Materials
+
+Aksulu, A., & Wade, M. R. (2010). A comprehensive review and synthesis of open source research. *Journal of the Association for Information Systems*, 11(11), 6.
 
 Raymond, E. (1999). The cathedral and the bazaar. *Knowledge, Technology & Policy*, 12(3), 23-49.
