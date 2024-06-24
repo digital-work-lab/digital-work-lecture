@@ -5,6 +5,7 @@
 PDE: Platform-dependent entrepreneur
 
 Sources of power in platform owner-PDE relationship
+
 - Techno-economic bases of platform power (intermediary, network effects, lock-in, "panoptic" control)
 - Platform incentives and resources to PDEs
     - Access to customers
@@ -12,6 +13,7 @@ Sources of power in platform owner-PDE relationship
     - Platform governance
 
 Consequences of the power imbalance: Risks for PDEs
+
 - Separation from customers
 - Algorithmic management: ratings, rankings, and recommendation systems
 - Entry into the PDE's business
@@ -19,19 +21,19 @@ Consequences of the power imbalance: Risks for PDEs
 - Platform access and delisting
 
 PDE responses: Power balancing operations
+
 - Multihoming (platform and channels)
 - Income diversification
 - Collective action
 - Government action
 
 Development of costs/risks/uncertainty over time
-- From positive platform effects on startup to negative platform effects in the maturity stage
 
+- From positive platform effects on startup to negative platform effects in the maturity stage
 
 # Digital markets for knowledge-intensive services
 
 - Trillion-dollar: Billionen
-
 
 # Literature review method illustration (blackboard)
 
@@ -61,8 +63,12 @@ Announce that we will encounter challenges in each of the three steps (after pro
 # Illustrate small-scale statistics
 
 Irish soccer fans (100.000) - business or tourists?
+
 - small scale statistics: few research assistants distribute a survey
+
     - significance (e.g., 10x more business travelers as usual) is important!
+
 - large scale statistics: all fans who have a smartphone fill out the survey (99.99%)
+
     - significance is not important (we have data on almost the entire population)
     - effect size matters! (2% more business travelers or 10x more?)
