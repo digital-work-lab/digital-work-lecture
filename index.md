@@ -18,10 +18,10 @@ permalink: /
 | 05  | May 13 📋  | [Remote Teams](output/05-remote-teams.html){: target="_blank"} | [Notes](output/teaching_notes/05_remote-teams.html){: target="_blank"} |
 | -   | May 20     | No session / public holiday |
 | 06  | May 27  🎙️ | [Communication](output/06-communication.html){: target="_blank"} | - |
-| 07  | Jun. 10    | [Collaborative Content Creation](output/07-collaborative-content-creation.html){: target="_blank"} | - |
-| 08  | Jun. 17    | [Open Source](output/08-open-source.html){: target="_blank"} | - |
-| 09  | Jun. 3  📋 | [Platformization](output/09-platformization.html){: target="_blank"}  | - |
-| 10  | Jun. 24    | [Knowledge-Intensive Services](output/10-knowledge-intensive-services.html){: target="_blank"} | - |
+| 07  | Jun. 3     | [Collaborative Content Creation](output/07-collaborative-content-creation.html){: target="_blank"} | - |
+| 08  | Jun. 10 📋 | [Open Source](output/08-open-source.html){: target="_blank"} | - |
+| 09  | Jun. 17    | [Platformization](output/09-platformization.html){: target="_blank"}  | - |
+| 10  | Jun. 24    | [Knowledge-Intensive Services](output/10-knowledge-intensive-services.html){: target="_blank"} | [Notes](output/teaching_notes/10_knowlege_work_services.html){: target="_blank"} |
 | 11  | Jul. 1 📋  | [Futures](output/11-futures.html){: target="_blank"} | [Notes](output/teaching_notes/11-futures-notes.html){: target="_blank"} |
 | 12  | Jul. 8     | [Ethics](output/12-ethics.html){: target="_blank"} | [Notes](output/teaching_notes/12-ethics-notes.html){: target="_blank"} |
 | 13  | Jul. 15    | [Exam Prep](output/13-exam-prep.html){: target="_blank"} | - |
