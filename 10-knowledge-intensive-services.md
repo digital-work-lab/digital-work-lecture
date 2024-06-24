@@ -37,7 +37,7 @@ Platforms: Upwork, Toptal, Topcoder
 
 Examples of tasks: Programming, design, app development, data science, customer services, translation, and digital marketing.
 
-![bg right:35% width:400px](../material/Snir2003-fig3.png)
+![bg right:45% width:400px](../material/Snir2003-fig3.png)
 
 Economic potential:
 
@@ -48,15 +48,30 @@ Economic potential:
 
 ---
 
+# Open questions
+
+There are many open questions in the context of digital markets for knowledge-intensive services, including:
+
+- How can platforms for knowledge-intensive services be distinguished?
+- Which steps does the process of working on these platform involve?
+- What are the determinants of success from a worker perspective (e.g., being selected for a project)?
+
+In the following, we will see how literature reviews help to address these questions.
+
+---
+
 # Literature searches
 
-Search techniques: Database searches, citation searches, table-of-content searches
+Different search techniques are available: Database searches, citation searches, table-of-content searches
 
-Concept groups as the typical query structure in database searches:
+For database searches, the **building-blocks** approach is the typical query structure:
 
-- (Synonym_1 OR Synonym_2 OR ...) AND (Synonym_10 OR Synonym_11 OR ...) ...
-- Example (health sciences): Population AND Intervention AND Control AND Outcome (PICO)
-- Use of controlled vocabulary (e.g., the [Medical Subject Headings, MeSH](https://meshb-prev.nlm.nih.gov/treeView))
+![width:800px center](../material/building-blocks.png)
+
+<!-- - (Synonym_1 OR Synonym_2 OR ...) AND (Synonym_10 OR Synonym_11 OR ...) ... -->
+- Corresponding search query: ``(digital OR online OR ...) AND (work OR labor OR ...) AND (productivity OR effectiveness OR ...)``
+
+Note: Ideally, literature searches rely on controlled vocabulary (e.g., the [Medical Subject Headings, MeSH](https://meshb-prev.nlm.nih.gov/treeView)).
 
 <!-- 
 ![bg right:35% width:400px](../material/MeSH-example.png)
@@ -67,7 +82,7 @@ https://meshb-prev.nlm.nih.gov/treeView
 
 # Challenges in the search
 
-In the social sciences (including the Management and Organizational disciplines, as well as Information Systems), there is *no controlled vocabulary*, and researchers may try to introduce new terms.
+In the social sciences (including Information Systems and the Management disciplines), there is *no controlled vocabulary*, and researchers may try to introduce new terms.
 
 Examples of terms used for our context:
 
@@ -84,11 +99,13 @@ Note : Example based on Wagner, Prester, Paré (2021)
 
 Initial guidelines:
 
-1. Name the challenge of uncontrolled vocabulary to raise awareness
-2. Rely on search techniques that are robust to heterogeneous terminology, including citation searches, tables-of-contents searches
-3. Systematically collect prior knowledge, including keywords used in prior literature reviews, and consult with colleagues
+1. Report whether controlled vocabulary is available (raise awareness of the challenge)
+2. Systematically collect prior knowledge, including keywords used in prior literature reviews, and consult with colleagues
+3. Rely on search techniques that are robust to heterogeneous terminology, including citation searches, tables-of-contents searches
 4. Complete several search iterations and look for new search terms
-5. Use evidence from previous iterations to identify relevant keywords and construct queries
+5. Use evidence from previous iterations to identify relevant keywords and construct queries \*
+
+\* Focus of our current research projects.
 
 <!-- 
 Note: focus on phenomena
@@ -153,7 +170,7 @@ Note : Example based on Wagner, Prester, Paré (2021)
 
 # Contracting decisions
 
-- Contracting rates are low, especially for high-volume projects.
+- Contracting rates are low, especially for high-volume projects: Snir and Hitt (2003) report contracting rates of 60%, or even less than 10% for larger projects.
 - Some antecedents (explaining variables) are contested. For example, some expect ratings to be the most important variable, while others disagree because ratings have minimal variance.
 - Literature reviews can provide an overview of the evidence across prior studies.
 
@@ -196,7 +213,7 @@ They rely on rigorous methods, including
 - Data extraction (conducted in parallel independent mode and based on a predefined data extraction schema)
 - Meta-analytic regressions (or vote-counting)
 
-Taken together, these steps can (partially) address the shortcomings of empirical studies.
+Taken together, these steps can address shortcomings of empirical studies.
 
 ---
 
@@ -216,7 +233,7 @@ Workers are more likely to receive contracts when:
 - they have earned a badge (platform certification)
 - they have a prior working relationship with the client
 - they are located in the same country
-f
+
 It is important to recognize that despite many studies (and many significant findings), very few antecedents have a substantial effect.
 
 ---
@@ -242,7 +259,7 @@ https://freelancermania.com/hourly-fixed-price-upwork/#:~:text=On%20one%20hand%2
 
 <!-- _class: centered -->
 
-# Reminder: first summaries can be submitted next week
+# Reminder: final summaries can be submitted next week
 
 ---
 
@@ -264,6 +281,10 @@ Lin, M., Lucas Jr, H. C., & Shmueli, G. (2013). Research commentary—too big to
 Manyika, J., Lund, S., Robinson, K., Valentino, J., Dobbs, R., 2015. A Labor Market that Works: Connecting Talent with Opportunity in the Digital Age. McKinsey Global Institute.
 
 Prester, J., & Wagner, G. (2021). Contracting Decisions on Digital Markets for Knowledge Work Services: A Qualitative Systematic Review. In: *Proceedings of the International Conference on Information Systems*.
+
+Snir, E. M., and Hitt, L. M. 2003. “Costly Bidding in Online Markets for IT Services,” *Management Science* (49:11), pp. 1504–1520.
+
+Wagner, G., Prester, J., & Paré, G. (2021). Exploring the boundaries and processes of digital platforms for knowledge work: A review of information systems research. *The Journal of Strategic Information Systems*, 30(4), 101694.
 
 <!--
 Exercise:
