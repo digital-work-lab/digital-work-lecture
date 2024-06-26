@@ -14,3 +14,9 @@ gh_edit_view_mode: 'tree'
 
 
 logo: "/assets/images/IDW-logo.png"
+
+aux_links:
+  "Repository":
+    - "https://github.com/digital-work-lab/digital-work-lecture"
+  "Feedback":
+    - "https://github.com/digital-work-lab/digital-work-lecture/issues"
