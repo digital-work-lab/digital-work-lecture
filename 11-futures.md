@@ -17,9 +17,14 @@ paginate: true
 
 ---
 
+<!-- _class: centered -->
+
+
 # Warm-up question
 
 - What is the future of human labor vis-à-vis machines?
+
+![bg right:55% Humans vs machines width:600px](../material/Humans_machines.jpg)
 
 <!-- 
 - What are the key challenges in the future of work?
@@ -119,10 +124,10 @@ teaching: the authors refer more to on-the-job training
 
 # Non-substitutable skills: IT
 
-Atasoy, Banker, and Pavlou use panel data from Turkey to analyze how IT skills impact labor market outcomes:
+Atasoy, Banker, and Pavlou (2021) use panel data from Turkey to analyze how IT skills impact labor market outcomes:
 
-- Basic IT skills increase employment probability due to increased labor force participation and a higher probability of transitioning from unemployment to employment (after deciding to work)
-- Advanced IT skills help workers earn higher wages and increases the probability that they are employed in higher-paid jobs.
+- **Basic IT skills** increase **employment probability** due to increased labor force participation and a higher probability of transitioning from unemployment to employment (after deciding to work)
+- **Advanced IT skills** help workers earn **higher wages** and increases the probability that they are employed in higher-paid jobs.
 
 <!--
 Note: similar to digital (technical) skills (in the first lectures)
@@ -149,7 +154,7 @@ TODO : check Table 1 for examples
 
 # Substitution of jobs
 
-The "Job-Futuromat" is based on a task (dis)aggregation approach:
+The "Job-Futuromat" is based on a task (dis)aggregation approach ([link](https://job-futuromat.iab.de/)):
 
 ![width:600px center](../material/futuromat.png)
 
@@ -186,6 +191,12 @@ TBD: "continuity of nature" assumption?
 - Customers want to pay extra for having contact with a human representative
 - Both AI and people will be employed at the same time for the same job
 
+Example: Fast-food restaurants like McDonalds expand and test the use of AI ([The Guardian](https://www.theguardian.com/business/article/2024/jun/17/mcdonalds-ends-ai-drive-thru))
+
+- Customer self-service
+- Delivery services
+- Restaurant automation
+
 ![bg right:35% width:350px](../material/robotic_waiter.jpg)
 
 ---
@@ -196,6 +207,12 @@ TBD: "continuity of nature" assumption?
 - Computers will not be able to fully replicate human emotions
 - Machines will carry out the repetitive tasks
 - Humans would be supported by AI systems and become even more powerful
+
+Example: Radiologists and AI
+
+- In several cases, AI-based diagnostics is more accurate compared to a physician
+- Physicians know the limitations of AI-based predictions and take responsibility for treatment decisions
+- Patients prefer to interact with a physician
 
 ![bg right:35% width:400px](../material/healthcare.jpg)
 
@@ -211,6 +228,11 @@ TBD: "continuity of nature" assumption?
 - Machines will be allowed to take over those industries, jobs or tasks that no human wants to engage with
 - People can choose to work in those jobs that give them a sense of satisfaction or fulfillment
 
+Example: Industrial production and retail
+
+- Cleaning and monitoring
+- Logistics
+
 ![bg right:35% width:350px](../material/cleaning_robot.jpg)
 
 ---
@@ -219,7 +241,13 @@ TBD: "continuity of nature" assumption?
 
 - A physical and cognitive integration of humans and machines
 - People will be able to have body and mind enhancement
-- Elon Musk's Neuralink project: "A merger between biological and digital intelligence"
+
+Example: Elon Musk's Neuralink project - "A merger between biological and digital intelligence"
+
+- 2017-05-05 Launch of Neuralink to develop Brain-computer interfaces
+- 2023-05-25 Approval for clinical trials by the FDA
+- 2024-01-29 Successful implantation with promising results
+- 2024-02-20 Human participant is able to control a computer mouse through thought
 
 ![bg right:35% width:400px](../material/neuralink.jpg)
 
@@ -230,7 +258,13 @@ TBD: "continuity of nature" assumption?
 - Machines completely dominate over humans
 - Interconnected AI systems are powerful and human behavior is imperfect
 - AI forms that are more complex than the software that produces them (Artificial General Intelligence)
-- The case for robot disobedience: Humans make mistakes in creating or mastering robots (Briggs and Scheutz)
+- The case for robot disobedience: Humans make mistakes in creating or mastering robots
+
+Example: A thought experiment in the context of AI-controlled military drones ([The Guardian](https://www.theguardian.com/us-news/2023/jun/01/us-military-drone-ai-killed-operator-simulated-test), [Reuters](https://www.reuters.com/article/fact-check/simulation-of-ai-drone-killing-its-human-operator-was-hypothetical-air-force-sa-idUSL1N38023R/))
+
+- An AI-controlled drone was given the task of destroying enemy air defense systems (objective function)
+- The AI system learned that sometimes the operator interferred with that objective (learning)
+- The system started to attack the operator or communication systems (unexpected and unintended behavior)
 
 <!--
 killer-drone scenario: reinforcement learning
@@ -264,6 +298,8 @@ Adam Grant: Professor of organizational psychology at Wharton
 Malcolm Gladwell: Journalist and NYT best-selling author
 
 [Future of Work Conference: Getting Uncomfortable with the Future](https://www.youtube.com/watch?v=jH7IvThAoH0)
+
+![width:500px center](../material/future-of-work-conference.png)
 
 <!-- 
 Grant: influential management thinker, youngest tenured professor at Wharton, 4x Org science, Books, 7x best professor at Wharton (by students)....
