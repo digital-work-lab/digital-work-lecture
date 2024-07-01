@@ -15,17 +15,19 @@ SLIDES_LIST := $(patsubst %.md,%,$(wildcard [0-9][0-9]*.md))
 TEACHING_NOTES_LIST := $(patsubst teaching_notes/%.md,%,$(wildcard teaching_notes/[0-9][0-9]*.md))
 
 # Define a rule to build all slides
-slides: lecture_slides teaching_notes
+slides: lecture_slides teaching_notes convert_pdfs
 
 lecture_slides: $(addprefix output/,$(addsuffix .html,$(SLIDES_LIST)))
 
 # Define a rule to build all teaching notes
 teaching_notes: $(addprefix output/teaching_notes/,$(addsuffix .html,$(TEACHING_NOTES_LIST)))
 
+convert_pdfs:
+	python scripts/html_to_pdf.py
+
 # Define a pattern rule for building a slide
 output/%.html: %.md assets/theme.css
 	docker run --rm --init -v "$(PWD)":/home/marp/app/ -e LANG=${LANG} -e MARP_USER="${UID}:${GID}" marpteam/marp-cli $< --theme-set assets/theme.css --html --allow-local-files -o $@
-
 
 # Define a pattern rule for building a teaching note
 output/teaching_notes/%.html: teaching_notes/%.md assets/theme.css
