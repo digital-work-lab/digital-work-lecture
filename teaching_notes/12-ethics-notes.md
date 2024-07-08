@@ -1,7 +1,10 @@
+Upload combined pdf:
+pdftk file1.pdf file2.pdf cat output mergedfile.pdf
+
 # Fair compensation
 
 - Ask students what they expect as a starting salary (e.g., 70.000 €)
-- Scenario: an employee (Linda) makes 160 €.
+- Scenario: an employee (Markus) makes 160 €.
 - Is that fair? Who agrees/disagrees? Why?
 
     - Merit
@@ -94,7 +97,8 @@ Indicate whether you agree whether the following steps are ok:
 - He uses a new employee-insights feature that provides regular screenshots
 - He uses ML to analyze the screenshots and automatically sanctions/fires employees
 
-Twist: 
+Twists: 
+
 - performance is declining significantly
 - overemployment
 
@@ -104,7 +108,6 @@ Ethics of surveillance: under which circumstances is surveillance ok, are there 
 
 Bentham's Panopticon: focus on prisons (utilitarian)
 George Orwell 1984 (Dystopie): extended to society (a feature of totalitarian regimes)
-
 
 Surveillance poses a threat to privacy.
 1890: Privacy as the "right to be let alone" (legal context, by Warren and Brandeis)
@@ -132,20 +135,16 @@ Cambridge analytica (misusing massive Facebook data in the election)
 - focus on individual liberty (negative/positive liberty)
 - communitarian approaches: civic goods (like open software) can be corrupted when introducing market mechanisms (e.g., )
 
-- Circumstances matter:
+Circumstances matter:
 
-    - It matters how decisions are implemented
-    - Intentions and communication matter
-    - The act itself can affect the actors/resources
+- It matters how decisions are implemented
+- Intentions and communication matter
+- The act itself can affect the actors/resources
 
 # Outlook
 
-- Die Veranstaltung ist komplett neu entstanden.
-- Die Unterlagen sind noch nicht vergleichbar mit Kursen, die es schon Jahrelang gibt.
-- Und auch in den Sessions hat einiges gut funktioniert und andere Punkte werden im nächsten Jahr anders aussehen.
-- Es soll für Sie kein Nachteil sein, dass Sie die ersten Teilnehmenden in der Veranstaltung waren.
-
 Summary:
+
 - hist.+org. Entwicklung
 - Skill classifications, GTD (with cognitive principles)
 - PIME and second-brain appraoches
@@ -159,15 +158,19 @@ Summary:
 - Futures of work summaries + substitution and disaggregation
 - Ethics: examples and theories
 
+- Die Veranstaltung ist komplett neu entstanden.
+- Die Unterlagen sind noch nicht vergleichbar mit Kursen, die es schon Jahrelang gibt.
+- Und auch in den Sessions hat einiges gut funktioniert und andere Punkte werden im nächsten Jahr anders aussehen.
+- Es soll für Sie kein Nachteil sein, dass Sie die ersten Teilnehmenden in der Veranstaltung waren.
+
 Erinnerung: Evaluation läuft.
 
 Next session:
+
 - Probeklausur
 - Fragen / Schwerpunkt für die Wiederholungssession (Ihre Inhalte)
 
-
 <!-- 
-
 knowledge workers (like famous athletes) excell in performance and are often paid vast amounts of money
 -> is that fair?
 -> who agrees?
@@ -177,7 +180,6 @@ knowledge workers (like famous athletes) excell in performance and are often pai
 -> what's the role of equal opportunities (at the beginning)?
 -> what's the role of values like inclusion and diversity? e.g., should female soccer players be paid equally?
 
-
 Surveillance (privacy / people analytics software / overemployment) - 
 
 - Algorithmic management : under what conditions would it be ethical (imagine Uber 2.0)
@@ -185,6 +187,4 @@ Surveillance (privacy / people analytics software / overemployment) -
 - Futures of digital work: ethics (algorithmic management, people analytics, )
 
 - contract: employees don't honor their contract (work less) vs. societal contract (work: trust, don't be spied upon)
-
-
- -->
+-->
