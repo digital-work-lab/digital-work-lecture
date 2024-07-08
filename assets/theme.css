@@ -116,3 +116,13 @@ section::after {
 
   color:black;
 }
+
+.edit-link {
+  font-size: 0.8em;
+  color: #0366d6;
+  text-decoration: none;
+}
+
+.edit-link:hover {
+  text-decoration: underline;
+}

@@ -36,7 +36,7 @@ paginate: true
 
 # Ethical theories
 
-- Consequentialist ethics
+- Utilitarian (consequentialist) ethics
 - Deontological ethics
 - Virtue ethics
 
@@ -72,17 +72,34 @@ Key proponents: Socrates, Niccolò Machiavelli, David Hume
 - Virtue ethics focuses more on the good life (eudaimonia), rather than explaining which actions are morally permitted.
 - Criticism: In some cases, it can be hard to judge whether an action is immoral based on virtue ethics. Virtues may change throughout history and across cultures.
 
+<!--  
+
 ---
 
-<!-- _class: centered -->
-
 # Break
+-->
 
 ---
 
 # Case 2: Workplace surveillance
 
 ![width:600px center](../material/surveillance.jpg)
+
+---
+
+# Case 3: Crowd-work platforms, exploitation, and the role of platform owners
+
+![width:600px center](../material/food_delivery.jpg)
+
+---
+
+# Summary
+
+- We considered three cases: Compensation, surveillance, and crowd-work
+- Ethical theories covered: Utilitarianism, duty ethics, and virtue ethics
+- There are more ethical perspectives, such as discourse ethics, libertarian, or communitarian approaches
+
+<!-- 
 
 ---
 
@@ -96,3 +113,15 @@ p {
 # Materials
 
 TODO
+ -->
+
+---
+
+<!-- _class: overview_all -->
+
+---
+<!-- _class: centered -->
+
+# Reminder: Please complete the evaluation!
+
+# Next session: Questions and test exam
