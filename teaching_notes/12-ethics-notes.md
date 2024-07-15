@@ -1,6 +1,16 @@
 Upload combined pdf:
 pdftk file1.pdf file2.pdf cat output mergedfile.pdf
 
+Fragen für die letzte Session
+
+Liebe Studierende,
+
+in der letzten Session haben wir wie besprochen die Gelegenheit, neben der Probeklausur auch offene Fragen zu klären. Wenn Sie Fragen oder Themen dafür einbringen möchten, posten Sie diese gerne in unter diesem Beitrag.
+
+Mit besten Grüßen
+
+Gerit Wagner
+
 # Fair compensation
 
 - Ask students what they expect as a starting salary (e.g., 70.000 €)
@@ -11,9 +21,13 @@ pdftk file1.pdf file2.pdf cat output mergedfile.pdf
     - Contract
     - If the other team members earn a decent / living wage
 
+If necessary:
+
+- Give a hypothetical example of standardized skill tests showing that the team members perform on par
+
 - **Merit**: who disagrees? (Sandell: **fiction of merit**: backdoors, e.g., university admission, ..., role of chance)
 
-- Utility is an important concept - How would you maximize **utility**?
+- Outcomes are an important concept - How would you maximize **utility outcomes**?
 - economic utility (performance and returns that will be spread among the team): 
 - happiness: maybe distribute compensation more fairly.
 
@@ -24,10 +38,6 @@ pdftk file1.pdf file2.pdf cat output mergedfile.pdf
 - What are the employers duties? Pay salaries stated in the contract.
 
 - Should women soccer players receive the same compensation / bonus as men? (equal pay)
-
-If necessary:
-
-- Give a hypothetical example of standardized skill tests showing that the team members perform on par
 
 <!-- 
 2. Compensation (distributive justice, also involving diversity)
@@ -44,6 +54,8 @@ cost-benefit:
 
 - Classical example: Gladiator games
 - Common in ethics of autonomous/self-driving vehicles
+
+<div class="page-break"></div>
 
 # Deontology
 
@@ -97,6 +109,8 @@ Indicate whether you agree whether the following steps are ok:
 - He uses a new employee-insights feature that provides regular screenshots
 - He uses ML to analyze the screenshots and automatically sanctions/fires employees
 
+Argument: utility, duty, virtue?
+
 Twists: 
 
 - performance is declining significantly
@@ -129,9 +143,12 @@ Cambridge analytica (misusing massive Facebook data in the election)
 - overall utility: honest or even hard feedback can have positive effects (for clients and workers). If a few workers fail, the overall utility may still be positive.
 - duty to fulfill contracts/terms-of-service? duty as an employer?
 
+<div class="page-break"></div>
+
 # Summary
 
 - cases: thinking in scenarios (testing whether our justification holds even in extreme cases)
+- three ethical theories
 - focus on individual liberty (negative/positive liberty)
 - communitarian approaches: civic goods (like open software) can be corrupted when introducing market mechanisms (e.g., )
 
@@ -158,12 +175,12 @@ Summary:
 - Futures of work summaries + substitution and disaggregation
 - Ethics: examples and theories
 
+Erinnerung: Evaluation läuft.
+
 - Die Veranstaltung ist komplett neu entstanden.
 - Die Unterlagen sind noch nicht vergleichbar mit Kursen, die es schon Jahrelang gibt.
 - Und auch in den Sessions hat einiges gut funktioniert und andere Punkte werden im nächsten Jahr anders aussehen.
 - Es soll für Sie kein Nachteil sein, dass Sie die ersten Teilnehmenden in der Veranstaltung waren.
-
-Erinnerung: Evaluation läuft.
 
 Next session:
 

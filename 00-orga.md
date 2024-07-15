@@ -181,7 +181,7 @@ Literature
 - Learn to code in Python and contribute to the CoLRev package
 - Practice the use of Git in a small-team setting
 
-First session: Thursday, 17. April, 12.15-13.45 (WE5 3.004)
+<!-- First session: Thursday, 17. April, 12.15-13.45 (WE5 3.004) -->
 
 ## Bachelor's theses
 

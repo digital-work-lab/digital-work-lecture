@@ -257,7 +257,7 @@ Example: Elon Musk's Neuralink project - "A merger between biological and digita
 
 - Machines completely dominate over humans
 - Interconnected AI systems are powerful and human behavior is imperfect
-- AI forms that are more complex than the software that produces them (Artificial General Intelligence)
+- AI forms systems that are more complex than the software that produces them (Artificial General Intelligence)
 - The case for robot disobedience: Humans make mistakes in creating or mastering robots
 
 Example: A thought experiment in the context of AI-controlled military drones ([The Guardian](https://www.theguardian.com/us-news/2023/jun/01/us-military-drone-ai-killed-operator-simulated-test), [Reuters](https://www.reuters.com/article/fact-check/simulation-of-ai-drone-killing-its-human-operator-was-hypothetical-air-force-sa-idUSL1N38023R/))
@@ -321,7 +321,7 @@ Atasoy, H., Banker, R. D., & Pavlou, P. A. (2021). Information technology skills
 
 Deranty, J. P., & Corbin, T. (2022). Artificial Intelligence and work: a critical review of recent research from the social sciences. *AI & Society*, 1-17.
 
-Gustein, A. J., & Sviokla, J. (7). skills that aren’t about to be automated. *Harvard Business Review*.
+Gustein, A. J., & Sviokla, J. (7). Skills that aren’t about to be automated. *Harvard Business Review*.
 
 Mithas, S., & Whitaker, J. (2007). Is the world flat or spiky? Information intensity, skills, and global service disaggregation. *Information Systems Research*, 18(3), 237-259.
 

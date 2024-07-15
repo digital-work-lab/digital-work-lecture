@@ -24,7 +24,7 @@ style: |
 
 # Learning objectives
 
-- Identify and dissociate platforms supporting the work of digital entrepreneurs
+- Identify and distinguish platforms supporting the work of digital entrepreneurs
 - Explain the different procedures for sourcing from online markets 
 
 ---
@@ -58,7 +58,7 @@ https://www.ft.com/content/6d2fe2a8-722c-11e7-93ff-99f383b09ff9
 ![bg right:48% width:600px](../material/Gawer2014-fig1.png)
 
 - Gawer (2014) distinguishes three types of (technology) platforms and illustrates their key differences
-- We focus on digital platforms for entrepreneurial work: Entrepreneurs can use platforms as **demand-side actors** to orchestrate their value chain and they can use platforms as **supply-side actors** to sell their goods or services
+- We focus on digital platforms for entrepreneurial work: Entrepreneurs can use platforms as **supply-side actors** to sell their goods or services or as **demand-side actors** to orchestrate their value chain (side switching)
 - These platforms would be classified as industry platforms (ecosystems)
 
 <!-- 
@@ -95,6 +95,12 @@ Orchestrator perspective: for individual entrepreneurs, but also for start-ups/S
 
 Note: different for services, purely online/offline vs. hybrid value chains
 -->
+
+---
+
+# Entrepreneurial work on digital platforms
+
+![width:750px center](../material/platforms-cycle.PNG)
 
 ---
 
@@ -179,6 +185,14 @@ We were trying to find somebody who had a combination of skills that nobody in t
 
 Traditional alternatives: Advertising via print, TV, etc.
 
+Typical mechanism to post advertising on the web: 
+
+- Set campaign goals (e.g., increase website traffic, generate leads)
+- Choose a campaign type (e.g., search, display, shopping)
+- Define target audience (e.g., based on demographics, interests, behaviors)
+- Provide ad material (e.g., banner)
+- Set budget and bidding strategy for the real-time auction (e.g., impressions, clicks)
+
 Examples for marketing platforms:
 
 - Google Ads
@@ -199,6 +213,7 @@ Examples of platforms entrepreneurs use as supply-side actors:
 - Online services: Upwork, 99Designs, Amazon Mechanical Turk
 
 ---
+
 <!-- 
 
 # Platformization: Infrastructural services
@@ -209,6 +224,14 @@ Payments, communication infrastructure, computational resources, web-hosting, id
 
 ---
 -->
+
+# Platform entrepreneurship in practice
+
+We have seen *that* platforms offer a range of opportunities for individual entrepreneurs, but we have not seen *how* entrepreneurs would use these platforms.
+
+**Task**: Select one of the platformization examples, search for best practices, and create a short guideline. For instance, what are the key things to consider when using a crowdfunding platform? Which challenges or risks should be avoided?
+
+---
 
 # Platform governance and regulation of platforms
 
@@ -253,7 +276,7 @@ This dramatically lowers enforcement costs, in particular for demand-side users 
 # Reading
 
 - Skim the paper of Cutolo and Kenney (2021) on platform-dependent entrepreneurship
-- Appreciate the clear structure, writing, and figures
+<!-- - Appreciate the clear structure, writing, and figures -->
 - Summarize the key concepts of each subsection by reading as much as needed
 
 Cutolo, D., & Kenney, M. (2021). Platform-dependent entrepreneurs: Power asymmetries, risks, and strategies in the platform economy. Academy of Management Perspectives, 35(4), 584-605.
@@ -267,12 +290,6 @@ Cutolo, D., & Kenney, M. (2021). Platform-dependent entrepreneurs: Power asymmet
 startups etc.
 e.g., virtual assistants (4hour work week) / ability to create the impression of a highly professional firm (e.g., phone service, website, ...)
 -->
-
----
-
-<!-- _class: centered -->
-
-# Reminder: first summaries can be submitted next week
 
 ---
 

@@ -7,46 +7,40 @@ paginate: true
 
 <!-- _class: lead -->
 
-# Recap: Platformization and digital entrepreneurship
-
-
----
-
-# Entrepreneurial work on digital platforms
-
-![width:900px center](../material/platform-market-sides.PNG)
+# Exam prep
 
 ---
 
-# Entrepreneurial work on digital platforms
+# Test exam
 
-![width:750px center](../material/platforms-cycle.PNG)
-
----
-
-# Power-dependency: risks and responses
-
-![width:650px center](../material/platform-power.PNG)
+- Sheets distributed in paper or online
+- Summaries are available
+- 90 Minutes
+- Return your summaries to indicate that you have completed the test exam
 
 ---
 
-# Costs, risks, and uncertainty over time
+# You may also be interested in ...
 
-![width:600px center](../material/CutoloKenney-fig3.png)
+![bg right:35% width:400px vertical](../assets/images/logo)
+![bg right:35% width:400px vertical](../assets/images/logo-project.png)
+![bg right:35% width:400px](../assets/images/logo-theses.png)
+![bg right:35% width:400px](../assets/images/logo)
 
-In the long term, the cost, risks, and uncertainty for platform-dependent entprepreneurs may be higher compared to the traditional entrepreneurship model.
+## The open-source project (WI-Projekt)
 
----
+- Learn to code in Python and contribute to the CoLRev package
+- Practice the use of Git in a small-team setting
 
-# Outlook: Courses you should be interested in
+## Bachelor's theses
 
-TODO: advertise other teaching offers, including the project and theses
+- See information on the [process](https://digital-work-lab.github.io/theses/) and [open topics](https://digital-work-lab.github.io/theses/docs/topics.html)
 
 ---
 
 # Thank you
 
-- For participating in the first round of "Introduction to Digital Work"
+- For participating in the lecture "Introduction to Digital Work"
 - For the discussions and excitement
 - For your patience when things were not (yet) perfect
 
