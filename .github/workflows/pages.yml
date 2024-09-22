@@ -50,7 +50,7 @@ jobs:
           pip install pyppeteer asyncio
       - name: clone marp-cli
         run: |
-          docker pull marpteam/marp-cli
+          docker pull marpteam/marp-cli:v3.4.0
           docker pull pandoc/ubuntu-latex
       - name: make slides
         run: make -B slides
