@@ -5,6 +5,13 @@
 ![Documentation Status](https://img.shields.io/github/actions/workflow/status/digital-work-lab/digital-work-lecture/pages.yml?label=documentation)
 [![DOI](https://zenodo.org/badge/747736072.svg)](https://doi.org/10.5281/zenodo.13893041)
 
+Welcome! The Digital Work Lecture is organized by the digital work lab (Prof. Dr. Gerit Wagner) at Otto-Friedrich Universität Bamberg.
+You can find more information on the following pages:
+
+- [Lecture page](https://digital-work-lab.github.io/digital-work-lecture/)
+- [Syllabus](https://digital-work-lab.github.io/digital-work-lecture/docs/syllabus.html)
+- [Teaching notes](https://digital-work-lab.github.io/digital-work-lecture/docs/teaching_notes.html)
+
 ## Related courses
 
 - [The udemy course](https://www.udemy.com/course/29-big-ideas-for-getting-things-done/learn/lecture/26821690#overview):

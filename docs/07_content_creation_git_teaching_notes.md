@@ -4,6 +4,10 @@ Starter question:
 
 - What are suitable software packages and how would you select one?
 
+**TODO**:
+- elaborate on technology choice (theory), including functional/non-functional criteria
+- develop a decision matrix (?) covering dropbox/sharepoing/wiki/git, with storage size and types, collaboration control or consensus, scalability of collaboration and parallel work.
+- highlight that we look at Git as a particular powerful system (one htat requires deeper understanding)
 
 # Branching: Theory (CONCENTRATE)
 

@@ -95,6 +95,8 @@ Expected outcome:
 - Reference material (e.g., data)
 - Calendar
 - Tickler
+- Agenda
+- To-Read, Calls
 
 After groups have completed the initial setup, ask them **whether they would add anything beyond the GTD elements**, why, and whether it would be consistent with the GTD philosophy.
 

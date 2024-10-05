@@ -1,3 +1,0 @@
-- [[Modellierung]]
-- [[Programmieren]]
-- [[Spanisch]]

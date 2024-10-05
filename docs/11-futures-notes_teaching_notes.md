@@ -14,7 +14,7 @@ Note: the last part complements the technology-focused futures and focuses more 
 
 Start
 
-- Lack of diversity (in leadership) still an issue
+- Lack of diversity (in leadership) still an issue (talent pool, "need to feel uncomfortable")
 - Persistent company culture: desire of those in charge to be comfortable.
 - Need to embrace the feeling of uncomfortable. Related to diversity and risk.
 (Need to be aware that a "comfort-culture" may not contribute to diversity.)
@@ -28,7 +28,7 @@ Start
 10 minutes
 
 - Encouraging disagreements/challenging thoughts in teams
-- Coworkers who criticize can be the "canaries in the coalmine" or an "irritant"
+- Coworkers who criticize can be the "canaries in the coalmine" or an "irritant" (sounding board)
 
 11:20 minutes
 
