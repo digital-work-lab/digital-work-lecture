@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Teaching notes: Futures"
+has_toc: true
+nav_exclude: true
+---
+
 - after each episode: summarize on the blackboard
 - no AI, but societal/work questions
 - Spitzer: AI will not replace humans, but humans who use AI will replace humans who do not use AI

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Teaching notes: Git"
+has_toc: true
+nav_exclude: true
+---
+
 # Collaborative content creation
 
 Starter question:

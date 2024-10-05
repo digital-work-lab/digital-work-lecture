@@ -15,7 +15,7 @@ has_toc: true
 - [Session: PIM](03_PIM_teaching_notes.html){: target="_blank"}
 - [Session: Excellence](04_Excellence_teaching_notes.html){: target="_blank"}
 - [Session: Communication](06_communication_teaching_notes.html){: target="_blank"}
-- [Session: Remote teams](05_remote_teams_teaching_notes.md){: target="_blank"}
+- [Session: Remote teams](05_remote_teams_teaching_notes.html){: target="_blank"}
 - [Session: Collaborative content creation/Git](07_content_creation_git_teaching_notes.html){: target="_blank"}
 - [Session: Open source work](08_open_source_teaching_notes.html){: target="_blank"}
 - [Session: Knowledge work services](10_knowlege_work_services_teaching_notes.html){: target="_blank"}

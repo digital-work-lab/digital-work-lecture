@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Teaching notes: Getting-things-done"
+has_toc: true
 nav_exclude: true
 ---
 

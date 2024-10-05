@@ -1,3 +1,11 @@
+---
+layout: default
+title: "Teaching notes: Remote work"
+has_toc: true
+nav_exclude: true
+---
+
+
 # Remote in practice: The case of GitLab
 
 Go to the GitLab website / platform to understand what DevOps means

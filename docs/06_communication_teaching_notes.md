@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Teaching notes: Communication"
+has_toc: true
+nav_exclude: true
+---
 
 # GitLab: Choudhury et al. (2020)
 

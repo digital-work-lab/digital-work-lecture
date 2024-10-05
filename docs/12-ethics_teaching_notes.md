@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Teaching notes: Ethics"
+has_toc: true
+nav_exclude: true
+---
+
 Upload combined pdf:
 pdftk file1.pdf file2.pdf cat output mergedfile.pdf
 

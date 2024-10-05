@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "Teaching note"
+has_toc: true
 nav_exclude: true
 ---
 

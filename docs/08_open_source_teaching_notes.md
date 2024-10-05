@@ -1,4 +1,9 @@
- 
+---
+layout: default
+title: "Teaching notes: Open-Source"
+has_toc: true
+nav_exclude: true
+--- 
 
 When commenting on code in Pull-request: need to complete/submit!
 

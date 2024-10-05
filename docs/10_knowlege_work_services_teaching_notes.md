@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Teaching notes: Knowledge work services"
+has_toc: true
+nav_exclude: true
+---
+
 # Knowledge-work services
 
 # Summary of Cutolo and Kenney (reading/previous session)
