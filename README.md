@@ -14,7 +14,7 @@ You can find more information on the following pages:
 
 ## Related courses
 
-- [The udemy course](https://www.udemy.com/course/29-big-ideas-for-getting-things-done/learn/lecture/26821690#overview):
+- [The udemy course](https://www.udemy.com/course/29-big-ideas-for-getting-things-done/learn/lecture/26821690#overview)
 - UNSW INFS102 Working in digital ecosystems
 - VHB New Work
 

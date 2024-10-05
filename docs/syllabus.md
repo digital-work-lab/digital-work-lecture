@@ -81,10 +81,11 @@ TODO
 ## Materials
 
 TODO
+
 <!-- 
 - Slides and notebooks are available on the sub-pages.
 - Another important resource is the [documentation of CoLRev](https://colrev-environment.github.io/colrev/){: target="_blank"}, in particular the [environment setup](https://colrev-environment.github.io/colrev/dev_docs/setup.html){: target="_blank"} and the [package development](https://colrev-environment.github.io/colrev/dev_docs/packages.html){: target="_blank"} pages.
- -->
+-->
 
 ## References
 
