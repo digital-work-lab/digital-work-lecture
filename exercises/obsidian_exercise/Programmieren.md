@@ -4,7 +4,3 @@
 - Eine ausgewählte Programmiersprache vertiefen
 
 # Related courses
-
-- [[AJP]]
-- [[JaP]]
-- [[Open-Source Projekt]]

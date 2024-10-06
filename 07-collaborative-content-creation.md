@@ -814,6 +814,62 @@ mention johnny decimal?
 
 ---
 
+# Part 3: Collaborating
+
+---
+
+# Collaborating
+
+- The distributed model of Git means that every repository has a full version history, (almost) all operations can be completed locally, and every repository can be developed autonomously.
+- To collaborate, a *remote* repository is needed, initially named "origin"
+- If the remote repository exists, the **git clone** command retrieves a local copy
+- To create a remote repository (named "origin"), and push a specific branch:
+
+```
+git remote add origin REMOTE-URL
+git push origin main
+```
+
+<!-- - If the remote repository does not exist, you have to add the remote origin and push the repository -->
+
+![bg right:30% width:300px](../material/git-remote.png)
+
+---
+
+# Collaborating on branches
+
+- To retrieve changes, use the **git pull** command
+- To share changes, use the **git push** command
+
+- Most remote operations, including pull, push, pull requests refer to branches
+- In some cases, **branches must be selected explicitly**, and in other cases, git automatically selects branches, i.e., it remembers the typical branch to pull or push
+
+![bg right:40% width:300px](../material/git-remote-branch.png)
+
+---
+
+# Collaborating with forks
+
+This model works if you are a maintainer of the remote/origin, i.e., if you have write access.
+
+- In Open-Source projects, write-access is restricted to a few maintainers
+- At the same time, it should be possible to integrate contributions from the community
+- **Forks** are remote copies of the upstream repository
+- Contributors can create forks at any time and push changes
+- Contributors can open a **pull request** to signal to maintainers that code from the fork can be merged
+- Pull requests are used for code review, and improvements before code is accepted or rejected
+
+<!-- 
+
+- In the fork, it is recommended to create working branches instead of committing to the `main` branch.
+- It is good practice to regularly **sync** the `main` branches (on GitHub), and merge the changes into your working branches (locally or on GitHub).
+- Syncing changes may be necessary to get bugfixes from the original repository, and to prevent diverging histories (potential merge conflicts in the pull request).
+-->
+
+![bg right:40% width:450px](../material/git-remote-fork.png)
+
+---
+
 <!-- _class: centered -->
 
 # Survey
@@ -821,8 +877,6 @@ mention johnny decimal?
 Please share your feedback to help us improve!
 
 ---
-
-<!-- _class: centered -->
 
 # Reminder
 

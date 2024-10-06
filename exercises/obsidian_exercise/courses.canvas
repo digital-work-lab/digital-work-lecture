@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"a6b21c494c4ac517","type":"group","x":-210,"y":260,"width":1870,"height":597,"label":"semester 2"},
+		{"id":"1ccae2caa13db9cf","type":"group","x":-210,"y":-480,"width":1414,"height":460,"label":"Semester 1"},
+		{"id":"93fc3064c5e9aff8","type":"file","file":"Open-Source Projekt.md","x":266,"y":437,"width":400,"height":400},
+		{"id":"c488219e607eff15","type":"file","file":"VHS Kurse.md","x":784,"y":417,"width":400,"height":400},
+		{"id":"8934f6fab1833a7f","type":"file","file":"AJP.md","x":1240,"y":280,"width":400,"height":400},
+		{"id":"cc4da4870fa3c56b","type":"file","file":"MobIS.md","x":-190,"y":320,"width":400,"height":422},
+		{"id":"e5fb611e3722871d","type":"file","file":"DBS.md","x":280,"y":-420,"width":400,"height":400},
+		{"id":"a0c5c05d8df7b244","type":"file","file":"EidWI.md","x":-190,"y":-420,"width":400,"height":400},
+		{"id":"9dd4693687a6807f","type":"file","file":"JaP.md","x":784,"y":-420,"width":400,"height":400}
+	],
+	"edges":[]
+}

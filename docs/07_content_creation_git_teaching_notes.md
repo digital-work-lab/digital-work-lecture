@@ -12,6 +12,7 @@ Starter question:
 - What are suitable software packages and how would you select one?
 
 **TODO**:
+- Update Git slides: remove exercise and replace by practice-git notebooks
 - elaborate on technology choice (theory), including functional/non-functional criteria
 - develop a decision matrix (?) covering dropbox/sharepoing/wiki/git, with storage size and types, collaboration control or consensus, scalability of collaboration and parallel work.
 - highlight that we look at Git as a particular powerful system (one htat requires deeper understanding)
@@ -47,14 +48,3 @@ Dafür gibt Git uns die Möglichkeit, mit Branches zu arbeiten, also mit separat
 
 Recap: d.h. wir haben jetzt gesehen, dass Dateien oder Dateiänderungen in drei Zuständen sein können: im Working Directory, in der Staging area, und im Git repository. Sie kennen die Operationen, mit denen wir Änderungen für die nächste Version markieren können und die neue Version anlegen können (git add und commit).
 Wir haben uns auch den entgegengesetzten Weg angesehen - git restore und git restore --staged.
-
-
-## Atomic commit exercise
-
-Solution:
-- commit 1: atomic, ok.
-- commit 2: relatively atomic, a few changes beyond compute_language(). may be improved.
-- commit 3: many files changed. changes not related to each other. message refers to refactoring and testing, but the commit also adds functionality.
-- commit 4: many files changed, but the changes belong together. ok.
-- commit 5: atomic, ok.
-It is ok to combine functionality, tests, and docs that belong together in one commit!

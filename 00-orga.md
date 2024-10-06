@@ -14,11 +14,33 @@ Prof. Dr. Gerit Wagner
 Fakultät Wirtschaftsinformatik und Angewandte Informatik
 Universität Bamberg
 
+---
+
+**Your Instructor**  
+
+**Prof. Dr. Gerit Wagner**  
+At Bamberg University since October 2022
+
+I'm excited to guide you through the evolving landscape of **digital work practices** and the technologies shaping the future.
+This course covers the following key themes:
+
+- **Drivers of change** in digital work and its impact on modern organizations
+- **Personal information management** and strategies for individual work excellence
+- Best practices for **remote teams** and effective communication
+- **Collaborative content creation** and the role of open source in work environments
+- The impact of **platformization** on work structures
+- Understanding **knowledge-intensive services** and how they drive innovation
+- Exploring **future scenarios** for work, including fully **digital and distributed organizing**
+- Addressing important **ethical questions**, including the role of **generative AI** in shaping the future of work
+
+![bg right:20% width:200px](../assets/gerit_wagner.jpg)
+
 <!-- 
-Mich vorstellen:
+Introduce myself:
 - Regensburg (running)
 - Montreal
 -->
+
 ---
 
 <!-- _class: centered -->
@@ -120,14 +142,6 @@ Web: https://www.uni-bamberg.de/digital-work
 
 Materials: available via VC: https://vc.uni-bamberg.de/course/view.php?id=68000 (password: 20idw24)
 
-<!-- 
----
-
-# IDW as part of your bachelor
-
-WI/ISM, elective courses (**TODO : PO verlinken**)
-
--->
 ---
 
 # Grades
