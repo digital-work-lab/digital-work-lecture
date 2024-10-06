@@ -5,7 +5,7 @@
 ![Documentation Status](https://img.shields.io/github/actions/workflow/status/digital-work-lab/digital-work-lecture/pages.yml?label=documentation)
 [![DOI](https://zenodo.org/badge/747736072.svg)](https://doi.org/10.5281/zenodo.13893041)
 
-Welcome! The Digital Work Lecture is organized by the digital work lab (Prof. Dr. Gerit Wagner) at Otto-Friedrich Universität Bamberg.
+Welcome! The Digital Work Lecture is organized by the digital work lab (Prof. Dr. Gerit Wagner) at Otto-Friedrich-Universität Bamberg.
 You can find more information on the following pages:
 
 - [Lecture page](https://digital-work-lab.github.io/digital-work-lecture/)

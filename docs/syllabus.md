@@ -39,7 +39,7 @@ My name is Gerit Wagner, and I am your instructor.
 
 **Gerit Wagner**  
 *Assistant Professor of Information Systems*  
-*Otto-Friedrich Universität Bamberg*
+*Otto-Friedrich-Universität Bamberg*
 
 <br style="clear:both">
 

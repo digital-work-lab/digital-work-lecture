@@ -22,7 +22,7 @@ permalink: /
 [![GitHub stars](https://img.shields.io/github/stars/digital-work-lab/digital-work-lecture.svg?style=social&label=Star)](https://github.com/digital-work-lab/digital-work-lecture/stargazers)
 
 Welcome!
-The lecture **Introduction to Digital Work** is organized by the digital work lab (Prof. Dr. Gerit Wagner) at Otto-Friedrich Universität Bamberg.
+The lecture **Introduction to Digital Work** is organized by the digital work lab (Prof. Dr. Gerit Wagner) at Otto-Friedrich-Universität Bamberg.
 You can find all information about this project in our [syllabus](docs/syllabus.html).
 
 ## Course Outline
@@ -44,10 +44,10 @@ You can find all information about this project in our [syllabus](docs/syllabus.
 | 12  | [Ethics](output/12-ethics.html){: target="_blank"}                                                      | TBA        |
 | 13  | [Exam Prep](output/13-exam-prep.html){: target="_blank"}                                                | TBA        |
 
-🎙️ Online
-
 <!-- 
+🎙️ Online
 📋 Collect summaries for exam
+-->
 
 ## Instructor
 
@@ -55,21 +55,10 @@ You can find all information about this project in our [syllabus](docs/syllabus.
 
 **Gerit Wagner**  
 *Assistant Professor of Information Systems*  
-*Otto-Friedrich Universität Bamberg*
-
-My name is Gerit Wagner, and I am your instructor. I enjoy coding, solving programming puzzles, and building tools that are useful for others. In this project, you can contribute to one of my most significant packages: [CoLRev](https://github.com/CoLRev-Environment/colrev). 
+*Otto-Friedrich-Universität Bamberg*
 
 <br style="clear:both">
 
-You can read more about my work [here](docs/instructor.html).
-
-
-slides
-resources and links
-instructor
-
-TBD: include a picture?
-TODO : make group fotos and publish
-
-objectives: mention tools and open synthesis?
+<!-- 
+My name is Gerit Wagner, and I am your instructor. I enjoy coding, solving programming puzzles, and building tools that are useful for others. In this project, you can contribute to one of my most significant packages: [CoLRev](https://github.com/CoLRev-Environment/colrev). 
 -->
