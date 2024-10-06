@@ -26,7 +26,7 @@ has_toc: true
 ## Preparation
 
 - [ ] Update dates and rooms for sessions
-
+- [ ] Update the rating average in the badge (change the badge-link on index.md) and participation
 
 ## Week 1: Introduction, topics, and groups
 
