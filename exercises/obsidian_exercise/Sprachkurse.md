@@ -1,7 +1,7 @@
 ## Sprachkurse
     
 - Große Auswahl an Sprachen in verschiedenen Leveln auf der Uni Webseite einsehbar 
-(https://www.uni-bamberg.de/sz/studiumsprach-und-kursangebot/)
+(https://www.uni-bamberg.de/sz/studium/sprach-und-kursangebot/)
 - Je nachdem welches Level man besucht, braucht man Vorwissen oder Aufbauende Kurse
 - Einstufungstests an der Universitt manchmal als Vorraussetzung
 - Anmeldung über FlexNow erforderlich
