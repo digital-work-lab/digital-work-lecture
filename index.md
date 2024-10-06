@@ -16,7 +16,7 @@ permalink: /
 [![Language](https://img.shields.io/badge/Language-Sessions%20in%20German,%20Materials%20in%20English-blue)](https://digital-work-lab.github.io/digital-work-lecture/docs/syllabus.html)
 [![Delivery](https://img.shields.io/badge/Delivery-In%20person-blue)](https://digital-work-lab.github.io/digital-work-lecture/docs/syllabus.html)
 ![Offered by: Digital Work at Otto-Friedrich-Universität Bamberg](https://img.shields.io/badge/Offered%20by-%20Digital%20Work%20(Otto--Friedrich--Universit%C3%A4t%20Bamberg)-blue)
-[![Evaluations](https://img.shields.io/badge/Rating-★★★★★-yellow)](https://digital-work-lab.github.io/digital-work-lecture/docs/evaluations.html)
+[![Evaluations](https://img.shields.io/badge/Rating-★★★★★%20(4.8%20/%205)-yellow)](https://digital-work-lab.github.io/digital-work-lecture/docs/evaluations.html)
 ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-green.svg)
 [![GitHub stars](https://img.shields.io/github/stars/digital-work-lab/digital-work-lecture.svg?style=social&label=Star)](https://github.com/digital-work-lab/digital-work-lecture/stargazers)
 
