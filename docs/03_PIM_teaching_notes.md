@@ -1,9 +1,11 @@
 ---
 layout: default
-title: "Teaching note"
+title: "Teaching notes: PIM"
 has_toc: true
 nav_exclude: true
 ---
+
+# Teaching notes: PIM
 
 TODO : test the obsidian exercise before.
 

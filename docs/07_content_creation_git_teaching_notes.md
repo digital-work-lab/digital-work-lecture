@@ -5,7 +5,7 @@ has_toc: true
 nav_exclude: true
 ---
 
-# Collaborative content creation
+# Teaching notes: Git
 
 Starter question:
 
@@ -16,9 +16,9 @@ Starter question:
 - develop a decision matrix (?) covering dropbox/sharepoing/wiki/git, with storage size and types, collaboration control or consensus, scalability of collaboration and parallel work.
 - highlight that we look at Git as a particular powerful system (one htat requires deeper understanding)
 
-# Branching: Theory (CONCENTRATE)
+## Branching: Theory (CONCENTRATE)
 
-## Branches
+### Branches
 
 Wenn wir uns jetzt ein größeres Softwareprojekt vorstellen, also beispielsweise den Linux-Kernel, dann werden da fast im Sekundentakt neue Versionen angelegt. Wenn wir da bei einer linearen Versionsgeschichte bleiben, dann wird das schnell chaotisch.
 Beispiel: Ich ändere die USB-Treiber, Sie Ändern ein Transportprotokoll, und Sie arbeiten an einem neuen Dateisystem. Wenn das wahllos durcheinander läuft dann gibt es Abhängigkeiten und Fehler, die wir vermeiden wollen. Idealerweise wollen wir an unserem Code arbeiten, ohne, dass jemand anders uns da Änderungen einfügt, die gar nichts mit unserer Arbeit zu tun haben.
@@ -28,7 +28,7 @@ Dafür gibt Git uns die Möglichkeit, mit Branches zu arbeiten, also mit separat
 - Explain merge (common ancestor required, ideally: fast-forward (very efficient compared to other systems), otherwise: raise merge conflict)
 
 
-## creating changes
+### creating changes
 
 - How should a versioning system look like? - area where you have the project files that you work with, and a separate "version database". Git calls it the "working directory" and the git directory. It has operations to create new versions from the files in your working directory. And it also has operations to retrieve files from the "version database" or the "history". That's what we will focus on for now (local operations). [AREAS AUFZEICHNEN]
 - Zusätzlich gibt es noch eine Staging Area [IN DER MITTE  EINZEICHNEN]. 
@@ -49,7 +49,7 @@ Recap: d.h. wir haben jetzt gesehen, dass Dateien oder Dateiänderungen in drei 
 Wir haben uns auch den entgegengesetzten Weg angesehen - git restore und git restore --staged.
 
 
-# Atomic commit exercise
+## Atomic commit exercise
 
 Solution:
 - commit 1: atomic, ok.

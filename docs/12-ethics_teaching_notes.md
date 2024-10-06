@@ -5,6 +5,8 @@ has_toc: true
 nav_exclude: true
 ---
 
+# Teaching notes: Ethics
+
 Upload combined pdf:
 pdftk file1.pdf file2.pdf cat output mergedfile.pdf
 
@@ -18,7 +20,7 @@ Mit besten Grüßen
 
 Gerit Wagner
 
-# Fair compensation
+## Fair compensation
 
 - Ask students what they expect as a starting salary (e.g., 70.000 €)
 - Scenario: an employee (Markus) makes 160 €.
@@ -55,7 +57,7 @@ If necessary:
     - communitarianism: diversity/gender (market mechanisms vs what society (should) value)
 -->
 
-# Utilitarianism
+## Utilitarianism
 
 cost-benefit:
 
@@ -64,7 +66,7 @@ cost-benefit:
 
 <div class="page-break"></div>
 
-# Deontology
+## Deontology
 
 - Medical context: mandatory vaccination (or ventilators during covid)
 
@@ -79,7 +81,7 @@ Analysis:
 - Consequences: The positive outcome is the high-quality work on a critical task that leads to significant public health benefits. In this scenario, the worker's unethical behavior of manipulating the crowdsourcing system (bad intentions) results in a situation where their skills can be applied to produce a highly beneficial outcome (good consequences). From a deontological standpoint, the emphasis would remain on the immoral nature of the worker's actions rather than the beneficial result. This example underscores the ethical dilemmas that can arise in crowdwork, where the morality of actions is distinct from their outcomes.
 
 
-# Virtue ethics
+## Virtue ethics
 
 Leading with Integrity in a Virtual Team (even under pressure)
 
@@ -104,7 +106,7 @@ Focus on Character: Alex's behavior is guided by virtues such as honesty, integr
 Moral Development: By leading with these virtues, Alex not only helps the team succeed in the project but also contributes to the moral development of his team members, encouraging them to embody similar virtues in their work.
 -->
 
-# Workplace surveillance
+## Workplace surveillance
 
 Revisit the team, which has transitioned into remote work over the pandemic.
 
@@ -145,14 +147,14 @@ Today/In practice, justifications for surveillance often include both consequent
 Cambridge analytica (misusing massive Facebook data in the election)
 - surveillance is hidden (resembling totalitarian tendencies of Orwell)
 
-# Platforms and crowd-worker exploitation
+## Platforms and crowd-worker exploitation
 
 - overall utility: honest or even hard feedback can have positive effects (for clients and workers). If a few workers fail, the overall utility may still be positive.
 - duty to fulfill contracts/terms-of-service? duty as an employer?
 
 <div class="page-break"></div>
 
-# Summary
+## Summary
 
 - cases: thinking in scenarios (testing whether our justification holds even in extreme cases)
 - three ethical theories
@@ -165,7 +167,7 @@ Circumstances matter:
 - Intentions and communication matter
 - The act itself can affect the actors/resources
 
-# Outlook
+## Outlook
 
 Summary:
 

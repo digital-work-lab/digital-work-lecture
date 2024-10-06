@@ -5,9 +5,9 @@ has_toc: true
 nav_exclude: true
 ---
 
-# Knowledge-work services
+# Teaching notes: Knowledge-work services
 
-# Summary of Cutolo and Kenney (reading/previous session)
+## Summary of Cutolo and Kenney (reading/previous session)
 
 PDE: Platform-dependent entrepreneur
 
@@ -38,11 +38,11 @@ Development of costs/risks/uncertainty over time
 
 - From positive platform effects on startup to negative platform effects in the maturity stage
 
-# Digital markets for knowledge-intensive services
+## Digital markets for knowledge-intensive services
 
 - Trillion-dollar: Billionen
 
-# Literature review method illustration (blackboard)
+## Literature review method illustration (blackboard)
 
 - Problem formulation: objectives / review type (describe / understand / explain / test) / scope and key terminology
 - Search: scope / techniques: database search (keywords / searqch query), citation search, table-of-content-scan...
@@ -51,7 +51,7 @@ Development of costs/risks/uncertainty over time
 
 Announce that we will encounter challenges in each of the three steps (after problem formulation).
 
-# Illustration on evidence-based searches
+## Illustration on evidence-based searches
 
 - basis: existing sample of included (relevant) and excluded (irrelevant) papers.
 - current best practice (litsearchr): look for those terms that are common in the included papers and consider them as keywords
@@ -67,7 +67,7 @@ Announce that we will encounter challenges in each of the three steps (after pro
 - how can we find the queries that are effective? (e.g., digital platform AND service ...)
 
 
-# Illustrate small-scale statistics
+## Illustrate small-scale statistics
 
 Irish soccer fans (100.000) - business or tourists?
 

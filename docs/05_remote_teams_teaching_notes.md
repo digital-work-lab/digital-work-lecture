@@ -5,8 +5,9 @@ has_toc: true
 nav_exclude: true
 ---
 
+# Teaching notes: Remote work
 
-# Remote in practice: The case of GitLab
+## Remote in practice: The case of GitLab
 
 Go to the GitLab website / platform to understand what DevOps means
 
@@ -25,8 +26,7 @@ How does the DRI (everyone can make decisions) work?  (hiring selection,  builds
 - challenges of asynchronous work
 - handbook
 
-
-# Remote in practice: GitLab's remote playbook
+## Remote in practice: GitLab's remote playbook
 
 Remote models: add covid-home-office, FTS, digital nomads
 
@@ -42,7 +42,7 @@ forms of remote-work arrangements: (+ digital nomads? / time-zones, ...)
 QUESTION/BLACKBOARD:
 - What are the key challenges / benefits of remote work?
 
-## Common challenges in remote work
+### Common challenges in remote work
 
 - Managing work-life boundaries (e.g., unplugging after work, working longer hours)
 - Team-related (e.g., communication, different time zones, cultural differences)
@@ -54,7 +54,7 @@ QUESTION/BLACKBOARD:
 	https://timeular.com/blog/challenges-working-remotely/
 - Work-life boundary management/expectations: availability (time, channels): better to set generally (asking for ok), rather than pushing back specific requests
 
-## Benefits of remote work
+### Benefits of remote work
 
 - Flexibility and autonomy
 - Less commuting time
@@ -64,7 +64,7 @@ QUESTION/BLACKBOARD:
 - Lower costs for office space
 
 
-# Remote in practice: The GitLab handbook
+## Remote in practice: The GitLab handbook
 
 Employee handbook: transparency of processes, values, practices
 
@@ -103,8 +103,7 @@ culture: reflected in the handbook=
 - team: connecting
 
 
-# The role of trust for effective virtual teams
-
+## The role of trust for effective virtual teams
 
 Higher virtuality increases the effect of trust on team effectiveness (through higher perceived risk)
 Documentation should decrease the effect of trust on team effectiveness  (through lower perceived risk)

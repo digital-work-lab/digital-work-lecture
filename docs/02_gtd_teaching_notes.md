@@ -5,7 +5,9 @@ has_toc: true
 nav_exclude: true
 ---
 
-# General announcements
+# Teaching notes: Getting-things-done
+
+## General announcements
 
 Next week: start at 14.00 (stud. Vollversammlung)
 

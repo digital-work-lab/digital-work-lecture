@@ -5,11 +5,13 @@ has_toc: true
 nav_exclude: true
 ---
 
+# Teaching notes: Futures
+
 - after each episode: summarize on the blackboard
 - no AI, but societal/work questions
 - Spitzer: AI will not replace humans, but humans who use AI will replace humans who do not use AI
 
-# Video summary: Grant/Gladwell: Uncomfortable with the future
+## Video summary: Grant/Gladwell: Uncomfortable with the future
 
 Note: the last part complements the technology-focused futures and focuses more on organizations/people. It relates to several topics we discussed earlier in the lecture (e.g., remote work, excellence individually and in teams, development of skills)
 
@@ -55,6 +57,6 @@ Start
 
 24 min.
 
-# Homework
+## Homework
 
 - Read the HBR article on the skills that are hard to replace by AI

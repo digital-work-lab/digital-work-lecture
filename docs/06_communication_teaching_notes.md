@@ -5,7 +5,9 @@ has_toc: true
 nav_exclude: true
 ---
 
-# GitLab: Choudhury et al. (2020)
+# Teaching notes: Communication
+
+## GitLab: Choudhury et al. (2020)
 
 Start: 10 Minutes to revisit your notes / compare with your neighbour
 
@@ -47,7 +49,7 @@ TBD: does it fit with the discussion/summary? - adopt a communication/collaborat
 - Collaboratively editable (-> comparison with Wikis) https://about.gitlab.com/handbook/handbook-usage/#wiki-handbooks-dont-scale
 -->
 
-# Communication at GitLab
+## Communication at GitLab
 
 Have students read the communication section in the Gitlab handbook:
 - split students in x groups
