@@ -15,7 +15,7 @@ permalink: /
 [![Prerequisites](https://img.shields.io/badge/Prerequisites-None-blue)](https://digital-work-lab.github.io/digital-work-lecture/docs/syllabus.html)
 [![Language](https://img.shields.io/badge/Language-Sessions%20in%20German,%20Materials%20in%20English-blue)](https://digital-work-lab.github.io/digital-work-lecture/docs/syllabus.html)
 [![Delivery](https://img.shields.io/badge/Delivery-In%20person-blue)](https://digital-work-lab.github.io/digital-work-lecture/docs/syllabus.html)
-![Offered by: Digital Work at Otto-Friedrich-Universität Bamberg](https://img.shields.io/badge/Offered%20by-%20Digital%20Work%20(Otto--Friedrich--Universit%C3%A4t%20Bamberg)-blue)
+![Offered by: Digital Work at Otto-Friedrich-Universität Bamberg](https://img.shields.io/badge/Offered%20by-%20Digital%20Work%20(Otto--Friedrich--Universit%C3%A4t%20Bamberg)-blue)<br>
 [![Evaluations](https://img.shields.io/badge/Rating-★★★★★%20(4.8%20/%205)-yellow)](https://digital-work-lab.github.io/digital-work-lecture/docs/evaluations.html)
 ![Completion](https://img.shields.io/badge/Enrollment-30-students-green)
 ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-green.svg)
