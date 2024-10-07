@@ -30,3 +30,20 @@ has_toc: true
 
 ## Week 1: Introduction, topics, and groups
 
+
+Willkommen zur Veranstaltung Einführung in Digital Work
+
+Sehr geehrte Studierende,
+
+herzlich willkommen zur Veranstaltung Einführung in Digital Work.
+
+Sie finden alle administrativen Informationen sowie alle Vorlesungsfolien hier im VC-Kurs. Bitte beachten Sie, dass sämtliche schriftliche Kommunikation sowie alle Informationen ausschließlich hier im VC-Kurs erfolgt bzw. zur Verfügung gestellt wird.
+
+Bei Fragen zur Veranstaltung können Sie sich gern an mich (gerit.wagner@uni-bamberg.de) wenden.
+
+Ich wünsche Ihnen eine erfolgreiche Veranstaltung.
+
+Mit besten Grüßen
+
+Gerit Wagner
+
