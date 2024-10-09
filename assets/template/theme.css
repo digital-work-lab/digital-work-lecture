@@ -4,7 +4,7 @@
 
 
 :root {
-    background-image: url("../assets/background.jpg");
+    background-image: url("../assets/template/background.jpg");
     background-size: 100% 100%;
 }
 
@@ -76,32 +76,32 @@ section.lead::after {
 
 
 section.overview_all {
-  background-image: url("../assets/lecture_overview.jpg");
+  background-image: url("../assets/template/lecture_overview.jpg");
   background-size: 100% 100%;
 }
 
 section.overview_part_1 {
-  background-image: url("../assets/lecture_overview.jpg");
+  background-image: url("../assets/template/lecture_overview.jpg");
   background-size: 100% 100%;
 }
 
 section.overview_part_2 {
-  background-image: url("../assets/lecture_2-4.jpg");
+  background-image: url("../assets/template/lecture_2-4.jpg");
   background-size: 100% 100%;
 }
 
 section.overview_part_3 {
-  background-image: url("../assets/lecture_5-7.jpg");
+  background-image: url("../assets/template/lecture_5-7.jpg");
   background-size: 100% 100%;
 }
 
 section.overview_part_4 {
-  background-image: url("../assets/lecture_8-10.jpg");
+  background-image: url("../assets/template/lecture_8-10.jpg");
   background-size: 100% 100%;
 }
 
 section.overview_part_5 {
-  background-image: url("../assets/lecture_11-12.jpg");
+  background-image: url("../assets/template/lecture_11-12.jpg");
   background-size: 100% 100%;
 }
 
