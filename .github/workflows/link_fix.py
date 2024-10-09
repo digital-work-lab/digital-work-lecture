@@ -8,6 +8,8 @@ markdown_link_pattern = re.compile(r'(\[([^\]]+)\]\((http[^\)]+)\))(\{[^}]*\})?'
 def append_target_blank_to_links(file_path):
     # Read the content of the file
     content = file_path.read_text(encoding='utf-8')
+    if "marp: true" in content[0:100]:
+        return
 
     # Function to modify the markdown link and add target="_blank"
     def add_target_blank(match):
