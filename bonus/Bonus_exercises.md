@@ -43,7 +43,7 @@ Steps
 
 - Opt-in on the bonus task via VC and be assigned to a group (3 students max).
 - Brain-storm, search for relevant resources, and agree on the high-level structure for the selected task.
-- Create a fork of the [*digital-work lab* handbook](https://digital-work-lab.github.io/handbook/), give the team access, and add a high-level structure.
+- Create a fork of the [*digital-work lab* handbook](https://digital-work-lab.github.io/handbook/){: target="_blank"}, give the team access, and add a high-level structure.
 - Distribute the high-level items and have everyone suggest a few bullet-points for their item.
 - Create a pull-request, discuss, and revise the items.
 
