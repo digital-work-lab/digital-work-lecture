@@ -74,6 +74,11 @@ def check_html_links(file_path):
     # Check normal .html links (relative to current file)
     for match in matches:
         html_link = match[1]  # Extracted .html link from the markdown
+
+        # Skip links that are part of the output directory
+        if "/output/" in html_link:
+            continue
+
         # Replace .html with .md
         md_link = html_link.replace('.html', '.md')
         
