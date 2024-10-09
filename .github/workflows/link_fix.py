@@ -1,6 +1,8 @@
 from pathlib import Path
 import re
 
+# From top-level dir, run
+# python .github/workflows/link_fix.py
 
 # Regular expression to match markdown links that start with http and may or may not have a {...} block
 markdown_link_pattern = re.compile(r'(\[([^\]]+)\]\((http[^\)]+)\))(\{[^}]*\})?')
@@ -76,7 +78,7 @@ def check_html_links(file_path):
         html_link = match[1]  # Extracted .html link from the markdown
 
         # Skip links that are part of the output directory
-        if "/output/" in html_link:
+        if "output/" in html_link:
             continue
 
         # Replace .html with .md
