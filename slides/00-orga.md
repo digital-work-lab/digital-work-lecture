@@ -52,7 +52,7 @@ Introduce myself:
 - Challenges you grapple with
 - Work technologies that are exciting
 
-![bg right:45% width:550px](../assets/00_unsplash_office_space.jpeg)
+![bg right:45% width:550px](../materials/00_unsplash_office_space.jpeg)
 
 <!--
 "Die Vorlesung mit Leben füllen, Ihre Ideen mit einbringen
