@@ -13,7 +13,7 @@ PANDOC_CALL = docker run --rm \
 SLIDES_LIST := $(patsubst slides/%.md,%,$(wildcard slides/[0-9][0-9]*.md))
 
 # Define a rule to build all slides
-slides: lecture_slides lecture_slides_pdfs teaching_notes
+slides: lecture_slides lecture_slides_pdfs
 
 # convert_pdfs
 
