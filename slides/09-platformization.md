@@ -114,7 +114,7 @@ Typical mechanism to raise capital on crowd-funding platforms:
 - Later customers make decisions on whether to back a project, they know their own valuations but also see the aggregate contribution made by previous customers
 - Funds are transferred when a predefined threshold is met (all-or-nothing funding)
 
-Example: [Kickstarter](https://help.kickstarter.com/hc/en-us/articles/115005028514-What-are-the-basics-)
+Example: [Kickstarter](https://help.kickstarter.com/hc/en-us/articles/115005028514-What-are-the-basics-){: target="_blank"}
 
 <!-- 
 All-or-nothing funding :why do platforms do that?
@@ -138,7 +138,7 @@ Typical mechanism to source from innovation platforms:
 - Contestants submit solutions on the platform
 - The requester chooses the best solution(s) and awards the prize
 
-Example: [Crowdspring](https://www.crowdspring.com/how-it-works/)
+Example: [Crowdspring](https://www.crowdspring.com/how-it-works/){: target="_blank"}
 
 <!-- 
 - note that innovation (e.g., design/creative work) is also needed for other downstream steps
@@ -158,7 +158,7 @@ Typical mechanism to source from micro-task platforms:
 - Workers self-select into tasks (when requirements are met) and complete the work
 - Requestors accept or reject the solution
 
-Example: [Amazon Mechanical Turk](https://www.mturk.com/how-it-works)
+Example: [Amazon Mechanical Turk](https://www.mturk.com/how-it-works){: target="_blank"}
 
 ---
 
@@ -174,7 +174,7 @@ Typical mechanism to source knowledge work services from platforms (buyer-determ
 - The execution of work is monitored by clients (continuously or at milestones)
 - Project completion: submission of results, and mutual ratings
 
-Example: [Upwork](https://www.upwork.com/resources/how-to-hire-freelancers)
+Example: [Upwork](https://www.upwork.com/resources/how-to-hire-freelancers){: target="_blank"}
 
 <!-- 
 We were trying to find somebody who had a combination of skills that nobody in their right mind should actually have.-->

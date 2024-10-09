@@ -86,15 +86,15 @@ Harker and MacDonnell (2012)
 - GitLab: An open-source company that operates GitLab, a DevOps platform for software development
 - A public all-remote company with no physical offices
 - 2,100 employees across 60 countries
-- Outreach and education efforts, such as the [Coursera course](https://www.coursera.org/learn/remote-team-management) or the [remote playbook](https://about.GitLab.com/company/culture/all-remote/) 
+- Outreach and education efforts, such as the [Coursera course](https://www.coursera.org/learn/remote-team-management){: target="_blank"} or the [remote playbook](https://about.GitLab.com/company/culture/all-remote/){: target="_blank"} 
 - An exciting case to understand how all-remote models can work
 
-[Interview with Sid Sijbrandij, co-founder and CEO of GitLab](https://www.youtube.com/watch?v=u0dRWDmYSvg)
+[Interview with Sid Sijbrandij, co-founder and CEO of GitLab](https://www.youtube.com/watch?v=u0dRWDmYSvg){: target="_blank"}
 
 ---
 # Remote in practice: GitLab's remote playbook
 
-Take a look at the following sections of the  [playbook](https://about.GitLab.com/company/culture/all-remote/) :
+Take a look at the following sections of the  [playbook](https://about.GitLab.com/company/culture/all-remote/){: target="_blank"} :
 
 - Different remote models
 - Transition to remote
@@ -114,7 +114,7 @@ https://escalla.co.uk/blog-remote-working-5-benefits-challenges/
 - The handbook is a key element at GitLab 
 - It has over 2,000 pages and everyone can suggest changes
 
-1. Go to the [handbook](https://about.GitLab.com/handbook/) and gain an overview of what is covered
+1. Go to the [handbook](https://about.GitLab.com/handbook/){: target="_blank"} and gain an overview of what is covered
 2. Imagine you were to join GitLab. Navigate to the onboarding page and review the onboarding issue template. What are the key things you are expected to do in the first days?
 3. Briefly review the strategy document.
 4. Scan the values section. Is there anything surprising, or something you (dis)agree with?
@@ -180,7 +180,7 @@ TODO : cover Adam Grant / giver, taker, matcher
 
 🧑‍🎓️ **Continuous learning**: We believe in continuous growth, setting aside time to learn on a regular basis, and curating helpful resources.
 
-**Task**: How could the **values** ([link](https://digital-work-lab.github.io/handbook/docs/10-lab/10_processes/10.01.goals.html)) be integrated in the [digital-work-lab handbook](https://digital-work-lab.github.io/handbook/), i.e., as a tangible **artifact** of culture?
+**Task**: How could the **values** ([link](https://digital-work-lab.github.io/handbook/docs/10-lab/10_processes/10.01.goals.html){: target="_blank"}) be integrated in the [digital-work-lab handbook](https://digital-work-lab.github.io/handbook/){: target="_blank"}, i.e., as a tangible **artifact** of culture?
 
 ---
 
@@ -207,7 +207,7 @@ Read the paper of Choudhury et al. (2020), who presents the perspectives of diff
 - What are the **key organizing principles** at GitLab?
 - What are the **boundary conditions** for all-remote approaches?
 
-Choudhury, P., Crowston, K., Dahlander, L., Minervini, M. S., & Raghuram, S. (2020). GitLab: work where you want, when you want. _Journal of Organization Design_, _9_, 1-17. [link](https://link.springer.com/article/10.1186/s41469-020-00087-8#citeas)
+Choudhury, P., Crowston, K., Dahlander, L., Minervini, M. S., & Raghuram, S. (2020). GitLab: work where you want, when you want. _Journal of Organization Design_, _9_, 1-17. [link](https://link.springer.com/article/10.1186/s41469-020-00087-8#citeas){: target="_blank"}
 
 ---
 
@@ -248,6 +248,6 @@ Powell, A., Piccoli, B., and Ives, B. (2004) Virtual teams: a review of current 
 <!-- 
 https://www.ted.com/talks/nedra_glover_tawwab_your_3_step_guide_to_setting_better_boundaries_at_work/comments
 
-- Include contents from CSCW research stream [cscw/wikipedia: matrix and articulation/awareness/appropriation work](https://en.wikipedia.org/wiki/Computer-supported_cooperative_work#:~:text=Computer-supported%20cooperative%20work%20(CSCW,support%20collaborative%20activity%20and%20coordination.)
+- Include contents from CSCW research stream [cscw/wikipedia: matrix and articulation/awareness/appropriation work](https://en.wikipedia.org/wiki/Computer-supported_cooperative_work#:~:text=Computer-supported%20cooperative%20work%20(CSCW,support%20collaborative%20activity%20and%20coordination.){: target="_blank"}
 - **Agile/SCRUM** practices / Projektmanagement (mention - should be covered in other lectures??)
 -->

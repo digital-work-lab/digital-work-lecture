@@ -163,7 +163,7 @@ Think of applications and practices that are important in your work but not list
 
 # Break
 
-Download and install [obsidian](https://obsidian.md/) on your personal or CIP machine
+Download and install [obsidian](https://obsidian.md/){: target="_blank"} on your personal or CIP machine
 
 <!-- Note : obsidian can be installed in CIP pool computers -->
 
@@ -305,7 +305,7 @@ Live illustration
 
 - Start a (obsidian-based) mind-map (explain markdown syntax, especially links), similar to the seminar and ideally showcasing the emergence of concepts/structures (what are the challenges/how should we prepare?) interactively and then provide an intro into obsidian (managing a personal knowledge database).
 
-- show [obsidian docs](https://help.obsidian.md/Obsidian/Index), interactive graph on the top right
+- show [obsidian docs](https://help.obsidian.md/Obsidian/Index){: target="_blank"}, interactive graph on the top right
  
 # Obsidian Research
 ## Best Practice für Knoten, Tags, etc.
@@ -333,7 +333,7 @@ This is a typical case in which a second-brain approach, or an information heter
 
 To explore how second-brain approaches work in practice, we transfer Lisa's case to an obsidian vault (i.e., repository), using the files provided in the VC course.
 
-As a preliminary step, [download the materials](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fdigital-work-lab%2Fdigital-work-lecture%2Ftree%2Fmain%2Fexercises%2Fobsidian_exercise), and move them to a new obsidian vault. Briefly explore the contents of the files and familiarize with the obsidian functionality.
+As a preliminary step, [download the materials](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fdigital-work-lab%2Fdigital-work-lecture%2Ftree%2Fmain%2Fexercises%2Fobsidian_exercise){: target="_blank"}, and move them to a new obsidian vault. Briefly explore the contents of the files and familiarize with the obsidian functionality.
 
 <!-- These are the steps that need to be taken to get organized using markdown, canvas, and obsidian. -->
 
@@ -418,7 +418,7 @@ Brainstorm with students: how could bots support obsidian, e.g.,
 
 # Short video
 
-[How a software developer advocate uses Obsidian for work](https://www.youtube.com/watch?v=D7e1ud_Dk24)
+[How a software developer advocate uses Obsidian for work](https://www.youtube.com/watch?v=D7e1ud_Dk24){: target="_blank"}
 
 --- 
 

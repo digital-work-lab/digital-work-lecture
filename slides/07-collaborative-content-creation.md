@@ -37,9 +37,9 @@ Settings:
 
 Software can support collaborative content creation in different ways:
 
-- Simultaneous sessions for editing documents (e.g., [VisualStudio Live Share](https://visualstudio.microsoft.com/de/services/live-share/))
+- Simultaneous sessions for editing documents (e.g., [VisualStudio Live Share](https://visualstudio.microsoft.com/de/services/live-share/){: target="_blank"})
 - File synchronization, replacing files or creating copies when different people edit the same document (e.g., Dropbox, Owncloud)
-- File synchronization with lock mechanisms (e.g., [Sharepoint](https://support.microsoft.com/de-de/office/auschecken-oder-einchecken-von-dateien-in-einer-dokumentbibliothek-acce24cd-ab39-4fcf-9c4d-1ce3050dc602) with file check-out and check-in)
+- File synchronization with lock mechanisms (e.g., [Sharepoint](https://support.microsoft.com/de-de/office/auschecken-oder-einchecken-von-dateien-in-einer-dokumentbibliothek-acce24cd-ab39-4fcf-9c4d-1ce3050dc602){: target="_blank"} with file check-out and check-in)
 - Branching and merging in shared repositories (e.g., Git, GitHub)
 
 <!--
@@ -55,7 +55,7 @@ Discuss that lock-systems don't work well (mostly for 3-5 people, otherwise, tea
 
 <!-- 
 - Windows, Linux, Github, ...
-- decentralized (vs. [centralized](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control))
+- decentralized (vs. [centralized](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control){: target="_blank"})
 
 - Give a brief overview/intro to git (its relevance/use cases; industry-driven, but battle-tested: Linux/diffusion)
 
@@ -135,11 +135,11 @@ In the practice sessions:
 
 ![bg right:45% width:620px](../material/reorder.png)
 
-> \* Note: This session is based on our [unique and peer-reviewed approach](https://digital-work-lab.github.io/rethink-git-teaching/).
+> \* Note: This session is based on our [unique and peer-reviewed approach](https://digital-work-lab.github.io/rethink-git-teaching/){: target="_blank"}.
 
 <!-- **Preconditions**: 
-- Git installed, username and email set (using the [software carpentry tutorial](https://librarycarpentry.org/lc-git/02-getting-started/index.html))
-- SSH setup for Github (using the [software carpentry tutorial](https://librarycarpentry.org/lc-git/03-sharing/index.html)). The `ssh -T git@github.com` command runs successfully.
+- Git installed, username and email set (using the [software carpentry tutorial](https://librarycarpentry.org/lc-git/02-getting-started/index.html){: target="_blank"})
+- SSH setup for Github (using the [software carpentry tutorial](https://librarycarpentry.org/lc-git/03-sharing/index.html){: target="_blank"}). The `ssh -T git@github.com` command runs successfully.
 
 **Part 3**: Remote collaboration (60 min) -->
 
@@ -294,7 +294,7 @@ Break
 
 # Practice: Branching
 
-To practice git branching, we use the [learn-git-branching](https://learngitbranching.js.org/?locale=de_DE) tutorial.
+To practice git branching, we use the [learn-git-branching](https://learngitbranching.js.org/?locale=de_DE){: target="_blank"} tutorial.
 
 Complete the first two levels on branching, merging, and navigating in the git tree.
 <!-- LT: maybe mention they can practice the whole tutorial afterwards for practice -->
@@ -629,7 +629,7 @@ In the following, we work with patches to save time while creating changes that 
 
 **Check**: The commands did not produce any error messages.
 
-For the next steps, download the code for [colrev](https://github.com/CoLRev-Ecosystem/colrev) as a zip file (through the `Code` button), extract the files and move them to your `colrev_project` directory*. Add all changes and create a new version. -->
+For the next steps, download the code for [colrev](https://github.com/CoLRev-Ecosystem/colrev){: target="_blank"} as a zip file (through the `Code` button), extract the files and move them to your `colrev_project` directory*. Add all changes and create a new version. -->
 
 ---
 
@@ -654,9 +654,9 @@ gitk.png screenshot + add explanations similar to https://lostechies.com/joshuaf
 
 TODO : create another version and check how gitk displays the unstaged/staged changes
 
-Go to the [colrev](https://github.com/CoLRev-Ecosystem/colrev) project on GitHub and explore the version history.
+Go to the [colrev](https://github.com/CoLRev-Ecosystem/colrev){: target="_blank"} project on GitHub and explore the version history.
 - Navigate to `commits` and check which files were modified in the most recent version
-- From the [main page](https://github.com/CoLRev-Ecosystem/colrev), navigate to `colrev/dataset.py` and click on `Blame` to see what revision and author last modified specific lines of code
+- From the [main page](https://github.com/CoLRev-Ecosystem/colrev){: target="_blank"}, navigate to `colrev/dataset.py` and click on `Blame` to see what revision and author last modified specific lines of code
 
 **Check**: When was the `load_records_dict` function last modified?
 
@@ -669,11 +669,11 @@ It is good practice to create **atomic commits**, i.e., small changes that belon
 
 Analyze the following commits and discuss which ones are atomic and which ones combine changes that do not belong together (i.e., should be in separate commits):
 
- - [commit 1](https://github.com/CoLRev-Environment/colrev/commit/a0c9043784f9342136d2ab214513688769669199)
- - [commit 2](https://github.com/CoLRev-Environment/colrev/commit/5288e92083b6df546d7c8fd590df3e968a909114)
- - [commit 3](https://github.com/CoLRev-Environment/colrev/commit/ba08d4242f48ec96b4fa8cfd053ee3781e32231f)
- - [commit 4](https://github.com/CoLRev-Environment/colrev/commit/ce9850f805a140692866970c92557833e6befa0b)
- - [commit 5](https://github.com/CoLRev-Environment/colrev/commit/93fc7e851d2ba3fc95cc3190b6b71dc4a907c96b)
+ - [commit 1](https://github.com/CoLRev-Environment/colrev/commit/a0c9043784f9342136d2ab214513688769669199){: target="_blank"}
+ - [commit 2](https://github.com/CoLRev-Environment/colrev/commit/5288e92083b6df546d7c8fd590df3e968a909114){: target="_blank"}
+ - [commit 3](https://github.com/CoLRev-Environment/colrev/commit/ba08d4242f48ec96b4fa8cfd053ee3781e32231f){: target="_blank"}
+ - [commit 4](https://github.com/CoLRev-Environment/colrev/commit/ce9850f805a140692866970c92557833e6befa0b){: target="_blank"}
+ - [commit 5](https://github.com/CoLRev-Environment/colrev/commit/93fc7e851d2ba3fc95cc3190b6b71dc4a907c96b){: target="_blank"}
 
 Also check the commit message (short summary at the beginning). Does the message clearly summarize the changes?
 
@@ -793,7 +793,7 @@ Setting: Two authors working on the same document ([paper.md](../material/paper.
 <!-- 
 # Bonus part 2
 
-- Create a fork of the [handbook](https://github.com/digital-work-lab/handbook)
+- Create a fork of the [handbook](https://github.com/digital-work-lab/handbook){: target="_blank"}
 - Give your team access to the fork (settings/collaborators)
 - Develop contents
 - Create a pull request (available in the original repository, not the fork)

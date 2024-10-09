@@ -60,7 +60,7 @@ blockquote {
 - Predict the replacement of human labor by machines in the near future using illustrative examples.
 - Discuss possible futures* at the intersection of AI-based and human work.
 
-> \* Note: In our context, the term "futures" is used to refer to different developments that are possible in the future (as discussed in prior literature, see [1](https://aisel.aisnet.org/jais/vol21/iss6/10/), or [2](https://aisel.aisnet.org/ecis2021_panels/2/)). In finance, the term "futures" has a different meaning.
+> \* Note: In our context, the term "futures" is used to refer to different developments that are possible in the future (as discussed in prior literature, see [1](https://aisel.aisnet.org/jais/vol21/iss6/10/){: target="_blank"}, or [2](https://aisel.aisnet.org/ecis2021_panels/2/){: target="_blank"}). In finance, the term "futures" has a different meaning.
 
 ---
 
@@ -104,7 +104,7 @@ f-->
 
 # Non-substitutable skills
 
-In an [HBR article](https://hbr.org/2018/07/7-skills-that-arent-about-to-be-automated), Gustein and Sviokla suggest the following skills are hard to substitute by AI:
+In an [HBR article](https://hbr.org/2018/07/7-skills-that-arent-about-to-be-automated){: target="_blank"}, Gustein and Sviokla suggest the following skills are hard to substitute by AI:
 
 - Communication
 - Context
@@ -154,12 +154,12 @@ TODO : check Table 1 for examples
 
 # Substitution of jobs
 
-The "Job-Futuromat" is based on a task (dis)aggregation approach ([link](https://job-futuromat.iab.de/)):
+The "Job-Futuromat" is based on a task (dis)aggregation approach ([link](https://job-futuromat.iab.de/){: target="_blank"}):
 
 ![width:600px center](../material/futuromat.png)
 
 <!-- 
-- Man vs. machine (AI) discussions am Beispiel des [Job-Futuromat](https://job-futuromat.iab.de/) (Methode: Industrienahe Erhebung/Dekomposition in Kernanforderungen Analyse des Substituierbarkeitspotentials)
+- Man vs. machine (AI) discussions am Beispiel des [Job-Futuromat](https://job-futuromat.iab.de/){: target="_blank"} (Methode: Industrienahe Erhebung/Dekomposition in Kernanforderungen Analyse des Substituierbarkeitspotentials)
 - IAB Substituierbarkeitspotentiale.pdf
 -> give examples
  -->
@@ -191,7 +191,7 @@ TBD: "continuity of nature" assumption?
 - Customers want to pay extra for having contact with a human representative
 - Both AI and people will be employed at the same time for the same job
 
-Example: Fast-food restaurants like McDonalds expand and test the use of AI ([The Guardian](https://www.theguardian.com/business/article/2024/jun/17/mcdonalds-ends-ai-drive-thru))
+Example: Fast-food restaurants like McDonalds expand and test the use of AI ([The Guardian](https://www.theguardian.com/business/article/2024/jun/17/mcdonalds-ends-ai-drive-thru){: target="_blank"})
 
 - Customer self-service
 - Delivery services
@@ -260,7 +260,7 @@ Example: Elon Musk's Neuralink project - "A merger between biological and digita
 - AI forms systems that are more complex than the software that produces them (Artificial General Intelligence)
 - The case for robot disobedience: Humans make mistakes in creating or mastering robots
 
-Example: A thought experiment in the context of AI-controlled military drones ([The Guardian](https://www.theguardian.com/us-news/2023/jun/01/us-military-drone-ai-killed-operator-simulated-test), [Reuters](https://www.reuters.com/article/fact-check/simulation-of-ai-drone-killing-its-human-operator-was-hypothetical-air-force-sa-idUSL1N38023R/))
+Example: A thought experiment in the context of AI-controlled military drones ([The Guardian](https://www.theguardian.com/us-news/2023/jun/01/us-military-drone-ai-killed-operator-simulated-test){: target="_blank"}, [Reuters](https://www.reuters.com/article/fact-check/simulation-of-ai-drone-killing-its-human-operator-was-hypothetical-air-force-sa-idUSL1N38023R/){: target="_blank"})
 
 - An AI-controlled drone was given the task of destroying enemy air defense systems (objective function)
 - The AI system learned that sometimes the operator interferred with that objective (learning)
@@ -297,7 +297,7 @@ AI - also: Quantum Computing -->
 Adam Grant: Professor of organizational psychology at Wharton
 Malcolm Gladwell: Journalist and NYT best-selling author
 
-[Future of Work Conference: Getting Uncomfortable with the Future](https://www.youtube.com/watch?v=jH7IvThAoH0)
+[Future of Work Conference: Getting Uncomfortable with the Future](https://www.youtube.com/watch?v=jH7IvThAoH0){: target="_blank"}
 
 ![width:500px center](../material/future-of-work-conference.png)
 

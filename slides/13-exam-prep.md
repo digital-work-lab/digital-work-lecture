@@ -34,7 +34,7 @@ paginate: true
 
 ## Bachelor's theses
 
-- See information on the [process](https://digital-work-lab.github.io/theses/) and [open topics](https://digital-work-lab.github.io/theses/docs/topics.html)
+- See information on the [process](https://digital-work-lab.github.io/theses/){: target="_blank"} and [open topics](https://digital-work-lab.github.io/theses/docs/topics.html){: target="_blank"}
 
 ---
 

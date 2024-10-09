@@ -65,7 +65,7 @@ Possible explanation: other factors at play: e.g., learning (quality of experien
 
 ![width:600px center](../material/typing-edclub.png)
 
-Join the [TypingClub](https://www.typingclub.com/) for a quick introduction and playful competition
+Join the [TypingClub](https://www.typingclub.com/){: target="_blank"} for a quick introduction and playful competition
 
 ---
 

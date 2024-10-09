@@ -71,7 +71,7 @@ For database searches, the **building-blocks** approach is the typical query str
 <!-- - (Synonym_1 OR Synonym_2 OR ...) AND (Synonym_10 OR Synonym_11 OR ...) ... -->
 - Corresponding search query: ``(digital OR online OR ...) AND (work OR labor OR ...) AND (productivity OR effectiveness OR ...)``
 
-Note: Ideally, literature searches rely on controlled vocabulary (e.g., the [Medical Subject Headings, MeSH](https://meshb-prev.nlm.nih.gov/treeView)).
+Note: Ideally, literature searches rely on controlled vocabulary (e.g., the [Medical Subject Headings, MeSH](https://meshb-prev.nlm.nih.gov/treeView){: target="_blank"}).
 
 <!-- 
 ![bg right:35% width:400px](../material/MeSH-example.png)

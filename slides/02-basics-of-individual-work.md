@@ -134,7 +134,7 @@ Find examples/challenges/methods for each item
 
 # Exercise
 
-Complete the [DigComp](https://digcomp.digital-competence.eu/) test and reflect on the skill frameworks. Where do your strengths lie? Where are potential gaps?
+Complete the [DigComp](https://digcomp.digital-competence.eu/){: target="_blank"} test and reflect on the skill frameworks. Where do your strengths lie? Where are potential gaps?
 
 <!-- 
 TODO : prepare mentimeter
@@ -561,7 +561,7 @@ Praktiker-Methode
 
 - Digital or physical lists ("the system")
 
- - GTD (building on the knowledge acquired as a homework) [check](https://www.udemy.com/course/29-big-ideas-for-getting-things-done/) and [2](https://www.udemy.com/course/how-to-implement-a-getting-things-done-system-from-scratch/) and [rezeption](https://de.wikipedia.org/wiki/Getting_Things_Done#Rezeption), discuss difference between orga>priorities vs. priorities>orga approaches 
+ - GTD (building on the knowledge acquired as a homework) [check](https://www.udemy.com/course/29-big-ideas-for-getting-things-done/){: target="_blank"} and [2](https://www.udemy.com/course/how-to-implement-a-getting-things-done-system-from-scratch/){: target="_blank"} and [rezeption](https://de.wikipedia.org/wiki/Getting_Things_Done#Rezeption){: target="_blank"}, discuss difference between orga>priorities vs. priorities>orga approaches 
 -->
 
 ---
@@ -678,7 +678,7 @@ Für den Review täglich oder wöchentlich sollte mindestens 60-90 Minuten einge
 
 # Excercise and talk
 
-[David Allen's TED Talk: "Are your out of your mind?"](https://www.ted.com/talks/david_allen_are_you_out_of_your_mind)
+[David Allen's TED Talk: "Are your out of your mind?"](https://www.ted.com/talks/david_allen_are_you_out_of_your_mind){: target="_blank"}
 
 <!--
 TODO : discuss principles, how you could apply/adapt GTD
@@ -825,14 +825,14 @@ p {
 Allen, David (2001). Getting Things Done: The Art of Stress-Free Productivity. Penguin Books.
 
 European Union, DigComp Framework, available at:
-[https://joint-research-centre.ec.europa.eu/digcomp/digcomp-framework_en](https://joint-research-centre.ec.europa.eu/digcomp/digcomp-framework_en).
+[https://joint-research-centre.ec.europa.eu/digcomp/digcomp-framework_en](https://joint-research-centre.ec.europa.eu/digcomp/digcomp-framework_en){: target="_blank"}.
 
-Gagné-Pratte, L., Mosconi, E., & Jorge, L. F. (2022). Digital Literacy for Business Leaders and Managers. In: *International Conference on Information Systems*. [Link](https://aisel.aisnet.org/icis2022/digit_nxt_gen/digit_nxt_gen/13/)
+Gagné-Pratte, L., Mosconi, E., & Jorge, L. F. (2022). Digital Literacy for Business Leaders and Managers. In: *International Conference on Information Systems*. [Link](https://aisel.aisnet.org/icis2022/digit_nxt_gen/digit_nxt_gen/13/){: target="_blank"}
 
-Weritz, P. (2022). Hey leaders, It’s time to train the workforce: Critical skills in the digital workplace. *Administrative Sciences*, 12(3), 94. doi: [10.3390/admsci12030094](https://doi.org/10.3390/admsci12030094).
+Weritz, P. (2022). Hey leaders, It’s time to train the workforce: Critical skills in the digital workplace. *Administrative Sciences*, 12(3), 94. doi: [10.3390/admsci12030094](https://doi.org/10.3390/admsci12030094){: target="_blank"}.
 
 <!--
-(clearly distinguish between simple starting points and longer books/materials): GTD ted talk;  [Udemy: Get Things Done: 29 BIG Ideas For Getting Things Done](https://www.udemy.com/course/29-big-ideas-for-getting-things-done/), GTD book
+(clearly distinguish between simple starting points and longer books/materials): GTD ted talk;  [Udemy: Get Things Done: 29 BIG Ideas For Getting Things Done](https://www.udemy.com/course/29-big-ideas-for-getting-things-done/){: target="_blank"}, GTD book
 
 brainstorm: skills/challenges (apps, techniques)
 

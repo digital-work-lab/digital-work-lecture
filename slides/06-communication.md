@@ -143,7 +143,7 @@ https://convergencelabs.com/blog/2018/01/the-four-cs-communication-coordination-
 https://coachbetter.tv/the-difference-between-communication-cooperation-coordination-collaboration/
 # Homework
 
-Read [external communication](https://about.gitlab.com/handbook/communication/#external-communication)
+Read [external communication](https://about.gitlab.com/handbook/communication/#external-communication){: target="_blank"}
 -->
 ---
 
@@ -152,14 +152,14 @@ Read [external communication](https://about.gitlab.com/handbook/communication/#e
 1. Shared whiteboard in videoconferences: how does it change the media capabilities?
 2. It was a misunderstanding, but one that escalated quickly. Why can asynchronous textual communication (such as email or chat) be problematic in such settings?
 3. When sending out invitations to the weekly video-conference, your colleague emphasizes that he looks forward to **seeing** you in the call, and greets participants who share their video with a "nice to see you". Do you see any connections to MST?
-4. Take a minute to review the features offered by the [Zoom AI assistant](https://www.zoom.com/en/products/collaboration-tools/features/). How do they relate to MST?
+4. Take a minute to review the features offered by the [Zoom AI assistant](https://www.zoom.com/en/products/collaboration-tools/features/){: target="_blank"}. How do they relate to MST?
 5. Consider a setting in which you would like to help your colleague with a challenging programming task. Your colleague works remotely. Which technologies would you select, and how could your choice be connected to MST?
 
 <!--
 whiteboard: expands the symbol set, e.g., allowing participants to develop sketches or mathematical models. also increases parallelism (audio, video of participants, and video of whiteboard)
 Video: increase symbol set (visual cues, gestures, reactions) - especially when meetings aim to converge on particular items. Appropriation factors: familiar with the challenges, perhaps even trained to increase video-use, could be due to past experiences, or even norms in the team or organization.
 AI assistant: several features to transcribe, summarize, or sub-title meetings - improves reprocessability (during and after the meeting)
-coding: Convergence requires high synchronicity, especially wrt. the symbol set of collaborative coding (synchronous) - e.g., [Visual Studio Live Share](https://visualstudio.microsoft.com/de/services/live-share/)
+coding: Convergence requires high synchronicity, especially wrt. the symbol set of collaborative coding (synchronous) - e.g., [Visual Studio Live Share](https://visualstudio.microsoft.com/de/services/live-share/){: target="_blank"}
 
  https://www.zoom.com/en/products/collaboration-tools/features/ -->
 
@@ -210,17 +210,17 @@ Examples of situational awareness in practice:
 # Practice: Communication at GitLab
 
 <!-- In small groups (2-3),  -->
-Take a few minutes to examine the [communication section](https://about.gitlab.com/handbook/communication/) in GitLab's handbook and take notes on
+Take a few minutes to examine the [communication section](https://about.gitlab.com/handbook/communication/){: target="_blank"} in GitLab's handbook and take notes on
 - The different communication settings
 - Best practices (potential challenges to keep in mind)
 
 Major items to cover:
-- [Effective and responsible communication guidelines](https://about.gitlab.com/handbook/communication/#effective--responsible-communication-guidelines)
-- [Internal communication best practices](https://about.gitlab.com/handbook/communication/#top-tips-and-best-practices)
-- [Video calls](https://about.gitlab.com/handbook/communication/#video-calls) and [E-Mail](https://about.gitlab.com/handbook/communication/#email)
+- [Effective and responsible communication guidelines](https://about.gitlab.com/handbook/communication/#effective--responsible-communication-guidelines){: target="_blank"}
+- [Internal communication best practices](https://about.gitlab.com/handbook/communication/#top-tips-and-best-practices){: target="_blank"}
+- [Video calls](https://about.gitlab.com/handbook/communication/#video-calls){: target="_blank"} and [E-Mail](https://about.gitlab.com/handbook/communication/#email){: target="_blank"}
 
 Additional items (select the ones you are most interested in):
-- [Slack](https://about.gitlab.com/handbook/communication/#slack), [direct messages](https://about.gitlab.com/handbook/communication/#avoid-direct-messages), [meeting problems](https://about.gitlab.com/handbook/communication/#common-meeting-problems), or [video and presentation tips](https://about.gitlab.com/handbook/communication/#video-and-presentation-tips-with-lorraine-lee)
+- [Slack](https://about.gitlab.com/handbook/communication/#slack){: target="_blank"}, [direct messages](https://about.gitlab.com/handbook/communication/#avoid-direct-messages){: target="_blank"}, [meeting problems](https://about.gitlab.com/handbook/communication/#common-meeting-problems){: target="_blank"}, or [video and presentation tips](https://about.gitlab.com/handbook/communication/#video-and-presentation-tips-with-lorraine-lee){: target="_blank"}
 
 <!--
 https://about.gitlab.com/handbook/communication/#smart-note-taking-in-meetings
@@ -245,13 +245,13 @@ p {
 
 # References
 
-Daft, R. L., & Lengel, R. H. (1986). Organizational information requirements, media richness and structural design. *Management Science*, 32(5), 554-571. doi:[10.1287/mnsc.32.5.554](https://doi.org/10.1287/mnsc.32.5.554)
+Daft, R. L., & Lengel, R. H. (1986). Organizational information requirements, media richness and structural design. *Management Science*, 32(5), 554-571. doi:[10.1287/mnsc.32.5.554](https://doi.org/10.1287/mnsc.32.5.554){: target="_blank"}
 
-Dennis, A. R., Fuller, R. M., & Valacich, J. S. (2008). Media, tasks, and communication processes: A theory of media synchronicity. *MIS Quarterly*, 32(3), 575-600. doi:[10.2307/25148857](https://doi.org/10.2307/25148857)
+Dennis, A. R., Fuller, R. M., & Valacich, J. S. (2008). Media, tasks, and communication processes: A theory of media synchronicity. *MIS Quarterly*, 32(3), 575-600. doi:[10.2307/25148857](https://doi.org/10.2307/25148857){: target="_blank"}
 
-Endsley, M. R. (1995). Toward a theory of situation awareness in dynamic systems. *Human Factors*, 37(1), 32-64. doi: [10.1518/001872095779049543](https://doi.org/10.1518/001872095779049543)
+Endsley, M. R. (1995). Toward a theory of situation awareness in dynamic systems. *Human Factors*, 37(1), 32-64. doi: [10.1518/001872095779049543](https://doi.org/10.1518/001872095779049543){: target="_blank"}
 
-Moorman, C. and Hinkfuss, K. (2023). Managing the cultural pitfalls of hybrid work. *MIT Sloan Management Review*. [link](https://sloanreview.mit.edu/article/managing-the-cultural-pitfalls-of-hybrid-work/)
+Moorman, C. and Hinkfuss, K. (2023). Managing the cultural pitfalls of hybrid work. *MIT Sloan Management Review*. [link](https://sloanreview.mit.edu/article/managing-the-cultural-pitfalls-of-hybrid-work/){: target="_blank"}
 
 <!--
 Homework: 
