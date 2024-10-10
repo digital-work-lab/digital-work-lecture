@@ -711,7 +711,7 @@ Almost no scientific evidence, but Heylighen and Vidal (2008) discuss cognitive 
 ![bg right:38% width:400px](../material/GTD_Abbildung_7.png)
 
 <!-- 
-sigmergy: indirect coordination (through traces in the environment)
+stigmergy: indirect coordination (through traces in the environment)
 
 situated action: select the right tasks for each context, bundle similar tasks, avoid switching/disruption
 

@@ -263,7 +263,7 @@ Example: Elon Musk's Neuralink project - "A merger between biological and digita
 Example: A thought experiment in the context of AI-controlled military drones ([The Guardian](https://www.theguardian.com/us-news/2023/jun/01/us-military-drone-ai-killed-operator-simulated-test), [Reuters](https://www.reuters.com/article/fact-check/simulation-of-ai-drone-killing-its-human-operator-was-hypothetical-air-force-sa-idUSL1N38023R/))
 
 - An AI-controlled drone was given the task of destroying enemy air defense systems (objective function)
-- The AI system learned that sometimes the operator interferred with that objective (learning)
+- The AI system learned that sometimes the operator interfered with that objective (learning)
 - The system started to attack the operator or communication systems (unexpected and unintended behavior)
 
 <!--

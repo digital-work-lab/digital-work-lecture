@@ -214,7 +214,7 @@ Principles:
 - Atomicity of notes
 - Serendipity
 
-Information heterarchies allow for bidirectional links between resources, supporting serendipituous emergence of connections. 
+Information heterarchies allow for bidirectional links between resources, supporting serendipitous emergence of connections. 
 In contrast, classical hierarchies such digital folders, require items to be assigned to one category exclusively.
 
 <!--

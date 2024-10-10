@@ -59,7 +59,7 @@ Sumary: Key concepts and processes
 
 Conceptual foundations
 
-- Transparent versioning: code, people, and processes are visible and enable sigmergic coordination
+- Transparent versioning: code, people, and processes are visible and enable stigmergic coordination
 - Openness to modifications: everyone can create issues, suggest specific code modifications, or fork the project
 - Control of contributions: maintainers can review changes proposed in pull request (with the help of [code quality checkers](https://pre-commit.ci/), [automated builds and tests](https://docs.github.com/en/actions/automating-builds-and-tests), and [GenAI Code Review](https://github.com/marketplace/actions/code-review-with-chatgpt)), request changes, and decide whether or not to merge the contributions
 

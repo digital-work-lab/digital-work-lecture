@@ -114,7 +114,7 @@ Indicate whether you agree whether the following steps are ok:
 
 - The manager looks at the teams status to see who is working. is that ok?
 - He takes notes when someone is not available.
-- He writes a script to systematically monitor the times of availabiliy
+- He writes a script to systematically monitor the times of availability
 - He uses a new employee-insights feature that provides regular screenshots
 - He uses ML to analyze the screenshots and automatically sanctions/fires employees
 
@@ -141,7 +141,7 @@ Consent is important (but may not always be considered necessary)
 
 Today/In practice, justifications for surveillance often include both consequentialist and deontological considerations
 
-- Utilitarian/consequentialists: Justification for large-scale surveillance: consequentialist appeal to the greater good. (everyone accepts a small inconvenience (privacy) but the company can redue moral hazard dynamics)
+- Utilitarian/consequentialists: Justification for large-scale surveillance: consequentialist appeal to the greater good. (everyone accepts a small inconvenience (privacy) but the company can reduce moral hazard dynamics)
 - Deontologists: resist the justification for overriding the rights of the few by the interest of the many. Compelling justifications (judges) and limited scope would be required.
 
 Cambridge analytica (misusing massive Facebook data in the election)
@@ -173,7 +173,7 @@ Summary:
 
 - hist.+org. Entwicklung
 - Skill classifications, GTD (with cognitive principles)
-- PIME and second-brain appraoches
+- PIME and second-brain approaches
 - Excellence: theory of embodied cognition + Influences
 - Remote work: effects, role of trust and conflict, Gitlab examples
 - Communication: MST, model of situational awareness

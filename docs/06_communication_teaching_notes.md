@@ -13,20 +13,20 @@ Start: 10 Minutes to revisit your notes / compare with your neighbour
 
 Explain p.3 / how it works:
 
-- show the gitlab repository/merge requests (highligh > 100.000 merged)
+- show the gitlab repository/merge requests (highlight > 100.000 merged)
 - show decision rights: merge
 
 Main challenges (after the background, p. 5-6, focusing particularly on the challenges relevant to organizational culture)
 
-- p. 6 - Professional isolation (lack of informal mentoring, including **serendipituous** face-to-face interactions)
+- p. 6 - Professional isolation (lack of informal mentoring, including **serendipitous** face-to-face interactions)
 - p. 12 - Building a cohesive organizational culture (selection/onboarding/socialization, mentoring)
-- p. 14 - Absence of colocation: may hinder organizational identification and the development of shared mental models (identification is important for motivation/effort, mental models: conducive oraganizational culture with strong norms/values)
+- p. 14 - Absence of colocation: may hinder organizational identification and the development of shared mental models (identification is important for motivation/effort, mental models: conducive organizational culture with strong norms/values)
 <!-- - Maintaining a healthy work-life balance / avoiding emotional exhaustion -->
 <!-- - Transparency of compensation (is cost-of-living adjustment fair?, finding out that one is paid less than coworkers can harm motivation) - GitLab somehow overcomes the "salary taboo" -->
 
 Organizing principles
 
-- Reduce coordination requirements (decomposability/minimum viable change, sigmergy: coordinate through the work product and environemnt, see what others are doing)
+- Reduce coordination requirements (decomposability/minimum viable change, stigmergy: coordinate through the work product and environment, see what others are doing)
 - Granting operational autonomy (not strategic autonomy)
 - Input control ("selection at the gate" - select for abilities: structuring work days, digital skills,...)
 -> Illustrate: control (the GitLab-CEO mentioned the differences between a consensus/hierarchical culture) - input (hiring), process (behavior: shared norms/mental models, process/documentation), output (progress reports/meetings ...)
@@ -79,7 +79,7 @@ Discussion:
 - Live session sharing (have students try it/visualstudio) - mention the Kude/ISR paper on pair programming?
 - netiquette - be sensitive: all going well/busy time? (green/orange/red), meeting policy (remote meeting, ....)
 
-- How to facilitate small-talk? Put something personal in the background. Ask for oppinions/help
+- How to facilitate small-talk? Put something personal in the background. Ask for opinions/help
 - How to connect? Humor? "Employee of the month" - not taking oneself too seriously... share your shortcomings/be vulnerable
 
 -  Balance: efficiency (answer questions once/reprocessability), conflict, misunderstandings (task/relation)

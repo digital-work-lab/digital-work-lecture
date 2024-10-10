@@ -14,9 +14,9 @@ Go to the GitLab website / platform to understand what DevOps means
 Tips for a productive all-remote workforce [u0dRWDmYSvg].webm
 
 Discuss the video: key elements for the transition?
-- senior leadership must go all-remote (people mimic thatt)
+- senior leadership must go all-remote (people mimic that)
 - transparency: fewer informal communication channels
-- making decisions asynchronously (DRI: directly resonsible individual who may solicit feedback but makes the decision - combining the advantages of a consensus  and a hierarchical culture)
+- making decisions asynchronously (DRI: directly responsible individual who may solicit feedback but makes the decision - combining the advantages of a consensus  and a hierarchical culture)
 - iterative approach to avoid coordination problems (software development approach)
 - handbook first (code company norms, processes etc. - don't "document" ex post)
 
@@ -75,12 +75,12 @@ Go for perfect harmony (STUDENTS?)
 - support (pair programming, skills)
 
 
-Handbook: disfunctions
+Handbook: dysfunctions
 - Conflict: can it be beneficial?
 - Challenging: a little bit of task-conflict is important to find good solutions, it may also be necessary to settle relationship conflicts (storming phase)
 - BUT: escalating conflict may also get you fired
 - team phases: forming, storming, norming, performing
-- Diverse teams often outperform homogenous teams (reinforcing groupthink)
+- Diverse teams often outperform homogeneous teams (reinforcing groupthink)
 
 
 Trust: important in teams - why?

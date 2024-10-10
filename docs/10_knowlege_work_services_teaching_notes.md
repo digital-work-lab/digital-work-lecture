@@ -45,7 +45,7 @@ Development of costs/risks/uncertainty over time
 ## Literature review method illustration (blackboard)
 
 - Problem formulation: objectives / review type (describe / understand / explain / test) / scope and key terminology
-- Search: scope / techniques: database search (keywords / searqch query), citation search, table-of-content-scan...
+- Search: scope / techniques: database search (keywords / search query), citation search, table-of-content-scan...
 - Screen (prescreen: titles/abstracts - pdfs - screen based on pdfs)
 - Synthesis (depending on the review type)
 

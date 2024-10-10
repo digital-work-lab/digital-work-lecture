@@ -53,7 +53,7 @@ Show Ven-Diagram for the AND-OR terms
 - Pomodoro: work 25 minutes, 5 minute break, after 4 runs: 30 mins break
 - Eisenhower matrix: Wichtigkeit x Dringlichkeit (Discard, Delegate, Plan, Do immediately)
 - Checklists: doctors, pilots (e.g., checklist manifesto)
-- Bullet journalling: illustrate day plan (todo, done, info, meeting), weekly planner (days...., goals: practice, mails, workout)
+- Bullet journaling: illustrate day plan (todo, done, info, meeting), weekly planner (days...., goals: practice, mails, workout)
 
 ## GTD method
 
@@ -66,14 +66,14 @@ Notes:
 - The following summarizes a scenario in which **groups of students** (3-6 students) implement a GTD system and complete the GTD steps for friend who is about to begin studying (hypothetical).
 - The group selects one student who writes (maybe switch).
 - Students may use the Internet for quick searches.
-- Instructors provide an introduction and explain the tasks for each of the following episodes. It shoudl be announced how much time is available
+- Instructors provide an introduction and explain the tasks for each of the following episodes. It should be announced how much time is available
 
 ## Introduction
 
 When thinking about productivity and work systems, we may quickly consider different apps or software packages.
 
 - Apps (as a technology) are flexible. They can be used or adapted effectively or ineffectively.
-- Example: In apps like *Todoist*, users can create tasks like "complete the Bachelor", or "find a job". In such cases, it is apparent that the app is not used effectively because these items are long-term goals rather than specific tasks. They may sipmly clutter the task list.
+- Example: In apps like *Todoist*, users can create tasks like "complete the Bachelor", or "find a job". In such cases, it is apparent that the app is not used effectively because these items are long-term goals rather than specific tasks. They may simply clutter the task list.
 - To use productivity apps effectively, it can be instructive to **consider work methods and principles**. Similarly, designers of apps may draw inspiration from such works to improve apps and guide users.
 
 The focus of this session is on the **Getting-things-done** method, which was introduced by David Allen in 2001.

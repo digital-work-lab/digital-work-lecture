@@ -301,7 +301,7 @@ Information Volume, overload, and the need to rethink (grant book)
 
 <!--
 Should we work? -> **Maslow**: work: purpose/calling/self-fulfillment
-TODO : maybe even add a chart of maslow: does work contradict self-fulfillment or should it coincide? What's the optimal time that people shoudl work?
+TODO : maybe even add a chart of maslow: does work contradict self-fulfillment or should it coincide? What's the optimal time that people should work?
 
 Mention: a little bit of an outlook
 
