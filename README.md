@@ -1,9 +1,13 @@
-# The Digital Work Lecture
+<p align="center">
+    <img alt="Lecture Logo" src="https://raw.githubusercontent.com/digital-work-lab/digital-work-lecture/main/assets/images/IDW-logo.png" width="600px">
+</p>
 
 ![Offered by: Digital Work at Otto-Friedrich-Universität Bamberg](https://img.shields.io/badge/Offered%20by-%20Digital%20Work%20(Otto--Friedrich--Universit%C3%A4t%20Bamberg)-blue)
 ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-green.svg)
 ![Documentation Status](https://img.shields.io/github/actions/workflow/status/digital-work-lab/digital-work-lecture/pages.yml?label=documentation)
 [![DOI](https://zenodo.org/badge/747736072.svg)](https://doi.org/10.5281/zenodo.13893041)
+
+# The Digital Work Lecture
 
 Welcome! The Digital Work Lecture is organized by the digital work lab (Prof. Dr. Gerit Wagner) at Otto-Friedrich-Universität Bamberg.
 You can find more information on the following pages:
