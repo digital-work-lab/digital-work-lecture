@@ -11,3 +11,4 @@ assets/template/lecture_2-4.jpg
 assets/template/theme.css
 assets/template/lecture_overview.jpg
 assets/template/lecture_5-7.jpg
+assets/basic.tex
