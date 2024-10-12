@@ -2,3 +2,10 @@ assets/images/logo-1.png
 assets/images/logo-2.png
 assets/images/logo-3.png
 assets/images/logo-4.png
+assets/template/lecture_1.jpg
+assets/template/background.jpg
+assets/template/lecture_8-10.jpg
+assets/images/IDW-logo.png
+assets/template/lecture_11-12.jpg
+assets/template/lecture_2-4.jpg
+assets/template/theme.css
