@@ -62,4 +62,8 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Set the token
         run: |
-          gh issue edit ${{ env.issue_number }} --body-file ./dangling_assets.md
+          if [ -f ./dangling_assets.md ]; then
+            gh issue edit ${{ env.issue_number }} --body-file ./dangling_assets.md
+          else
+            echo "No dangling assets file to update issue."
+          fi
