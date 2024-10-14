@@ -3,6 +3,7 @@ layout: default
 title: "Teaching notes: Knowledge work services"
 has_toc: true
 nav_exclude: true
+search_exclude: true
 ---
 
 # Teaching notes: Knowledge-work services

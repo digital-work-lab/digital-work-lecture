@@ -3,6 +3,7 @@ layout: default
 title: "Teaching notes: Ethics"
 has_toc: true
 nav_exclude: true
+search_exclude: true
 ---
 
 # Teaching notes: Ethics

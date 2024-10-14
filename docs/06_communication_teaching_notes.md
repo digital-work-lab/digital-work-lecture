@@ -3,6 +3,7 @@ layout: default
 title: "Teaching notes: Communication"
 has_toc: true
 nav_exclude: true
+search_exclude: true
 ---
 
 # Teaching notes: Communication

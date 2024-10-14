@@ -3,6 +3,7 @@ layout: default
 title: "Teaching notes: Remote work"
 has_toc: true
 nav_exclude: true
+search_exclude: true
 ---
 
 # Teaching notes: Remote work
