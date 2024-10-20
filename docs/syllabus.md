@@ -64,6 +64,14 @@ TODO
 
 TODO
 
+## Exam
+
+TODO
+
+## Exam review and post-correction
+
+TODO ("Einsichtnahme und Nachkorrektur")
+
 ## Teaching approach
 
 <!-- 
