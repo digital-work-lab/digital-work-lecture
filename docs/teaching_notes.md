@@ -9,8 +9,7 @@ search_exclude: true
 # Teaching notes
 
 {: .info }
-> **Info**
-> The teaching notes include materials for the instructor and teaching assistants.
+Based on the [pedagogical concept](pedagogy.html). Administrative tasks are [here](https://digital-work-lab.github.io/handbook/docs/30-teaching/32_courses/){: target="_blank"}.
 
 - [Session: Basics of digital work individually](02_gtd_teaching_notes.html){: target="_blank"}
 - [Session: PIM](03_PIM_teaching_notes.html){: target="_blank"}
