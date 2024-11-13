@@ -39,3 +39,11 @@ xychart-beta
     y-axis "Number of students" 0 --> 30
     line [22, 11]
 ```
+
+## What Our Students Say
+
+We are delighted to share the feedback from students who have participated in our open source project in previous semesters. Their experiences and insights help us continually improve and ensure a valuable learning journey for all.
+
+- "A good combination of practice and science. Studies and scientific models related to the topics are discussed, but practical tools and methods for digital work are also introduced. The practical elements are often directly relevant for further studies and digital work. For example, I now use the software Obsidian to organize my studies."
+
+Note: the feedback is translated based on the [evaluations](https://digital-work-lab.github.io/handbook/docs/30-teaching/30_processes/30.21.evaluations.html#prior-evaluations){: target="_blank"}.
