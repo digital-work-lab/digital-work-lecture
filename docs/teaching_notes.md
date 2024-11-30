@@ -28,6 +28,8 @@ Based on the [pedagogical concept](pedagogy.html). Administrative tasks are [her
 - [ ] Update dates and rooms for sessions
 - [ ] Update the rating average in the badge (change the badge-link on index.md) and participation
 
+See [test exam](../exams/test_exam.pdf)
+
 ## Week 1: Introduction, topics, and groups
 
 
