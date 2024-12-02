@@ -23,6 +23,11 @@ nav_order: 1
 - **Registration**: Up-front registration is not required. You have to register for the exams via Flexnow.
 - **Prerequisites**: None.
 
+{: .info }
+> **FlexNow**
+>
+> To write the exam, you need to sign up through [FlexNow](https://www.uni-bamberg.de/pruefungsamt/flexnow/fn2sss/){: target="_blank"}.
+
 The lecture provides an overview of the field of Digital Work, with a focus on key design areas.
 The course is structured as follows:
 
