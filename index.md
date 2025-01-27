@@ -21,7 +21,6 @@ permalink: /
 [![Evaluations](https://img.shields.io/badge/Rating-★★★★★%20(4.8%20/%205)-yellow)](https://digital-work-lab.github.io/digital-work-lecture/docs/evaluations.html)
 ![Completion](https://img.shields.io/badge/Enrollment-30%20students-green)
 ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-green.svg)
-[![GitHub stars](https://img.shields.io/github/stars/digital-work-lab/digital-work-lecture.svg?style=social&label=Star)](https://github.com/digital-work-lab/digital-work-lecture/stargazers)
 
 Welcome!
 The lecture **Introduction to Digital Work** is organized by the digital work lab (Prof. Dr. Gerit Wagner) at Otto-Friedrich-Universität Bamberg.
