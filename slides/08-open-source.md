@@ -1,8 +1,9 @@
 ---
 marp: true
-header: 'Introduction to Digital Work'
+header: 'IDW-08: Open Source'
 theme: ub-theme
 paginate: true
+footer: "<a href='https://github.com/digital-work-lab/digital-work-lecture/edit/main/slides/08-open-source.md' target='_blank'>⚙️</a>"
 ---
 <!-- _class: lead -->
 

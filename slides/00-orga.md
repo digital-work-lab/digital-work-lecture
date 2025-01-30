@@ -2,6 +2,7 @@
 marp: true
 header: 'Introduction to Digital Work'
 theme: ub-theme
+footer: "<a href='https://github.com/digital-work-lab/digital-work-lecture/edit/main/slides/00-orga.md' target='_blank'>⚙️</a>"
 ---
 
 <!-- _class: centered -->
@@ -128,19 +129,34 @@ not everyone will use the same system
 Learning: self-directed (additional resources), slides need to be complemented with notes (examples, ...)
  -->
 
+
 ---
 
-# Administration
+# Materials
 
-Contact: gerit.wagner@uni-bamberg.de
+Slides
+- Presentation slides will be made available for download.
+- You are expected to take complementary notes and read the recommended literature.
 
-Sessions: Monday, 12.15-15.45, April 15 - July 15
-Location: WE5/05.003
+Literature
+- Literature and complementary materials will be listed at the end of each lecture.
+- Materials will be made available via VC whenever possible.
+- Reading of complementary materials depends on your interest and ambition.
 
-Consultation hours: [by appointment](https://calendly.com/gerit-wagner/30min) (individually or in small groups)
-Web: https://www.uni-bamberg.de/digital-work
+---
 
-Materials: available via VC: https://vc.uni-bamberg.de/course/view.php?id=68000 (password: 20idw24)
+<!-- _class: must_learn -->
+
+# Learning markers
+
+The lecture slides are tagged with **learning markers** that help with navigating the course material and preparing for the exam(s).
+
+| Symbol | Description | Explanation |
+|--------|------------|-------------|
+| ![Learning Marker width:30px](../assets/images/learning_marker.png) | **Must-Know** | Essential knowledge required at all times, especially during exams, with a focus on detailed understanding. |
+| *(No marker)* | **Illustration / Empirics / Outlook** | To deepen understanding and develop the ability to think, comprehend, and explain in a case-based manner. |
+
+For your convenience, a summary of all slides with learning markers is generated automatically and available [here](../output/00_learn_markers.html).
 
 ---
 
@@ -166,20 +182,17 @@ Ggf. Übungsaufgaben mit Quiz
  -->
 ---
 
-# Materials
+# Administration
 
-Slides
-- Presentation slides will be made available for download.
-- You are expected to take complementary notes and read the recommended literature.
+Contact: gerit.wagner@uni-bamberg.de
 
-Literature
-- Literature and complementary materials will be listed at the end of each lecture.
-- Materials will be made available via VC whenever possible.
-- Reading of complementary materials depends on your interest and ambition.
+Sessions: Monday, 12.15-15.45, April 15 - July 15
+Location: WE5/05.003
 
----
+Consultation hours: [by appointment](https://calendly.com/gerit-wagner/30min) (individually or in small groups)
+Web: https://www.uni-bamberg.de/digital-work
 
-![bg width:900px](../material/nightline.png)
+Materials: available via VC: https://vc.uni-bamberg.de/course/view.php?id=68000 (password: 20idw24)
 
 ---
 

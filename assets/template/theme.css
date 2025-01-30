@@ -105,6 +105,36 @@ section.overview_part_5 {
   background-size: 100% 100%;
 }
 
+section.must_learn {
+  background-image: url("../assets/template/background_must_learn.jpg");
+  background-size: 100% 100%;
+}
+
+footer {
+  position: fixed;
+  bottom: 18px;
+  left: 600px;
+  font-size: 20px;
+  color: #333;
+  text-align: left;
+  padding-left: 20px;
+}
+
+
+footer a {
+  color: #0366d6;
+  text-decoration: none;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
+
+@media print {
+  footer {
+    display: none;  /* Hides the footer when printing or exporting to PDF */
+  }
+}
 
 /* pages */
 section::after {

@@ -1,8 +1,9 @@
 ---
 marp: true
-header: 'Introduction to Digital Work'
+header: 'IDW-03: Personal Information Management'
 theme: ub-theme
 paginate: true
+footer: "<a href='https://github.com/digital-work-lab/digital-work-lecture/edit/main/slides/03-personal-information-management.md' target='_blank'>⚙️</a>"
 ---
 
 <!-- _class: lead -->
