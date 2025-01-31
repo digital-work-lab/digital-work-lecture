@@ -26,24 +26,29 @@ Welcome!
 The lecture **Introduction to Digital Work** is organized by the digital work lab (Prof. Dr. Gerit Wagner) at Otto-Friedrich-Universität Bamberg.
 You can find all information about this project in our [syllabus](docs/syllabus.html).
 
+## Regular Lecture Session
+
+- From 2025-04-28 to 2025-07-21
+- Monday, 8:15 - 11:45, WE5/04.003
+
 ## Course Outline
 
-| No. | Level           | Session and slides                                                                                      | Date       |
-|-----|-----------------|---------------------------------------------------------------------------------------------------------|------------|
-| 00  |                 | [Orga](output/00-orga.html){: target="_blank"}                                                          | TBA        |
-| 01  | General         | [Drivers of Change](output/01-drivers-of-change.html){: target="_blank"}                                | TBA        |
-| 02  | **Individual**  | [Basics of Individual Work](output/02-basics-of-individual-work.html){: target="_blank"}                | TBA        |
-| 03  | **Individual**  | [Personal Information Management](output/03-personal-information-management.html){: target="_blank"}    | TBA        |
-| 04  | **Individual**  | [Excellence](output/04-excellence.html){: target="_blank"}                                              | TBA        |
-| 05  | **Team**        | [Remote Teams](output/05-remote-teams.html){: target="_blank"}                                          | TBA        |
-| 06  | **Team**        | [Communication](output/06-communication.html){: target="_blank"}                                        | TBA        |
-| 07  | **Team**        | [Collaborative Content Creation](output/07-collaborative-content-creation.html){: target="_blank"}      | TBA        |
-| 08  | **Crowd**       | [Open Source](output/08-open-source.html){: target="_blank"}                                            | TBA        |
-| 09  | **Crowd**       | [Platformization](output/09-platformization.html){: target="_blank"}                                    | TBA        |
-| 10  | **Crowd**       | [Knowledge-Intensive Services](output/10-knowledge-intensive-services.html){: target="_blank"}          | TBA        |
-| 11  | General         | [Futures](output/11-futures.html){: target="_blank"}                                                    | TBA        |
-| 12  | General         | [Ethics](output/12-ethics.html){: target="_blank"}                                                      | TBA        |
-| 13  |                 | [Exam Prep](output/13-exam-prep.html){: target="_blank"}                                                | TBA        |
+| No. | Level           | Session and slides                                                                                      |
+|-----|-----------------|---------------------------------------------------------------------------------------------------------|
+| 00  |                 | [Orga](output/00-orga.html){: target="_blank"}                                                          |
+| 01  | General         | [Drivers of Change](output/01-drivers-of-change.html){: target="_blank"}                                |
+| 02  | **Individual**  | [Basics of Individual Work](output/02-basics-of-individual-work.html){: target="_blank"}                |
+| 03  | **Individual**  | [Personal Information Management](output/03-personal-information-management.html){: target="_blank"}    |
+| 04  | **Individual**  | [Excellence](output/04-excellence.html){: target="_blank"}                                              |
+| 05  | **Team**        | [Remote Teams](output/05-remote-teams.html){: target="_blank"}                                          |
+| 06  | **Team**        | [Communication](output/06-communication.html){: target="_blank"}                                        |
+| 07  | **Team**        | [Collaborative Content Creation](output/07-collaborative-content-creation.html){: target="_blank"}      |
+| 08  | **Crowd**       | [Open Source](output/08-open-source.html){: target="_blank"}                                            |
+| 09  | **Crowd**       | [Platformization](output/09-platformization.html){: target="_blank"}                                    |
+| 10  | **Crowd**       | [Knowledge-Intensive Services](output/10-knowledge-intensive-services.html){: target="_blank"}          |
+| 11  | General         | [Futures](output/11-futures.html){: target="_blank"}                                                    |
+| 12  | General         | [Ethics](output/12-ethics.html){: target="_blank"}                                                      |
+| 13  |                 | [Exam Prep](output/13-exam-prep.html){: target="_blank"}                                                |
 
 <!-- 
 🎙️ Online
