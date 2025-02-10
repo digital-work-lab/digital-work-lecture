@@ -12,3 +12,4 @@ assets/template/theme.css
 assets/template/lecture_overview.jpg
 assets/template/lecture_5-7.jpg
 assets/basic.tex
+assets/template/background_must_learn.jpg
