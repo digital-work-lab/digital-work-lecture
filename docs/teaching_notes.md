@@ -23,6 +23,9 @@ Based on the [pedagogical concept](pedagogy.html). Administrative tasks are [her
 - [Session: Ethics](12-ethics_teaching_notes.html){: target="_blank"}
 - [Session: Exam prep](13-exam-prep_teaching_notes.html){: target="_blank"}
 
+{: .info }
+Exams are in [digital-work-lecture-exams](https://github.com/digital-work-lab/digital-work-lecture-exam){: target="_blank"}.
+
 ## Preparation
 
 - [ ] Update dates and rooms for sessions
