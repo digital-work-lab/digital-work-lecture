@@ -102,10 +102,10 @@ TODO
 
 ## Related courses
 
-- [The udemy course](https://www.udemy.com/course/29-big-ideas-for-getting-things-done/learn/lecture/26821690#overview)
+- [The udemy course](https://www.udemy.com/course/29-big-ideas-for-getting-things-done/learn/lecture/26821690#overview){: target="_blank"}
 - UNSW INFS102 Working in digital ecosystems
 - VHB New Work
-- [Digital Work, Digital Life](https://digital.uni-hohenheim.de/digitalwork), Universität Hohenheim
+- [Digital Work, Digital Life](https://digital.uni-hohenheim.de/digitalwork){: target="_blank"}, Universität Hohenheim
 
 ## References
 
