@@ -100,6 +100,13 @@ TODO
 - Another important resource is the [documentation of CoLRev](https://colrev-environment.github.io/colrev/){: target="_blank"}, in particular the [environment setup](https://colrev-environment.github.io/colrev/dev_docs/setup.html){: target="_blank"} and the [package development](https://colrev-environment.github.io/colrev/dev_docs/packages.html){: target="_blank"} pages.
 -->
 
+## Related courses
+
+- [The udemy course](https://www.udemy.com/course/29-big-ideas-for-getting-things-done/learn/lecture/26821690#overview)
+- UNSW INFS102 Working in digital ecosystems
+- VHB New Work
+- [Digital Work, Digital Life](https://digital.uni-hohenheim.de/digitalwork), Universität Hohenheim
+
 ## References
 
 <div class="references">

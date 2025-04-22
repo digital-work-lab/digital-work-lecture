@@ -22,12 +22,6 @@ You can find more information on the following pages:
 - [Syllabus](https://digital-work-lab.github.io/digital-work-lecture/docs/syllabus.html)
 - [Teaching notes](https://digital-work-lab.github.io/digital-work-lecture/docs/teaching_notes.html)
 
-## Related courses
-
-- [The udemy course](https://www.udemy.com/course/29-big-ideas-for-getting-things-done/learn/lecture/26821690#overview)
-- UNSW INFS102 Working in digital ecosystems
-- VHB New Work
-
 ## Citation
 
 Wagner, G., (2024). The Digital Work Lecture. Zenodo. https://doi.org/10.5281/zenodo.13893041
