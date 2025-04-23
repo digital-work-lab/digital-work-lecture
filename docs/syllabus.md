@@ -102,10 +102,10 @@ TODO
 
 ## Related courses
 
-- [University of Sydney (UNSW INFS102): Working in digital ecosystems](https://www.sydney.edu.au/units/INFS1020)
-- [Universität Hohenheim: Digital Work, Digital Life](https://digital.uni-hohenheim.de/digitalwork)
-- [HAW Kempten (VHB): New Work - Digitale Transformation und Wertewandel in der Arbeitswelt](https://kurse.vhb.org/VHBPORTAL/kursprogramm/kursprogramm.jsp?kDetail=true&COURSEID=18930,81,1543,1)
-<!-- - [The udemy course](https://www.udemy.com/course/29-big-ideas-for-getting-things-done) -->
+- [University of Sydney (UNSW INFS102): Working in digital ecosystems](https://www.sydney.edu.au/units/INFS1020){: target="_blank"}
+- [Universität Hohenheim: Digital Work, Digital Life](https://digital.uni-hohenheim.de/digitalwork){: target="_blank"}
+- [HAW Kempten (VHB): New Work - Digitale Transformation und Wertewandel in der Arbeitswelt](https://kurse.vhb.org/VHBPORTAL/kursprogramm/kursprogramm.jsp?kDetail=true&COURSEID=18930,81,1543,1){: target="_blank"}
+<!-- - [The udemy course](https://www.udemy.com/course/29-big-ideas-for-getting-things-done){: target="_blank"} -->
 
 ## References
 
