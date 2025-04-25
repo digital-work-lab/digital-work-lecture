@@ -71,11 +71,11 @@ The course is structured as follows:
 
 - **Date and Time:** [To be announced on the Main page](../index.html)
 
-- **Registration:** Students must register for the exam via [FlexNow](https://www.uni-bamberg.de/pruefungsamt/flexnow/fn2sss/).
+- **Registration:** Students must register for the exam via [FlexNow](https://www.uni-bamberg.de/pruefungsamt/flexnow/fn2sss/){: target="_blank"}.
 
 ## Exam Review and Post-Correction ("Einsichtnahme und Nachkorrektur")
 
-Information on how to review your exam and request post-corrections is available [here](https://digital-work-lab.github.io/handbook/docs/30-teaching/30_processes/30.60.reviews.html#centrally-organized-exams-nachkorrektur).
+Information on how to review your exam and request post-corrections is available [here](https://digital-work-lab.github.io/handbook/docs/30-teaching/30_processes/30.60.reviews.html#centrally-organized-exams-nachkorrektur){: target="_blank"}.
 
 <!-- 
 ## Materials
