@@ -23,11 +23,6 @@ nav_order: 1
 - **Registration**: Up-front registration is not required. You have to register for the exams via Flexnow.
 - **Prerequisites**: None.
 
-{: .info }
-> **FlexNow**
->
-> To write the exam, you need to sign up through [FlexNow](https://www.uni-bamberg.de/pruefungsamt/flexnow/fn2sss/){: target="_blank"}.
-
 ## Consultation hours
 
 I use the calendly tool to schedule meetings. It gives you an up-to-date overview of available slots in my schedule, and your reservations are immediately added to my calendar (no need to go back and forth via e-mail). We can meet in person or online, whatever works best for you.
@@ -52,7 +47,7 @@ Upon completing the course, students will have an understanding of the changes, 
 In particular, they will be able to explain and apply a repertoire of selected methods, design principles, and organizational policies in various situations.
 Additionally, they will be able to discuss the evaluation of individual measures and effectively and responsibly apply them in practice with this background knowledge.
 
-## Course Outline
+## Course outline
 
 The lecture provides an overview of the field of Digital Work and covers three key areas.
 The course is structured as follows:
@@ -63,17 +58,21 @@ The course is structured as follows:
 
 ## Exam
 
+{: .info }
+> **Registration: FlexNow**
+>
+> To write the exam, you need to sign up through [FlexNow](https://www.uni-bamberg.de/pruefungsamt/flexnow/fn2sss/){: target="_blank"}.
+
 - **Format:** Written exam consisting of multiple-choice questions, short answers, and essay questions.
 
 - **Coverage:** All topics discussed throughout the course, including readings and case studies.
 
-- **Date and Time:** [To be announced on the Main page](../index.html)
+- **Date and time:** To be announced by the [examination office](https://www.uni-bamberg.de/pruefungsamt/pruefungstermine/){: target="_blank"}.
 
-- **Registration:** Students must register for the exam via [FlexNow](https://www.uni-bamberg.de/pruefungsamt/flexnow/fn2sss/).
-
-## Exam Review and Post-Correction
-
-Information on how to review your exam and request post-corrections is available [here](https://digital-work-lab.github.io/handbook/docs/30-teaching/30_processes/30.60.reviews.html#centrally-organized-exams-nachkorrektur) ("Einsichtnahme und Nachkorrektur").
+{: .info }
+> **Einsichtnahme und Nachkorrektur**
+>
+> Information on how to review your exam and request post-corrections is available [here](https://digital-work-lab.github.io/handbook/docs/30-teaching/30_processes/30.60.reviews.html#centrally-organized-exams-nachkorrektur).
 
 <!-- 
 ## Materials
