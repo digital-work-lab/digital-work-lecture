@@ -28,13 +28,6 @@ nav_order: 1
 >
 > To write the exam, you need to sign up through [FlexNow](https://www.uni-bamberg.de/pruefungsamt/flexnow/fn2sss/){: target="_blank"}.
 
-The lecture provides an overview of the field of Digital Work, with a focus on key design areas.
-The course is structured as follows:
-
-- Future of Work: Global trends and drivers of change
-- Design areas: Digital work individually, in teams, and with crowdworkers
-- Consequences of digital work
-
 ## Instructor
 
 My name is Gerit Wagner, and I am your instructor. 
@@ -61,25 +54,34 @@ Upon completing the course, students will have an understanding of the changes, 
 In particular, they will be able to explain and apply a repertoire of selected methods, design principles, and organizational policies in various situations.
 Additionally, they will be able to discuss the evaluation of individual measures and effectively and responsibly apply them in practice with this background knowledge.
 
-## Course outline
+## Course Outline
 
-TODO
+The lecture provides an overview of the field of Digital Work and covers three key areas.
+The course is structured as follows:
 
-## Assessment and grading criteria
-
-TODO
+- Future of Work: Global trends and drivers of change
+- Areas: Digital work individually, in teams, and with crowdworkers
+- Consequences of digital work
 
 ## Exam
 
-TODO
+- **Format:** Written exam consisting of multiple-choice questions, short answers, and essay questions.
 
-## Exam review and post-correction
+- **Coverage:** All topics discussed throughout the course, including readings and case studies.
 
-TODO ("Einsichtnahme und Nachkorrektur")
+- **Date and Time:** [To be announced on the Main page](../index.html)
+
+- **Registration:** Students must register for the exam via [FlexNow](https://www.uni-bamberg.de/pruefungsamt/flexnow/fn2sss/).
+
+## Exam Review and Post-Correction ("Einsichtnahme und Nachkorrektur")
+
+Information on how to review your exam and request post-corrections is available [here](https://digital-work-lab.github.io/handbook/docs/30-teaching/30_processes/30.60.reviews.html#centrally-organized-exams-nachkorrektur).
+
+<!-- 
+## Materials
 
 ## Teaching approach
 
-<!-- 
 - **Complex Skill Development**: The project focuses on teaching complex skills necessary for modern software development. This includes tackling challenging problems, collaborative coding in teams, and managing a complex development environment using tools such as Python, Git, Continuous Integration, Testing Environments, and Code Quality Tools. To ensure a rich learning experience, we support students throughout the process by asking the right questions and providing the necessary input without removing the inherent challenges.
 
 - **Real-World Impact**: We aim to empower students to make a meaningful impact by contributing to a real-world, publicly accessible Python package. This hands-on experience not only enhances technical skills but also provides a sense of accomplishment and relevance. Additionally, students can add this valuable experience to their CV, showcasing their practical contributions and teamwork skills to potential employers.
@@ -88,14 +90,10 @@ TODO ("Einsichtnahme und Nachkorrektur")
 
 - **Transparent Evaluation and Improvement**: Our [evaluation criteria](syllabus.html#assessment-and-grading-criteria), [course evaluations](https://digital-work-lab.github.io/handbook/docs/30-teaching/30_processes/30.21.evaluations.html#prior-evaluations){: target="_blank"} and [improvement efforts](https://digital-work-lab.github.io/handbook/docs/30-teaching/30_processes/30.22.improvements.html){: target="_blank"} are documented transparently. This ensures that students are aware of how their work is assessed and how the course evolves based on feedback and ongoing refinement efforts. In addition, we develop peer-reviewed teaching materials to solicit feedback from educators outside our program.
 
- -->
-<!-- - link to pedagogical foundations -->
 
-## Materials
+ - link to pedagogical foundations
 
-TODO
 
-<!-- 
 - Slides and notebooks are available on the sub-pages.
 - Another important resource is the [documentation of CoLRev](https://colrev-environment.github.io/colrev/){: target="_blank"}, in particular the [environment setup](https://colrev-environment.github.io/colrev/dev_docs/setup.html){: target="_blank"} and the [package development](https://colrev-environment.github.io/colrev/dev_docs/packages.html){: target="_blank"} pages.
 -->
