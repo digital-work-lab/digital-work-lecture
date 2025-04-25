@@ -26,13 +26,14 @@ nav_order: 1
 ## Consultation hours
 
 I use the calendly tool to schedule meetings. It gives you an up-to-date overview of available slots in my schedule, and your reservations are immediately added to my calendar (no need to go back and forth via e-mail). We can meet in person or online, whatever works best for you.
-<!--
-My name is Gerit Wagner, and I am your instructor. 
- I enjoy coding, solving programming puzzles, and building tools that are useful for others. In this project, I invite you to contribute to one of my most significant packages: [CoLRev](https://github.com/CoLRev-Environment/colrev){: target="_blank"}.  -->
 
 {: .text-center}
 [Schedule a meeting](https://calendly.com/gerit-wagner/30min){: .btn .btn-green target="_blank"}
 
+<!--
+My name is Gerit Wagner, and I am your instructor. 
+I enjoy coding, solving programming puzzles, and building tools that are useful for others. In this project, I invite you to contribute to one of my most significant packages: [CoLRev](https://github.com/CoLRev-Environment/colrev){: target="_blank"}. 
+ 
 <img src="../assets/gerit_wagner.jpg" alt="Gerit Wagner (Foto: Tim Kipphan)" style="height: 220px; float: left; padding-right: 10px;">
 
 **Gerit Wagner**  
@@ -40,6 +41,7 @@ My name is Gerit Wagner, and I am your instructor.
 *Otto-Friedrich-Universität Bamberg*
 
 <br style="clear:both">
+  -->
 
 ## Goal and learning objectives
 
