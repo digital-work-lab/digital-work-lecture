@@ -72,7 +72,7 @@ The course is structured as follows:
 {: .info }
 > **Einsichtnahme und Nachkorrektur**
 >
-> Information on how to review your exam and request post-corrections is available [here](https://digital-work-lab.github.io/handbook/docs/30-teaching/30_processes/30.60.reviews.html#centrally-organized-exams-nachkorrektur).
+> Information on how to review your exam and request post-corrections is available [here](https://digital-work-lab.github.io/handbook/docs/30-teaching/30_processes/30.60.reviews.html#centrally-organized-exams-nachkorrektur){: target="_blank"}.
 
 <!-- 
 ## Materials
