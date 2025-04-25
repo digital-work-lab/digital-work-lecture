@@ -28,10 +28,15 @@ nav_order: 1
 >
 > To write the exam, you need to sign up through [FlexNow](https://www.uni-bamberg.de/pruefungsamt/flexnow/fn2sss/){: target="_blank"}.
 
-## Instructor
+## Consultation hours
 
+I use the calendly tool to schedule meetings. It gives you an up-to-date overview of available slots in my schedule, and your reservations are immediately added to my calendar (no need to go back and forth via e-mail). We can meet in person or online, whatever works best for you.
+<!--
 My name is Gerit Wagner, and I am your instructor. 
-<!-- I enjoy coding, solving programming puzzles, and building tools that are useful for others. In this project, I invite you to contribute to one of my most significant packages: [CoLRev](https://github.com/CoLRev-Environment/colrev){: target="_blank"}.  -->
+ I enjoy coding, solving programming puzzles, and building tools that are useful for others. In this project, I invite you to contribute to one of my most significant packages: [CoLRev](https://github.com/CoLRev-Environment/colrev){: target="_blank"}.  -->
+
+{: .text-center}
+[Schedule a meeting](https://calendly.com/gerit-wagner/30min){: .btn .btn-green target="_blank"}
 
 <img src="../assets/gerit_wagner.jpg" alt="Gerit Wagner (Foto: Tim Kipphan)" style="height: 220px; float: left; padding-right: 10px;">
 
@@ -40,13 +45,6 @@ My name is Gerit Wagner, and I am your instructor.
 *Otto-Friedrich-Universität Bamberg*
 
 <br style="clear:both">
-
-## Consultation hours
-
-I use the calendly tool to schedule meetings. It gives you an up-to-date overview of available slots in my schedule, and your reservations are immediately added to my calendar (no need to go back and forth via e-mail). We can meet in person or online, whatever works best for you.
-
-{: .text-center}
-[Schedule a meeting](https://calendly.com/gerit-wagner/30min){: .btn .btn-green target="_blank"}
 
 ## Goal and learning objectives
 
@@ -73,9 +71,9 @@ The course is structured as follows:
 
 - **Registration:** Students must register for the exam via [FlexNow](https://www.uni-bamberg.de/pruefungsamt/flexnow/fn2sss/).
 
-## Exam Review and Post-Correction ("Einsichtnahme und Nachkorrektur")
+## Exam Review and Post-Correction
 
-Information on how to review your exam and request post-corrections is available [here](https://digital-work-lab.github.io/handbook/docs/30-teaching/30_processes/30.60.reviews.html#centrally-organized-exams-nachkorrektur).
+Information on how to review your exam and request post-corrections is available [here](https://digital-work-lab.github.io/handbook/docs/30-teaching/30_processes/30.60.reviews.html#centrally-organized-exams-nachkorrektur) ("Einsichtnahme und Nachkorrektur").
 
 <!-- 
 ## Materials
