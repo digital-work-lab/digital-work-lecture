@@ -24,14 +24,14 @@ permalink: /
 
 Welcome!
 The lecture **Introduction to Digital Work** is organized by the digital work lab (Prof. Dr. Gerit Wagner) at Otto-Friedrich-Universität Bamberg.
-You can find all information about this lecture in our [syllabus](docs/syllabus.html).
+You can find all information about this lecture in the [syllabus](docs/syllabus.html).
 
-## Regular Lecture Session
+## Regular lecture sessions
 
 - From 2025-04-28 to 2025-07-21
 - Monday, 8:15 - 11:45, WE5/04.003
 
-## Course Outline
+## Course outline
 
 {: .info }
 > 2025-06-09 is a public holiday (no lecture)
