@@ -11,6 +11,7 @@ search_exclude: true
 {: .info }
 Based on the [pedagogical concept](pedagogy.html). Administrative tasks are [here](https://digital-work-lab.github.io/handbook/docs/30-teaching/32_courses/){: target="_blank"}.
 
+- [Session: Drivers of Change](01_drivers_of_change.html){: target="_blank"}
 - [Session: Basics of digital work individually](02_gtd_teaching_notes.html){: target="_blank"}
 - [Session: PIM](03_PIM_teaching_notes.html){: target="_blank"}
 - [Session: Excellence](04_Excellence_teaching_notes.html){: target="_blank"}
@@ -18,18 +19,22 @@ Based on the [pedagogical concept](pedagogy.html). Administrative tasks are [her
 - [Session: Remote teams](05_remote_teams_teaching_notes.html){: target="_blank"}
 - [Session: Collaborative content creation/Git](07_content_creation_git_teaching_notes.html){: target="_blank"}
 - [Session: Open source work](08_open_source_teaching_notes.html){: target="_blank"}
-- [Session: Knowledge work services](10_knowlege_work_services_teaching_notes.html){: target="_blank"}
+- [Session: Teaming with (AI) agents](10_teaming_with_ai_agents.html){: target="_blank"}
 - [Session: Futures](11-futures-notes_teaching_notes.html){: target="_blank"}
 - [Session: Ethics](12-ethics_teaching_notes.html){: target="_blank"}
 - [Session: Exam prep](13-exam-prep_teaching_notes.html){: target="_blank"}
+
+Backup:
+
+- [Session: Knowledge work services](10_knowlege_work_services_teaching_notes.html){: target="_blank"}
 
 {: .info }
 Exams are in [digital-work-lecture-exams](https://github.com/digital-work-lab/digital-work-lecture-exam){: target="_blank"}.
 
 ## Preparation
 
-- [ ] Update dates and rooms for sessions
-- [ ] Update the rating average in the badge (change the badge-link on index.md) and participation
+- [x] Update dates and rooms for sessions
+- [x] Update the rating average in the badge (change the badge-link on index.md) and participation
 
 See [test exam](../exams/test_exam.pdf)
 

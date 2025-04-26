@@ -2,7 +2,8 @@
 marp: true
 header: 'Introduction to Digital Work'
 theme: ub-theme
-footer: "<a href='https://github.com/digital-work-lab/digital-work-lecture/edit/main/slides/00-orga.md' target='_blank'>⚙️</a>"
+paginate: true
+footer: "<a href='https://github.com/digital-work-lab/digital-work-lecture/issues/new?template=Blank+issue' target='_blank'>♻️</a> <a href='https://github.com/digital-work-lab/digital-work-lecture/edit/main/slides/00-orga.md' target='_blank'>🛠️</a>"
 ---
 
 <!-- _class: centered -->
@@ -17,24 +18,17 @@ Universität Bamberg
 
 ---
 
-**Your Instructor**  
+# Your Instructor
 
 **Prof. Dr. Gerit Wagner**  
-At Bamberg University since October 2022
 
-I'm excited to guide you through the evolving landscape of **digital work practices** and the technologies shaping the future.
-This course covers the following key themes:
+- Studied Information Systems at Universität Regensburg and University of Oulu
+- Postdoctoral Felloship: HEC Montréal
+- At Bamberg University since October 2022
 
-- **Drivers of change** in digital work and its impact on modern organizations
-- **Personal information management** and strategies for individual work excellence
-- Best practices for **remote teams** and effective communication
-- **Collaborative content creation** and the role of open source in work environments
-- The impact of **platformization** on work structures
-- Understanding **knowledge-intensive services** and how they drive innovation
-- Exploring **future scenarios** for work, including fully **digital and distributed organizing**
-- Addressing important **ethical questions**, including the role of **generative AI** in shaping the future of work
+I am excited study the evolving landscape of **digital work practices** and the technologies shaping the future of work.
 
-![bg right:20% width:200px](../assets/gerit_wagner.jpg)
+![bg right:30% width:200px](../assets/gerit_wagner.jpg)
 
 <!-- 
 Introduce myself:
@@ -44,16 +38,14 @@ Introduce myself:
 
 ---
 
-<!-- _class: centered -->
-
-## Your expectations for the lecture "Introduction to Digital Work"
+# Your expectations for the lecture "Introduction to Digital Work"
 
 - Your background and perspective on digital work
 - Topics you are interested in
 - Challenges you grapple with
 - Work technologies that are exciting
 
-![bg right:45% width:550px](../materials/00_unsplash_office_space.jpeg)
+![bg right:45% width:550px](../material/00_unsplash_office_space.jpeg)
 
 <!--
 "Die Vorlesung mit Leben füllen, Ihre Ideen mit einbringen
@@ -68,6 +60,38 @@ Wer hat ein klares Berufsziel?
 
 Was interessiert Sie an Digital Work, was würden Sie gerne lernen?
 
+-->
+
+---
+
+# Contents
+
+This course covers the following themes:
+
+- **Drivers of change** in digital work and its impact on modern organizations
+- **Personal information management** and strategies for individual work excellence
+- Best practices for **remote teams** and effective communication
+- **Collaborative content creation** and the role of open source in work environments
+- The impact of **platformization** on work structures
+- Understanding **knowledge-intensive services** and how they drive innovation
+- Exploring **future scenarios** for work, including fully **digital and distributed organizing**
+- Addressing important **ethical questions**, including the role of **generative AI** in shaping the future of work
+
+**Note**: We added a session on **Teaming with (AI) Agents** because students asked for it.
+
+<!-- 
+---
+
+# What This Course Does *Not* Cover
+
+While **digital work** and the **future of work** are broad topics, this course focuses selectively.  
+The following areas are **out of scope**:
+
+- Managing **digital stress** and burnout
+- **Holacracy** and alternative organizational models
+- **Gig-work platforms** (e.g., micro-tasking, delivery work)
+- **Augmented reality** applications
+- **Production and industrial** sectors (manufacturing, logistics)
 -->
 
 ---
@@ -94,12 +118,12 @@ Nach Abschluss des Kurses haben die Studierenden ein Verständnis über die Ver�
 <!-- Philosophical foundations -->
 
 <!-- - Relying on scientific evidence is important. Understanding what practitioners do is important.  -->
-- In digital work, science and practice inform each other. 
-	- Unlike in fields like medicine, scientists are not the only producers of knowledge.
+- Science and practice inform each other.
+	- Scientists are not the only producers of knowledge in this field (unlike in medicine, for example).
 	- It is valid to study how practitioners commonly work or how outstanding performers work, especially when there is limited scientific evidence. 
 	- To do that, it is important to appreciate differences in scientific knowledge, including theories, methods, and evidence.
 
-- We focus on **understanding** changes (as an observer), and on **applying** repertoire of techniques, methods, as well as underlying theory and evidence to shape digital work.
+- We focus on **understanding** changes as well as underlying theory and evidence to shape digital work, and on **applying** repertoire of techniques and methods.
 
 - The course is an opportunity to adapt, test, and refine the methods that work best for you.
 
@@ -164,7 +188,7 @@ For your convenience, a summary of all slides with learning markers is generated
 
 - Exam: 90 points (minimum required: 45 points)
 - Summaries for the exams
-	- You can submit summaries at lectures 5, 8, and 11.
+	- You can submit summaries at lectures 4, 7, and 10.
 	- Each summary can be one page (A5).
 	- Contents have to be summarized.
 	- The summaries will be available during the exams.
@@ -204,13 +228,13 @@ Visit this <a href="https://digital-work-lab.github.io/handbook/docs/10-lab/10_p
 
 Contact: gerit.wagner@uni-bamberg.de
 
-Sessions: Monday, 12.15-15.45, April 15 - July 15
-Location: WE5/05.003
+Sessions: Monday, 8.15-11.45, April 28 - July 21
+Location: WE5/04.003
 
 Consultation hours: [by appointment](https://calendly.com/gerit-wagner/30min) (individually or in small groups)
 Web: https://www.uni-bamberg.de/digital-work
 
-Materials: available via VC: https://vc.uni-bamberg.de/course/view.php?id=68000 (password: IdW25#stud)
+Materials: available via VC: https://vc.uni-bamberg.de/course/view.php?id=71961 (password: IdW25#stud)
 
 ---
 
