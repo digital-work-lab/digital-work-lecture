@@ -9,9 +9,10 @@ search_exclude: true
 # Teaching notes
 
 > {: .info }
+> 
 > - [Pedagogical concept](pedagogy.html)
-> - [Administrative tasks](https://digital-work-lab.github.io/handbook/docs/30-teaching/32_courses/){: target="_blank"}.
-> - [Exams](https://github.com/digital-work-lab/digital-work-lecture-exam){: target="_blank"}.
+> - [Administrative tasks](https://digital-work-lab.github.io/handbook/docs/30-teaching/32_courses/){: target="_blank"}
+> - [Exams](https://github.com/digital-work-lab/digital-work-lecture-exam){: target="_blank"}
 
 - [Session: Drivers of Change](01_drivers_of_change.html){: target="_blank"}
 - [Session: Basics of digital work individually](02_gtd_teaching_notes.html){: target="_blank"}
