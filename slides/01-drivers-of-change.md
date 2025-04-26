@@ -3,7 +3,7 @@ marp: true
 header: 'IDW-01: Drivers of Change'
 theme: ub-theme
 paginate: true
-footer: "<a href='https://github.com/digital-work-lab/digital-work-lecture/edit/main/slides/01-drivers-of-change.md' target='_blank'>⚙️</a>"
+footer: "<a href='#organizations' target='_blank'>🙏🏾</a> <a href='https://github.com/digital-work-lab/digital-work-lecture/issues/new?template=Blank+issue' target='_blank'>♻️</a> <a href='https://github.com/digital-work-lab/digital-work-lecture/edit/main/slides/01-drivers-of-change.md' target='_blank'>🛠️</a>"
 ---
 
 <!-- _class: lead -->

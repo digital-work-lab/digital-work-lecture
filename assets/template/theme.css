@@ -74,7 +74,6 @@ section.lead::after {
   color: transparent;
 }
 
-
 section.overview_all {
   background-image: url("../assets/template/lecture_overview.jpg");
   background-size: 100% 100%;
@@ -112,8 +111,19 @@ section.must_learn {
 
 footer {
   position: fixed;
-  bottom: 18px;
-  left: 600px;
+  bottom: 17px;
+  left: 1px;
+  font-size: 20px;
+  color: #333;
+  text-align: left;
+  padding-left: 20px;
+}
+
+
+footer {
+  position: fixed;
+  bottom: 17px;
+  left: 1px;
   font-size: 20px;
   color: #333;
   text-align: left;
@@ -139,8 +149,8 @@ footer a:hover {
 /* pages */
 section::after {
   position: absolute;
-  left: 50px;
-  right: 50px;
+  left: 120px;
+  right: 40px;
   height: 10px;
   bottom:5px;
 

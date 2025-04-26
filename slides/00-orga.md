@@ -180,6 +180,24 @@ nach 45 Punkten in der Klausur werden die Bonuspunkte zugerechnet (cut bei 90 Pu
 ggf. 6 Bonuspunkte (zB. auf Kurzvortrag zu Paper - Kurzvortrag skaliert nicht bei größeren Kursen)
 Ggf. Übungsaufgaben mit Quiz
  -->
+
+---
+
+# We value your feedback and suggestions
+
+We encourage you to share your feedback and suggestions on our teaching materials. You can find the following links in the footer of each slide:
+
+<br>
+
+<a href="https://github.com/digital-work-lab/literature-review-seminar/issues/new" target="_blank"> ♻️ </a> Provide feedback by submitting an issue
+<a href="https://github.com/digital-work-lab/literature-review-seminar/edit/main/slides/00-orga.md" target="_blank"> 🛠️ </a> Suggest specific changes by directly modifying the content
+
+<br>
+
+Your feedback plays a crucial role in helping us align with our core goals of **impact in research, teaching, and practice**. By contributing your suggestions, you help us further our commitment to **rigor**, **openness** and **participation**. Together, we can continuously enhance our work by contributing to **continuous learning** and collaboration across our community.
+
+Visit this <a href="https://digital-work-lab.github.io/handbook/docs/10-lab/10_processes/10.01.goals.html" target="_blank">page</a> to learn more about our goals:  🚀 🛠️ ♻️ 🙏 🧑‍🎓️ . 
+
 ---
 
 # Administration
