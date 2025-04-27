@@ -166,3 +166,9 @@ section::after {
 .edit-link:hover {
   text-decoration: underline;
 }
+
+blockquote.footnote {
+  border-top: 0.1em;
+  font-size: 60%;
+  margin-top: auto;
+}

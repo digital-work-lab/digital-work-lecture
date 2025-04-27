@@ -33,7 +33,9 @@ Backup:
 ## Preparation
 
 - [x] Update dates and rooms for sessions
+- [x] VC: create uploads for the summaries (PDFs)
 - [x] Update the rating average in the badge (change the badge-link on index.md) and participation
+- [ ] Note: if the first session for the project is before the lecture, inform students about it via VC messages
 
 See [test exam](../exams/test_exam.pdf)
 
