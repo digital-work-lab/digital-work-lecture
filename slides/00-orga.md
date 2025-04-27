@@ -78,7 +78,7 @@ The following areas are **out of scope**:
 - Describe the historical, organizational, and societal drivers of change in digital work.
 - Understand how digitalization changes work for individuals, teams, and crowds.
 - Build you repertoire of practices, methods, and tools for effective digital work.
-- Explain corresponding theories of media choice, adaptation, and effective use.
+- Explain corresponding theories of personal information management, media synchronicity, and virtual teams.
 - Appreciate different forms of scientific knowledge, theories, and methods prevalent in research on digital work.
 - Critically evaluate ethical outcomes and recommend policy measures.
 
