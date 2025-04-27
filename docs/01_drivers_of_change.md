@@ -104,7 +104,7 @@ Ausdifferenzierung
 Skills: industrial (production/automotive, chemical, ...)
 
 <!-- 
-Porter, M. E. _[The Competitive Advantage: Creating and Sustaining Superior Performance](http://www.hbs.edu/faculty/product/193)_. NY: Free Press, 1985. (Republished with a new introduction, 1998.)
+Porter, M. E. _[The Competitive Advantage: Creating and Sustaining Superior Performance](http://www.hbs.edu/faculty/product/193){: target="_blank"}_. NY: Free Press, 1985. (Republished with a new introduction, 1998.)
 
 TBD: Maybe as a back-up slide?
 
@@ -205,7 +205,7 @@ Examples for other disruptions (???)
 - Innovation and customization require a shift from traditional modes of control (monitoring, incentivizing, and sanctioning employees) towards value (co)-creation, cooperation, innovation (Wiener 2019) 
 
 - Taylorism -> New work (market demands)
-- [New work](https://www.avantgarde-experts.de/de/magazin/new-work) [link-2](https://www.zukunftsinstitut.de/dossier/megatrend-new-work/), [trends](https://karrierebibel.de/zukunft-der-arbeit/)
+- [New work](https://www.avantgarde-experts.de/de/magazin/new-work){: target="_blank"} [link-2](https://www.zukunftsinstitut.de/dossier/megatrend-new-work/){: target="_blank"}, [trends](https://karrierebibel.de/zukunft-der-arbeit/){: target="_blank"}
 
 [[Future of work]]
  
