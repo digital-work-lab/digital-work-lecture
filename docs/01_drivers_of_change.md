@@ -11,7 +11,9 @@ search_exclude: true
 Introduce myself:
 - Regensburg (running)
 - Montreal
-- CV: not straight-forward/planned
+- Bamberg
+
+CV: not straight-forward/planned
 
 Teaching: when I teach, I teach - you have my attention.
 
@@ -28,13 +30,13 @@ Die Vorlesung mit Leben füllen, Ihre Ideen mit einbringen
 - Wer hat ein klares Berufsziel?
 - Was interessiert Sie an Digital Work, was würden Sie gerne lernen?
 
+<!-- 
 ## Contents
 
 What the course does not cover...
 
 How the lecture approaches digital work...
 
-<!-- 
 
 - The focus is on understanding the options that are available, know their inner workings (steps, principles), know under which circumstances they may or may not work (why), identify abstract concepts from specific technology examples. 
 
@@ -53,11 +55,13 @@ not everyone will use the same system
 -> also: policies (society/team/organiazation)
 
 Learning: self-directed (additional resources), slides need to be complemented with notes (examples, ...)
--->
 
 ## Grades and summaries
 
 # Teaching notes: Drivers of change
+-->
+
+<div class="page-break"></div>
 
 ## Warm-up: Reflection on the photo
 
@@ -185,7 +189,6 @@ TODO : prepare a clear message:
 TODO
 
 <!-- 
-
 Shift towards remote work: interesting: 10-20 years ago, companies tried to persuade employees to "telework" (not successful). Today, employees ask for remote work.
 
 - Organizational structures and management principles are often rooted in Taylorist assumptions (need to control, ...) - envisioning the future
@@ -209,7 +212,6 @@ Examples for other disruptions (???)
 
 [[Future of work]]
  
-
 dot-com boom (e-commerce etc.)
 
 Note : competition on price is still there! But differentiation has emerged
@@ -225,9 +227,7 @@ Platforms
 
 turbulence/disruptive competition
 TBD: disruptive inovation? / competition after market saturation / replacement of jobs, ...
-
- -->
-
+-->
 
 ## Knowledge work
 
@@ -253,8 +253,6 @@ Mention: a little bit of an outlook
 - What would the ideal world look like, what values would be important?
 - How would you make it happen for yourself? Follow your passion?
 
-
-
 ## Bergman
 
 Maslows pyramid of needs
@@ -273,7 +271,7 @@ Mention that most issues raised in this lecture are part of a broader discourse 
 
 Envisions centers for new work in which mentors help people to understand what they really want (e.g., art, ....)
 
-https://newwork-newculture.dev/theorie/
+<!-- https://newwork-newculture.dev/theorie/ -->
 Fokus: gesellschaftlicher Diskurs
 
 Freiheit (Schaffen von Experimentierräumen, Schaffen einer Kultur der Angstfreiheit, starke Vernetzung innerhalb der Organisation)
@@ -281,8 +279,8 @@ Selbstverantwortung (Etablieren von Modellen der Selbstorganisation, Erweitern d
 Sinn („Arbeit, die man wirklich, wirklich will“, Erweitern des Wertschöpfungsbegriffs, Überprüfen von Strukturen und Prozessen)
 Entwicklung (Etablieren kollektiver Lernstrukturen, Selbstreflexion der Organisation, Etablieren kollektiver Entscheidungsstrukturen)
 Soziale Verantwortung (Ökologische und soziale Nachhaltigkeit, Regionales Engagement, Prinzip des Ehrbaren Kaufmanns)
-https://de.wikipedia.org/wiki/Frithjof_Bergmann#New_Work
 
+<!-- https://de.wikipedia.org/wiki/Frithjof_Bergmann#New_Work -->
 
 ## Chetty
 
@@ -292,8 +290,9 @@ entrepreneurship/innovation: many Einsteins lost
 
 There is saturation in average job prospects (compared to previous generations, across the working population)
 
- https://www.spiegel.de/ausland/harvard-oekonom-raj-chetty-kontakte-zu-reicheren-sind-der-entscheidende-faktor-fuer-den-aufstieg-a-c98f9b76-2422-41fa-8468-9cc139761c0b 
-
+<!-- 
+https://www.spiegel.de/ausland/harvard-oekonom-raj-chetty-kontakte-zu-reicheren-sind-der-entscheidende-faktor-fuer-den-aufstieg-a-c98f9b76-2422-41fa-8468-9cc139761c0b 
+-->
 
 ## Newport
 
@@ -321,9 +320,10 @@ think small, act big:
 
 -> "follow your passion" can be a very risky approach ()
 
-https://calvinrosser.com/notes/so-good-they-cant-ignore-you/
+<!-- https://calvinrosser.com/notes/so-good-they-cant-ignore-you/ -->
 
-TODO : TED talk?s
+ {: info }
+ > TED talk: **Cal_newport_follow_your_passion.webm** ()
 
 |  | **Common Belief** | **Reality (Career Capital First)** |
 |:---|:---|:---|
@@ -331,13 +331,12 @@ TODO : TED talk?s
 | Step 2 | 🎯 Choose career based on passion | 🛠️ Build rare and valuable skills |
 | Step 3 | 🏆 Achieve success and happiness | ❤️ Passion grows as you gain mastery and impact |
 
-
 ## Conclusion
 
-Organizations as collections of capital
-Organizations as collections of resources
-Organizations as collections of contracts
-Organizations as collections of knowledge
+Organizations as collections of capital (industrial revolution)
+Organizations as collections of resources (competitive strategy)
+Organizations as collections of contracts (transaction cost theory)
+Organizations as collections of knowledge (knowledge economy/digitalization)
 
 Workers fight for safe jobs, fair wages
 Workers fight for social insurance and leisure

@@ -34,7 +34,7 @@ I am excited study the evolving landscape of **digital work practices** and the 
 
 # Your expectations for the lecture "Introduction to Digital Work"
 
-- Your background and perspective on digital work
+<!-- - Your background and perspective on digital work -->
 - Topics you are interested in
 - Challenges you grapple with
 - Work technologies that are exciting
