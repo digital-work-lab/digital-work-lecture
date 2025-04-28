@@ -29,13 +29,13 @@ The first industrial revolution (1760-1830)
 - Work transitions from hand production methods to industrial production work supported by machines
 - Social and organizational changes:
   - Emergence of the factory system, industrial centers, and urbanization
-  - Shift from task-based work to time-based work following the industrial rythm
+  - Shift from task-based work to time-based work following the industrial rhythm
 
 The second industrial revolution (1870-1914)
 - Key technological developments: scientific discoveries (patents), standardization, mass production
 - Work is shaped by Taylorist principles, later referred to as **scientific management**.
 - Social and organizational changes:
-  - Early labor laws and growth of labor unions (collective bargaining, measures agains child labor)
+  - Early labor laws and growth of labor unions (collective bargaining, measures against child labor)
   - Movement toward standardized workdays (8-hour days\*)
 
 <blockquote class="footnote">

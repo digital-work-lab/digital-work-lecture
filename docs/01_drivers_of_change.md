@@ -11,7 +11,7 @@ search_exclude: true
 Introduce myself:
 - Regensburg (running)
 - Montreal
-- CV: not straigt-forward/planned
+- CV: not straight-forward/planned
 
 Teaching: when I teach, I teach - you have my attention.
 
@@ -30,7 +30,7 @@ Die Vorlesung mit Leben füllen, Ihre Ideen mit einbringen
 
 ## Contents
 
-What the couse does not cover...
+What the course does not cover...
 
 How the lecture approaches digital work...
 
@@ -85,7 +85,7 @@ Not covered: Peter Drucker etc.
 
 - principles: have been criticized widely
 - influence: how organizations structure work, hierarchies , how we think about work
-- departemnt structures: division of labor
+- department structures: division of labor
 - HR/hiring: selection of the best workers based on objective figures (such as years of experience) - maybe also influenced by unions
 - outcome-based compensation, 360 feedback -> objective selection/training
 - Context: low skill requirements/workers can be replaced quickly
@@ -128,10 +128,10 @@ Still simplifying... but we could imagine that:
 - large industrial corporation: No website for 200 years, then the marketing department has hired programmers who are in charge of the website (since 20 years)
 - Public companies: public-relations with shareholders and investors are critical, all communication is controlled
 - SME: B2B, no need for a website... - hard to change established approaches
-- Startups/DNE/Freelancers: online as the first step. 
+- Startups/Digital-Native-Enterprises(DNE)/Freelancers: online as the first step. 
 - Startups: investing to grow/scale, reach new customers, offer products/services
 - DNE: Data/Web is their business. detailed analytics/optimization (clickthrough, etc.)
-- Freelancers: using platform services, making quick adption decisions (if needed - see pandemic)
+- Freelancers: using platform services, making quick adoption decisions (if needed - see pandemic)
 
 ## Transaction cost theory
 
@@ -245,7 +245,7 @@ Information Volume, overload, and the need to rethink (grant book)
 ## How should the future look like?
 
 Should we work? -> **Maslow**: work: purpose/calling/self-fulfillment
-TODO : maybe even add a chart of maslow: does work contradict self-fulfillment or should it coincide? What's the optimal time that people should work?
+TODO : maybe even add a chart of Maslow: does work contradict self-fulfillment or should it coincide? What's the optimal time that people should work?
 
 Mention: a little bit of an outlook
 
@@ -258,7 +258,7 @@ Mention: a little bit of an outlook
 ## Bergman
 
 Maslows pyramid of needs
- - idealy work should not be limited to safety: employment, but also address belonging, esteem, self-actualization (pushing ones boundaries)
+ - ideally work should not be limited to safety: employment, but also address belonging, esteem, self-actualization (pushing ones boundaries)
 
 How would we live if machines/automation/AI do all the work for us?
 -> would we work at all?
@@ -345,4 +345,4 @@ Workers fight for meaning (self-fulfillment) and flexibility
 
 It all depends on the industry (there are low-paying jobs that require no knowledge)
 
-- MENTION Examples/imporant to make associations with the contents in the rest of the lecture.
+- MENTION Examples/important to make associations with the contents in the rest of the lecture.
