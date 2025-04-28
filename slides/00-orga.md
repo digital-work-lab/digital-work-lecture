@@ -83,6 +83,8 @@ The following areas are **out of scope**:
 - Critically evaluate ethical outcomes and recommend policy measures.
 
 <!-- 
+technology choice, effective (situational) use
+
 - Familiarize with a repertoire of techniques, methods, and policies for effective digital work at the levels of individuals, teams, and crowds.
 - Apply, adapt, and critically discuss these methods in different practical contexts.
 
