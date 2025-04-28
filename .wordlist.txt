@@ -1303,3 +1303,5 @@ Felloship
 HEC
 Montréal
 digitalization
+Maslows
+SME

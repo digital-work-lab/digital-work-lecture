@@ -31,7 +31,7 @@ Bild des Flickenteppich (wir wissen wenig, oft vermeintlich Wiederspruch)
 ## Technology
 
 Blended: watch LLM-video
--> summary (ergebnisse sichern)
+-> summary (Ergebnisse sichern)
 
 ## Concepts
 
