@@ -3,7 +3,7 @@ marp: true
 header: 'IDW-02: Digital Work Individually'
 theme: ub-theme
 paginate: true
-footer: "<a href='https://github.com/digital-work-lab/digital-work-lecture/edit/main/slides/02-basics-of-individual-work.md' target='_blank'>⚙️</a>"
+footer: "<a href='https://github.com/digital-work-lab/digital-work-lecture/issues/new?template=Blank+issue' target='_blank'>♻️</a> <a href='https://github.com/digital-work-lab/digital-work-lecture/edit/main/slides/02-basics-of-individual-work.md' target='_blank'>🛠️</a>"
 ---
 
 <!-- _class: lead -->
@@ -27,17 +27,14 @@ Start: summarize last session, summarize the main things that students would lik
 - Apply and adapt Getting-Things-Done as an exemplary method.
 - Appreciate processes and principles of organizing digital work effectively.
 
- <!-- when facing different challenges. -->
+<!-- when facing different challenges. -->
 
---- 
-
-<!-- _class: centered -->
+<!--
 
 # Warm-up question
 
 - What's different about digital? Which skills do we need for digital work?
 
-<!--
 TODO : how to organize the skill reponses?
 
 
@@ -249,7 +246,7 @@ Research Question
 
 ---
 
-**Methods**
+# Methods
 
 - Expert panel to identify **overarching categories**: technical, managerial, social, and motivational
 - Search for relevant papers in three databases (ABI/INFORM, EBSCOhost, and Scopus) with the following search string (simplified):
@@ -281,6 +278,16 @@ Search string: illustrate ven-diagram (blackboard)
 
 ---
 
+# Results of the review
+
+![width:800px center](../material/gagne-pratte.png)
+
+<blockquote class="footnote">
+* Note: For each category, the most prevalent competencies and abilities are displayed.
+</blockquote>
+
+<!-- 
+
 ### Digital Technical Competencies and Abilities
 
 Overall: 13 items, including
@@ -294,13 +301,11 @@ Overall: 13 items, including
 - Resources management
 - Computer programming / coding abilities
 
-<!-- 
 - Specialized knowledge of activities and processes
 - Sensing and research skills
 - Knowledge of field, legal and ethical basis
 - Social media capabilities
 - Ability to attract investment for the project implementation
- -->
 
 ---
 
@@ -316,8 +321,8 @@ Overall: 16 items, including
 - Decision making
 - Accepting change / change management
 - Problem solving
+
 - Critical thinking
-<!-- 
 - Dynamic capability
 - Change, risk, and crisis management
 - Inquisitive mindset
@@ -325,7 +330,6 @@ Overall: 16 items, including
 - Efficiency orientation
 - Planning skills / organization
 - Intuition
- -->
 
 ---
 
@@ -340,13 +344,12 @@ Overall: 12 items, including:
 - Diversity and intercultural relations
 - Ability to transfer knowledge
 - Networking abilities
-<!-- 
+
 - Inolvement and empowerment
 - Customer awareness
 - Emotional intelligence
 - Facilitation, negotiation, and conflict resolution
 - Inter-generational relations
- -->
 
 ---
 
@@ -361,7 +364,7 @@ Overall: 10 items, including:
 - Influence and persuasion
 - Self-discipline and self-confidence
 - Courageous and risk-taking
-<!-- 
+
 - Role modeling
 - Credibility and trust
 - Self-assessment
@@ -431,7 +434,7 @@ Dont memorize all the categories and abilities
 
 # Warm-up question 
 
-Which methods do you know for organizing work, time, priorities, or flows of information?
+How do you organize work, time, priorities, or information?
 
 ---
 
@@ -615,9 +618,16 @@ Lists:
 	3. Energy available
 	4. Priority
 
-- Regularly review the system (weekly, monthly, annual), and priorities, based on different horizons of focus: Projects > Areas of focus and acountability > One- to two-year goals and objectives <br> > Three- to five-year vision > Purpose and principles
+- Regularly review the system (weekly, monthly, annual), and priorities, based on different horizons of focus:
+	- Projects
+	- Areas of focus and acountability
+	- One- to two-year goals and objectives
+	- Three- to five-year vision
+	- Purpose and principles
 
 <!-- 
+<br> Projects → Areas of focus and acountability → One- to two-year goals and objectives <br> → Three- to five-year vision → Purpose and principles
+
 make key decisions on fridays: compare commitments/time available
 Use checklists/templates for reviews
 
@@ -675,11 +685,28 @@ Für den Review täglich oder wöchentlich sollte mindestens 60-90 Minuten einge
 
 ---
 
-<!-- _class: centered -->
+# GTD Exercise: Organizing for a Successful Semester
 
-# Excercise and talk
+**Goal**: Apply the **Getting Things Done (GTD)** method to help a hypothetical friend prepare for their first semester.
+
+**👥 Setup**: Form groups of 3–6 students, choose a note-taker
+
+**🧩 Tasks**
+
+1. **Set up a System with the core GTD Components**
+- Which lists should be created digitally or physically?
+- What would be included on the list? Give examples.
+
+2. **Processing Decisions**
+- How should the materials will be processed according to GTD? 
+
+---
+
+# Talk
 
 [David Allen's TED Talk: "Are your out of your mind?"](https://www.ted.com/talks/david_allen_are_you_out_of_your_mind)
+
+![bg right:38% width:400px](../material/GTD-talk.png)
 
 <!--
 TODO : discuss principles, how you could apply/adapt GTD

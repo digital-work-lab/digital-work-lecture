@@ -8,9 +8,9 @@ search_exclude: true
 
 # Teaching notes: Getting-things-done
 
+<!-- 
 ## General announcements
-
-Next week: start at 14.00 (stud. Vollversammlung)
+-->
 
 ## Recap
 
@@ -19,12 +19,13 @@ Next week: start at 14.00 (stud. Vollversammlung)
 - Different views on how digital work is or should change. Economists, New Work, Realist on how to find job satisfaction
 - Cal Newport: Deep work - time blocking, avoid distraction, do the hard thinking
 
+<!-- 
 ## Warm-up question
 
 What's different about digital? Which skills do we need for digital work?
 
 - Have students write ideas on the blackboard (activation and comparison/reflection when we go through the frameworks, without explicitly comparing them)
-
+-->
 
 ## Weritz grounded theory
 
@@ -40,13 +41,38 @@ Show Ven-Diagram for the AND-OR terms
 
 ## Summary
 
-|Dimension   | <div style="width:270px">DigComp (EU)</div>  | <div style="width:270px">Weritz (2022)</div>  | <div style="width:290px">Gagné-Pratte et al. (2022) </div> |   
-|-------------|---|---|---|
-| Focus  <br><br>|   |   |   |   
-| Research design<br><br> |   |   |   |   
-| Principal findings <br><br><br><br> | | | 
-| Target audience <br><br> |   |   |   |  
-
+<table border="1">
+  <tr>
+    <th>Dimension</th>
+    <th><div style="width:270px">DigComp (EU)</div></th>
+    <th><div style="width:270px">Weritz (2022)</div></th>
+    <th><div style="width:290px">Gagné-Pratte et al. (2022)</div></th>
+  </tr>
+  <tr>
+    <td>Focus<br><br></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Research design<br><br></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Principal findings<br><br><br><br></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Target audience<br><br></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
 ## Overview of methods
 

@@ -117,12 +117,12 @@ Different types of organizations often have different working cultures:
 - A shift towards differentiation and services (third sector)
 - Ground-braking technology innovations, such as the Internet, e-commerce, and digital platforms
 - Growing bargaining power of highly skilled workers (*war for talent*)
-- New challenges, such as algorithmic management, and marginalization
 - Disruptive changes in a highly connected world: dot-com boom, the 2007/8 financial crisis, COVID-19
+- New challenges, such as algorithmic management, and marginalization
 
 How the digital revolution changes the nature of work (examples):
-- Shift towards remote work
 - Shorter cycles for updating skills
+- Shift towards remote work
 - Artificial Intelligence (AI) augments or replaces jobs
 
 ---
