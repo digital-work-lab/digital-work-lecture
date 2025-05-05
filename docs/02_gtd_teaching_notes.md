@@ -39,14 +39,17 @@ Show Ven-Diagram for the AND-OR terms
 - Importance of covering different synonyms and spelling variations
 - Result: 459, with only 76 relevant: deliberately implement a broad search (accept irrelevant papers) for completeness
 
+
+<div class="page-break"></div>
+
 ## Summary
 
 <table border="1">
   <tr>
     <th>Dimension</th>
-    <th><div style="width:270px">DigComp (EU)</div></th>
-    <th><div style="width:270px">Weritz (2022)</div></th>
-    <th><div style="width:290px">Gagné-Pratte et al. (2022)</div></th>
+    <th><div style="width:200px">DigComp (EU)</div></th>
+    <th><div style="width:200px">Weritz (2022)</div></th>
+    <th><div style="width:200px">Gagné-Pratte et al. (2022)</div></th>
   </tr>
   <tr>
     <td>Focus<br><br></td>
