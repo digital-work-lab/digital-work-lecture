@@ -8,6 +8,11 @@ search_exclude: true
 
 # Teaching notes: Getting-things-done
 
+
+## Preparation
+
+- [ ] Upload / print the [GTD worksheet](../exercises/gtd/GTD_Worksheet.pdf)
+
 <!-- 
 ## General announcements
 -->

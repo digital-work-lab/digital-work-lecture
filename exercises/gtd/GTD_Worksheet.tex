@@ -1,0 +1,162 @@
+\documentclass[11pt]{scrartcl}
+%==============================
+%ZUSÄTZLICH EINGEBUNDENE PAKETE
+%==============================
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[ngerman]{babel}
+\usepackage{amsmath,amsthm,amssymb,euscript}
+\usepackage{lmodern}
+\usepackage{enumerate}
+\usepackage{graphicx}
+\usepackage{tabulary}
+\usepackage{txfonts}
+\usepackage{eurosym}
+\usepackage{listings, color}
+\definecolor{darkblue}{rgb}{0,0,.6}
+\definecolor{darkred}{rgb}{.6,0,0}
+\definecolor{darkgreen}{rgb}{0,.6,0}
+\definecolor{red}{rgb}{.98,0,0}
+\lstloadlanguages{Java}
+\lstset{
+basicstyle=\footnotesize\ttfamily,
+showspaces=false,
+showtabs=false,
+columns=fixed,
+numbers=left,
+frame=none,
+numberstyle=\tiny,
+breaklines=true,
+showstringspaces=false,
+xleftmargin=1cm,
+tabsize=4}
+
+%tables
+\usepackage{tabularx}
+
+%circles in math mode
+\usepackage{tikz}
+\newcommand*\circled[1]{\tikz[baseline=(char.base)]{
+            \node[shape=circle,draw,inner sep=2pt] (char) {#1};}}
+
+%plotting
+\usepackage{pgfplots}
+
+\usepackage[a4paper]{geometry}
+\geometry{a4paper,tmargin=3.5cm, bmargin=3cm, lmargin=3cm, rmargin=2cm, headheight=13em, headsep=3em, footskip=1cm}
+
+\usepackage{textcomp}
+
+\usepackage{fancyhdr}
+\setlength{\parskip}{1em}
+\setlength{\parindent}{0pt}
+
+\newcommand{\blatt}[1]{\begin{center}{\bf\Large  #1 \vspace*{0.3cm}}\end{center}}
+
+\newtheoremstyle{aufgabenstyle}% name of the style to be used
+  {24pt}% measure of space to leave above the theorem. E.g.: 3pt
+  {6pt}% measure of space to leave below the theorem. E.g.: 3pt
+  {\normalfont}% name of font to use in the body of the theorem
+  {}% measure of space to indent
+  {\bfseries}% name of head font
+  {}% punctuation between head and body
+  {\newline}% space after theorem head; " " = normal interword space
+  {\thmname{#1}\thmnumber{ #2}\thmnote{ (#3)}\newline}% Manually specify head
+
+\theoremstyle{aufgabenstyle}
+\newtheorem{aufgabe}{\large Aufgabe}
+
+%==============================
+%BEGINN DER KOPF- UND FUSSZEILE
+%==============================
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[R]{Prof. Dr. Gerit Wagner}
+\fancyhead[L]{Introduction to Digital Work}
+\setlength{\parskip}{1em}
+\setlength{\parindent}{0pt}
+\fancyfoot[C]{\thepage}
+%\fancyfoot[L]{\today}
+%================================
+%BEGINN DES EIGENTLICHEN INHALTES
+%================================
+\begin{document}
+\begin {center}\textbf{{\Large Worksheet: Getting-Things-Done}}\\
+\end{center}
+
+\textbf{Goal}: Apply the \textbf{Getting Things Done (GTD)} method to help a hypothetical friend prepare for their first semester.
+
+
+\textbf{\large{Task 1: Set up a System with the core GTD Components}}
+
+\begin{itemize}
+	\item Which lists should be created digitally or physically?
+	\item What would be included on the list? Give examples.
+\end{itemize}
+
+
+\renewcommand{\arraystretch}{2.5} % Increase line height
+\begin{table}[htbp]
+	\centering
+	\begin{tabular}{|p{3cm}|p{3cm}|p{3cm}|p{5cm}|}
+		\hline
+		\textbf{List} & \textbf{Digital} & \textbf{Physical} & \textbf{Content (example)} \\
+		\hline
+		 &  &  &  \\ \hline
+		 &  &  &  \\ \hline
+		 &  &  &  \\ \hline
+		 &  &  &  \\ \hline
+		 &  &  &  \\ \hline
+		 &  &  &  \\ \hline
+		 &  &  &  \\ \hline
+		 &  &  &  \\ \hline
+
+
+%		Inbox & Email inbox, Notes app & In-tray, notebook & Lecture email, to-do jotted on phone \\ \hline
+%		Projects & Project board in Notion or Trello & Project section in planner & “Prepare for Data Science exam” \\
+%		\hline
+%		Action Lists & Todoist, Microsoft To Do & Sticky notes, checklist & “Read chapter 3,” “Email Prof. Smith” \\
+%		\hline
+%		Waiting-for & Email with self-CC or label & Sticky with names/tasks & “Waiting for team to share slides” \\
+%		\hline
+%		Calendar & Google Calendar, Outlook & Wall calendar, paper planner & Exam registration deadline \\
+%		\hline
+%		Reference & Cloud folders (Google Drive) & Binder or printed handouts & FlexNow User’s Guide, lecture slides \\
+%		\hline
+%		Checklists & Notion templates, Google Docs & Printed templates & “Checklist for exam day” \\
+%		\hline
+%		Tickler & Dated folders/reminders in app & 43 physical folders & Reminder to follow up on internship \\
+%		\hline
+	\end{tabular}
+\end{table}
+
+\newpage
+\textbf{\large{Task 2: Processing Decisions}}
+
+\begin{itemize}
+	\item How should the materials will be processed according to GTD? 
+\end{itemize}
+
+\renewcommand{\arraystretch}{1.5} 
+\begin{table}[htbp]
+	\centering
+	\begin{tabular}{|c|p{6cm}|p{8cm}|}
+		\hline
+		\textbf{Nr} & \textbf{Material} & \textbf{Decision} \\ \hline
+		1  & WI-Projektarbeit: Info an Anna                    &  \\ \hline
+		2  & Schlenkerla                                        &  \\ \hline
+		3  & EidWI Case                                         &  \\ \hline
+		4  & Bestätigung: Volleyballkurs                        &  \\ \hline
+		5  & Rückmeldung: ERASMUS                               &  \\ \hline
+		6  & Checkliste: Prüfungsvorbereitung                  &  \\ \hline
+		7  & Buch ausgeliehen                                   &  \\ \hline
+		8  & Auslandsstudienführer                              &  \\ \hline
+		9  & FlexNow User’s Guide                               &  \\ \hline
+		10 & Prüfungsanmeldung                                  &  \\ \hline
+		11 & DAIMLER / Praktikumsnotiz                          &  \\ \hline
+		12 & MITSloan Report: Digital Technology       &  \\ \hline
+	\end{tabular}
+\end{table}
+
+
+\end{document}
