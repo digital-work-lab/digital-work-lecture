@@ -40,8 +40,8 @@ You can find all information about this lecture in the [syllabus](docs/syllabus.
 |-----|------------|-----------------|---------------------------------------------------------------------------------------------------------|
 | 00  | 2025-04-28 |                 | [Orga](output/00-orga.html){: target="_blank"}                                                          |
 | 01  | 2025-04-28 | General         | [Drivers of Change](output/01-drivers-of-change.html){: target="_blank"}                                |
-| 02  | 2025-05-05 | **Individual**  | [Personal Information Management](output/03-personal-information-management.html){: target="_blank"}    |
-| 03  | 2025-05-12 | **Individual**  | [Excellence](output/04-excellence.html){: target="_blank"}                                              |
+| 02  | 2025-05-05 | **Individual**  | [Basics of Digital Work](output/02-basics-of-individual-work.html){: target="_blank"}                   |
+| 03  | 2025-05-12 | **Individual**  | [Personal Information Management](output/03-personal-information-management.html){: target="_blank"}    |
 | 04  | 2025-05-19 | **Team**        | [Remote Teams](output/05-remote-teams.html){: target="_blank"}                                          |
 | 05  | 2025-05-26 | **Team**        | [Communication](output/06-communication.html){: target="_blank"}                                        |
 | 06  | 2025-06-02 | **Team**        | [Collaborative Content Creation](output/07-collaborative-content-creation.html){: target="_blank"}      |
@@ -52,9 +52,9 @@ You can find all information about this lecture in the [syllabus](docs/syllabus.
 | 11  | 2025-07-14 | General         | [Ethics](output/12-ethics.html){: target="_blank"}                                                      |
 | 12  | 2025-07-21 |                 | [Exam Prep](output/13-exam-prep.html){: target="_blank"}                                                |
 
-<!-- | 02  | 2025-05-05 | **Individual**  | [Basics of Individual Work](output/02-basics-of-individual-work.html){: target="_blank"}                | -->
-
 <!-- 
+| 03  | 2025-05-12 | **Individual**  | [Excellence](output/04-excellence.html){: target="_blank"}                                              |
+
 🎙️ Online
 📋 Collect summaries for exam
 -->

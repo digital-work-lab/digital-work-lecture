@@ -20,6 +20,15 @@ To understand **changes in work**, we need to understand **changes in organizati
 
 --- 
 
+<style>
+blockquote {
+    border-top: 0.1em;
+    font-size: 60%;
+    margin-top: auto;
+}
+</style>
+
+
 # The historical development of work
 
 <!-- The economy and it's revolutions -->
@@ -38,9 +47,7 @@ The second industrial revolution (1870-1914)
   - Early labor laws and growth of labor unions (collective bargaining, measures against child labor)
   - Movement toward standardized workdays (8-hour days\*)
 
-<blockquote class="footnote">
-* Note: The 5-day workweek was promoted in 1926 by Ford to improve productivity and give workers the opportunity to consume goods.
-</blockquote>
+> * Note: The 5-day workweek was promoted in 1926 by Ford to improve productivity and give workers the opportunity to consume goods.
 
 ---
 
@@ -57,6 +64,15 @@ These principles continue to influence the organization of work today.
 
 ---
 
+<style>
+blockquote {
+    border-top: 0.1em;
+    font-size: 60%;
+    margin-top: auto;
+}
+</style>
+
+
 # From mass production to competitive strategies
 
 - Mass production achieves high output and operational efficiency <br>(e.g., through Kanban\*).
@@ -68,9 +84,7 @@ These principles continue to influence the organization of work today.
 
 - Rising demand for highly skilled workers across industries
 
-<blockquote class="footnote">
-* Note: Kanban boards can be found in modern software development tools and methods, including Scrum and Agile.
-</blockquote>
+> * Note: Kanban boards can be found in modern software development tools and methods, including Scrum and Agile.
 
 ![bg right:32% Kanban width:350px](../material/kanban_freepik.jpg)
 
@@ -166,6 +180,14 @@ Three pillars of new work
 
 ---
 
+<style>
+blockquote {
+    border-top: 0.1em;
+    font-size: 60%;
+    margin-top: auto;
+}
+</style>
+
 # The future of work: An economist's view
 
 Raj Chetty (Harvard University) presents results from large-scale econometric analyses, using census data and data provided by Facebook (big data).
@@ -178,11 +200,17 @@ Findings:
 
 ![bg right:33% width:370px](../material/chetty_analyses.png)
 
-<blockquote class="footnote">
-🔗 Insights presented at the Harvard Big Data Conference (see <a href="https://www.youtube.com/watch?v=dQNKY8q0wz4">recording</a>).
-</blockquote>
+> 🔗 Insights presented at the Harvard Big Data Conference (see [recording](https://www.youtube.com/watch?v=dQNKY8q0wz4)).
 
 ---
+
+<style>
+blockquote {
+    border-top: 0.1em;
+    font-size: 60%;
+    margin-top: auto;
+}
+</style>
 
 # The future of work: A realist's view
 
@@ -197,9 +225,7 @@ So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work Yo
 - Rule 3: Turn down a promotion to take control.
 - Rule 4: Think small, act big.
 
-<blockquote class="footnote">
-🔗 A recording of the talk is available <a href="https://www.youtube.com/watch?v=IIMu1PGbG-0">here</a>.
-</blockquote>
+> 🔗 A recording of the talk is available [here](https://www.youtube.com/watch?v=IIMu1PGbG-0).
 
 ---
 

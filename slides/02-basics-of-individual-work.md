@@ -278,13 +278,19 @@ Search string: illustrate ven-diagram (blackboard)
 
 ---
 
+<style>
+blockquote {
+    border-top: 0.1em;
+    font-size: 60%;
+    margin-top: auto;
+}
+</style>
+
 # Results of the review
 
 ![width:800px center](../material/gagne-pratte.png)
 
-<blockquote class="footnote">
-* Note: For each category, the most prevalent competencies and abilities are displayed.
-</blockquote>
+> * Note: For each category, the most prevalent competencies and abilities are displayed.
 
 <!-- 
 
@@ -372,7 +378,8 @@ Overall: 10 items, including:
 
 ---
 
-|Dimension   | <div style="width:270px">DigComp (EU)</div>  | <div style="width:270px">Weritz (2022)</div>  | <div style="width:290px">Gagné-Pratte et al. (2022) </div> |   
+
+|Dimension   | DigComp (EU) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Weritz (2022) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Gagné-Pratte et al. (2022) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |   
 |-------------|---|---|---|
 | Focus  <br><br>|   |   |   |   
 | Research design<br><br> |   |   |   |   
@@ -744,7 +751,6 @@ stigmergy: indirect coordination (through traces in the environment)
 situated action: select the right tasks for each context, bundle similar tasks, avoid switching/disruption
 
 feedback: checking things off a list when they are done.
-
 
 - But: Prominent in practice
 - Principles (study from long-range planning)
