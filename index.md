@@ -10,7 +10,7 @@ permalink: /
 
 <br>
 
-![Course Status](https://img.shields.io/badge/Course%20upcoming-Summer%20semester%202025-green)<br>
+![Course Status](https://img.shields.io/badge/Current%20course-Summer%20semester%202025-green) ![Course Status](https://img.shields.io/badge/Upcoming%20course-Winter%20semester%202025/26-green)<br>
 [![Level](https://img.shields.io/badge/Level-Bachelor-blue)](https://digital-work-lab.github.io/digital-work-lecture/docs/syllabus.html)
 [![Degree Program](https://img.shields.io/badge/Degree%20Program-WI%20|%20ISM-blue)](https://digital-work-lab.github.io/digital-work-lecture/docs/syllabus.html)
 [![Prerequisites](https://img.shields.io/badge/Prerequisites-None-blue)](https://digital-work-lab.github.io/digital-work-lecture/docs/syllabus.html)
