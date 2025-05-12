@@ -3,7 +3,7 @@ marp: true
 header: 'IDW-03: Personal Information Management'
 theme: ub-theme
 paginate: true
-footer: "<a href='https://github.com/digital-work-lab/digital-work-lecture/edit/main/slides/03-personal-information-management.md' target='_blank'>⚙️</a>"
+footer: "<a href='https://github.com/digital-work-lab/digital-work-lecture/issues/new?template=Blank+issue' target='_blank'>♻️</a> <a href='https://github.com/digital-work-lab/digital-work-lecture/edit/main/slides/03-personal-information-management.md' target='_blank'>🛠️</a>"
 ---
 
 <!-- _class: lead -->
@@ -58,9 +58,20 @@ footer: "<a href='https://github.com/digital-work-lab/digital-work-lecture/edit/
 
 ---
 
+<style>
+	blockquote {
+		border-top: 0.1em;
+    font-size: 60%;
+    margin-top: auto;
+}
+</style>
+
 # PIME: Results
 
-![width:800px center](../material/HwangKettingerYi2015-fig4.png)
+![width:750px center](../material/HwangKettingerYi2015-fig4.png)
+
+> - **Effects**: Coefficients (β) how the *direction and strength* of relationships (positive = increase, negative = decrease). *p-values* indicate *significance* (often marked with *, **, ***).
+> - **Explained variables**: *R² (R-squared)* % of *variance explained* by the model (closer to 1 = better fit).  
 
 <!-- [[HwangKettingerYi2015]] -->
 
@@ -195,7 +206,7 @@ blockquote {
     margin-top: auto;
 }
 </style>
-
+ 
 # Step 3: Make plans
 
 Next, we would like to create a canvas as a more stable structural representation that connects to the different notes.

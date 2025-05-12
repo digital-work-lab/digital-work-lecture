@@ -28,7 +28,6 @@ blockquote {
 }
 </style>
 
-
 # The historical development of work
 
 <!-- The economy and it's revolutions -->
