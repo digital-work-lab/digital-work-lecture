@@ -54,6 +54,8 @@ Selbstwahrnehmung und Korrelation (statt Experiment/klinischer Studie und Kausal
 	- Interesting variables like proactiveness, sensing, processing, ...
 	- Conceptual categories need to be translated into applications or practices
 
+<div class="page-break"></div>
+
 ### PIME application:
 
 We already covered collecting/organizing/processing in GTD. Focus on sensing and maintaining.
@@ -82,6 +84,7 @@ Maintaining: TODO
 
 Ask students to read the paper (maybe skip a few elements in the methods/discussion)
 
+<div class="page-break"></div>
 
 ## Beyond PIME
 
@@ -109,6 +112,7 @@ Better: make students think about how they would re-use/retrieve the materials f
 
 -  Raise the question of how to organize that kind of knowledge/information. Illustrate that entering everything in excel is not helpful because there are no connections/it is difficult to organize and retrieve information). - **TBD: maybe explain the principles in the next session?**
 
+<div class="page-break"></div>
 
 ## Digital Gardening
 
@@ -139,6 +143,7 @@ https://neuron.zettel.page/heterarchy
 - Suggest that the Internet (hyperlinked content) is pretty efficient, and then introduce obsidian as a relatively new/trending tool.
 - Suggest to students that obsidian would also be a great example to prepare for exams (maybe even announce a reflection exercise at the end?)
 
+<div class="page-break"></div>
 
 ## Exercise
 
@@ -174,18 +179,18 @@ Live illustration
 
 - show [obsidian docs](https://help.obsidian.md/Obsidian/Index), interactive graph on the top right
  
-# Obsidian Research
-## Best Practice für Knoten, Tags, etc.
+ <div class="page-break"></div>
+
+**Obsidian Research**
+
+Best Practice für Knoten, Tags, etc.
+
 - Es bestehen keine generellen best pratices für den Aufbau, die Bennenung von Objekten oder sonstigen
 - Es gibt von bestimmten Personen Tipps für Anfänger zum Aufbau der Obsidian App
 - Es gibt auch Erklärungsvideos auf Youtube für Obsidian, hier sind ein paar Links zu relativ guten Erklärungsvideos:
 - Erstes Video von einer Obsidian Serie: https://www.youtube.com/watch?v=svqJ8BUh8mU
 - Ein Starter Video: https://www.youtube.com/watch?v=QgbLb6QCK88
 - Vergleichsvideo von Obsidian mit Notion: https://www.youtube.com/watch?v=PNxr3KdiWac
-
-
-- the Courses.md/Courses and semester.canvass and Goals.md should not be available in the first materials.
-- The mapping of skills/goals (????) should be removed (TBD: from which notes?!)
 
 Step setting goals: Note: Now, we have a classical hierarchy. But the links/serendipity of obsidian was already useful
 
