@@ -97,12 +97,9 @@ Download and install [obsidian](https://obsidian.md/) on your personal or CIP ma
 # Focus session: Organizing knowledge
 
 - How would you organize a digital knowledge repository?
-- How would you know or measure whether its effectiveness?
+- How would you measure its effectiveness?
 
-<!-- 
-
-
--->
+![bg right:40% width:350px](../material/freepik_knowledge_management.jpg)
 
 ---
 
@@ -217,7 +214,7 @@ Next, we would like to create a canvas as a more stable structural representatio
 - Assign each course to one of the three semesters (by creating groups).
 - Add the goals to the canvas and connect them to the requisite courses.
 
-> Note: The notes for goals and courses and the semester canvas is available [here]([download the materials](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fdigital-work-lab%2Fdigital-work-lecture%2Ftree%2Fmain%2Fexercises%2Fobsidian_exercise_solution))
+> Note: The notes for goals and courses and the semester canvas is available [here](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fdigital-work-lab%2Fdigital-work-lecture%2Ftree%2Fmain%2Fexercises%2Fobsidian_exercise_solution).
 
 <!-- 
 ## Aufgabenstellung Bonuspunkte:
