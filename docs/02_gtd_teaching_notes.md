@@ -84,7 +84,7 @@ Show Ven-Diagram for the AND-OR terms
 
 ## Overview of methods
 
-- Deep work: time-blocking, distraction blocking, hard thinking
+- Deep work (Newport/first session): time-blocking, distraction blocking, hard thinking/produce a specific artifact
 - Pomodoro: work 25 minutes, 5 minute break, after 4 runs: 30 mins break
 - Eisenhower matrix: Wichtigkeit x Dringlichkeit (Discard, Delegate, Plan, Do immediately)
 - Checklists: doctors, pilots (e.g., checklist manifesto)

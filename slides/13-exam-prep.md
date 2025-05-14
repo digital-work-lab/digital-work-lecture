@@ -3,7 +3,7 @@ marp: true
 header: 'IDW-13: Exam Prep'
 theme: ub-theme
 paginate: true
-footer: "<a href='https://github.com/digital-work-lab/digital-work-lecture/edit/main/slides/13-exam-prep.md' target='_blank'>⚙️</a>"
+footer: "<a href='https://github.com/digital-work-lab/digital-work-lecture/issues/new?template=Blank+issue' target='_blank'>♻️</a> <a href='https://github.com/digital-work-lab/digital-work-lecture/edit/main/slides/13-exam-prep.md' target='_blank'>🛠️</a>"
 ---
 
 <!-- _class: lead -->
