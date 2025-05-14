@@ -177,7 +177,7 @@ Live illustration
 
 - Start a (obsidian-based) mind-map (explain markdown syntax, especially links), similar to the seminar and ideally showcasing the emergence of concepts/structures (what are the challenges/how should we prepare?) interactively and then provide an intro into obsidian (managing a personal knowledge database).
 
-- show [obsidian docs](https://help.obsidian.md/Obsidian/Index), interactive graph on the top right
+- show [obsidian docs](https://help.obsidian.md/Obsidian/Index){: target="_blank"}, interactive graph on the top right
  
  <div class="page-break"></div>
 
