@@ -37,6 +37,12 @@ geographically dispersed...
 
 ---
 
+# Warm-up question
+
+![image](../material/iconmonstr-help-6.svg) **Think about your last group project or team experience.** If that team had to switch to being fully remote starting tomorrow, **what would be the biggest challenges and benefits you’d expect—and why**?
+
+---
+
 # Virtual teams
 
 Virtual teams are defined as "groups of geographically, organizationally and/or time dispersed workers brought together by information and telecommunication technologies to accomplish one or more organizational tasks." (Powell, Piccoli and Ives 2004)
@@ -46,7 +52,7 @@ Research on virtual teams has started decades ago, but the pandemic has created 
 Our focus:
 
 - The **effects** of working remotely, or in virtual teams
-- The role of **culture** in virtual 
+- The role of **culture** in virtual teams
 - The role of **trust** in virtual teams
 - The role of **conflicts** in virtual teams
 
@@ -210,15 +216,11 @@ Read the paper of Choudhury et al. (2020), who presents the perspectives of diff
 
 Choudhury, P., Crowston, K., Dahlander, L., Minervini, M. S., & Raghuram, S. (2020). GitLab: work where you want, when you want. _Journal of Organization Design_, _9_, 1-17. [link](https://link.springer.com/article/10.1186/s41469-020-00087-8#citeas)
 
----
-
-<!-- _class: centered -->
-
+<!--
 # Reminder
 
 Next session: May 27 (pre-recorded session)
 
-<!--
 Lookup terms that you don't know.
 -->
 ---

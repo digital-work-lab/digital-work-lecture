@@ -40,10 +40,11 @@ forms of remote-work arrangements: (+ digital nomads? / time-zones, ...)
 
 - Would you like to work in an all-remote company?
 
-QUESTION/BLACKBOARD:
-- What are the key challenges / benefits of remote work?
+<div class="page-break"></div>
 
-### Common challenges in remote work
+## QUESTION/BLACKBOARD: What are the key challenges / benefits of remote work?
+
+**Common challenges in remote work**
 
 - Managing work-life boundaries (e.g., unplugging after work, working longer hours)
 - Team-related (e.g., communication, different time zones, cultural differences)
@@ -55,7 +56,7 @@ QUESTION/BLACKBOARD:
 	https://timeular.com/blog/challenges-working-remotely/
 - Work-life boundary management/expectations: availability (time, channels): better to set generally (asking for ok), rather than pushing back specific requests
 
-### Benefits of remote work
+**Benefits of remote work**
 
 - Flexibility and autonomy
 - Less commuting time
