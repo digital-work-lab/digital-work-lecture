@@ -207,7 +207,7 @@ Meta-analysis by de Wit and Greer (2012):
 
 ---
 
-# Homework
+# ... until next session
 
 Read the paper of Choudhury et al. (2020), who presents the perspectives of different organizational scientists on GitLab's all-remote approach. Take notes to answer the following questions:
 - What are the **main challenges** that need to be addressed in all-remote companies?
