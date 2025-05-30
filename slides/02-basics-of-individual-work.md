@@ -37,7 +37,6 @@ Start: summarize last session, summarize the main things that students would lik
 
 TODO : how to organize the skill reponses?
 
-
 Historically, capital was a key restriction to construct production facilities
 
 - Our perspective is one of "digital natives". Many are "digital immigrants".
@@ -288,7 +287,7 @@ blockquote {
 
 # Results of the review
 
-![width:800px center](../material/gagne-pratte.png)
+![width:800px center](../material/gagne-pratte_overview.png)
 
 > * Note: For each category, the most prevalent competencies and abilities are displayed.
 
@@ -402,7 +401,7 @@ CREATE A TABLE? (examples: DigComp, Weritz, Pratte)
 
 ---
 
-![bg right:50% width:400px](../material/hierarchy-of-evidence.svg)
+![bg right:50% width:400px](../material/hierarchy-of-evidence.png)
 
 # Research designs
 
@@ -743,7 +742,7 @@ Almost no scientific evidence, but Heylighen and Vidal (2008) discuss cognitive 
 - Organizing from the bottom-up
 - Using feedback to keep on track (checking tasks done)
 
-![bg right:38% width:400px](../material/GTD_Abbildung_7.png)
+![bg right:38% width:400px](../material/GTD_research_figure.png)
 
 <!-- 
 stigmergy: indirect coordination (through traces in the environment)
