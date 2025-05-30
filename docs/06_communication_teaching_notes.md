@@ -64,7 +64,7 @@ don't start with media richness theory (maybe a bit too challenging/differences 
 Task: too broad -> MST: communication processes at a micro-level
 Media synchronicity theory (Dennis, Fuller, and Valacich, 2006): 
 - An influential theory in IS (citations, best paper awards)
-- The theory explains communication (and task) performance based on the fit between media synchronicity, communication processe, and appropriation factors
+- The theory explains communication (and task) performance based on the fit between media synchronicity, communication processes, and appropriation factors
 
 **TODO : start with the fit aspect**
 
@@ -81,7 +81,7 @@ Media synchronicity theory (Dennis, Fuller, and Valacich, 2006):
 
 **Media synchronicity requirements**
 
-- Media synchronicity requirements for different communication processess (table 1, proposition P1) -> importance of **fit**
+- Media synchronicity requirements for different communication processes (table 1, proposition P1) -> importance of **fit**
 
 **Appropriation factors**
 
@@ -89,7 +89,7 @@ Media synchronicity theory (Dennis, Fuller, and Valacich, 2006):
 
 **Examples I**
 
-- **TODO : short exercise for the main concepts (communication processes, media synchronicity, appropriation factors, fit and communcation performance)**
+- **TODO : short exercise for the main concepts (communication processes, media synchronicity, appropriation factors, fit and communication performance)**
 
 **Media characteristics**
 
@@ -134,7 +134,7 @@ e.g., reduce ambiguity, rally support for a project, foster inclusion and trust,
 Individual and task/environment factors at play (stress/complexity/technology)
 
 Key message:
-- Communication media and practices should be adapted to the situtation (many facets to consider, many potential outcomes to anticipate)
+- Communication media and practices should be adapted to the situation (many facets to consider, many potential outcomes to anticipate)
 - Theories of fit may be particularly suitable, as exemplified by Media Synchronicity Theory
 
 propositions...
