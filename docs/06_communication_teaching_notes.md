@@ -112,7 +112,7 @@ https://coachbetter.tv/the-difference-between-communication-cooperation-coordina
 
 # Homework
 
-Read [external communication](https://about.gitlab.com/handbook/communication/#external-communication)
+Read [external communication](https://about.gitlab.com/handbook/communication/#external-communication){: target="_blank"}
  -->
 
 
@@ -121,7 +121,7 @@ Read [external communication](https://about.gitlab.com/handbook/communication/#e
 whiteboard: expands the symbol set, e.g., allowing participants to develop sketches or mathematical models. also increases parallelism (audio, video of participants, and video of whiteboard)
 Video: increase symbol set (visual cues, gestures, reactions) - especially when meetings aim to converge on particular items. Appropriation factors: familiar with the challenges, perhaps even trained to increase video-use, could be due to past experiences, or even norms in the team or organization.
 AI assistant: several features to transcribe, summarize, or sub-title meetings - improves reprocessability (during and after the meeting)
-coding: Convergence requires high synchronicity, especially wrt. the symbol set of collaborative coding (synchronous) - e.g., [Visual Studio Live Share](https://visualstudio.microsoft.com/de/services/live-share/)
+coding: Convergence requires high synchronicity, especially wrt. the symbol set of collaborative coding (synchronous) - e.g., [Visual Studio Live Share](https://visualstudio.microsoft.com/de/services/live-share/){: target="_blank"}
 
  https://www.zoom.com/en/products/collaboration-tools/features/
 
