@@ -136,7 +136,7 @@ In the practice sessions:
 
 ![bg right:45% width:620px](../material/reorder.png)
 
-> \* Note: This session is based on our [unique and peer-reviewed approach](https://digital-work-lab.github.io/rethink-git-teaching/).
+> \* Note: This session is based on our [peer-reviewed teaching approach](https://digital-work-lab.github.io/rethink-git-teaching/).
 
 <!-- **Preconditions**: 
 - Git installed, username and email set (using the [software carpentry tutorial](https://librarycarpentry.org/lc-git/02-getting-started/index.html))
@@ -203,7 +203,8 @@ blockquote {
 
 ![bg right:45% width:230px center](../material/git-commit.png)
 
-> \* If any of the meta data or content changes, the SHA will be completely different.
+> \* Notes: If any of the meta data or content changes, the SHA will be completely different.
+> `git cat-file -p sha` shows the contents of a Git object.
 
 <!--
 Author/date/message
@@ -251,15 +252,8 @@ blockquote {
 Branches are useful to develop features, test code, or fix bugs without interferring with the main branch
  - Branches are highly efficient: It only takes a few bytes to create a branch of a large repository -->
 
-![bg right:32% width:300px](../material/git-dag.png)
+![bg right:26% width:260px](../material/git-dag.png)
 
----
-
-# What's in a commit?
-
-![width:750px center](../material/git-commit-initial.png)
-
-Note: `git cat-file -p sha` shows the contents of a Git object.
 
 <!-- 
 Explain "bullwhip" effect based on this and the previous slide (why rewriting history should be avoided)
@@ -293,32 +287,9 @@ Break
 
 ---
 
-# Practice: Branching
+# Exercise: Branching
 
-To practice git branching, we use the [learn-git-branching](https://learngitbranching.js.org/?locale=de_DE) tutorial.
-
-Complete the first two levels on branching, merging, and navigating in the git tree.
-<!-- LT: maybe mention they can practice the whole tutorial afterwards for practice -->
-
-
-![width:600px center](../material/git-branching-tutorial.png)
-
-**NOTE**: You can type "undo" when you made a mistake.
-
-<!-- 
-
--> afterwards: branching challenge : post challenge on the blackboard/add nodes/branchnames, after a while: erase the instructions (select commit/create branch)
--> for the challenge: use branch-names only (don't checkout individual commits into main)
-
-ESC to skip explanation
-
--->
-
----
-
-To continue practicing, create the following tree, which resembles a typical setup of Git branches.
-
-![width:400px center](../material/git-branches.png)
+The exercise notebook is available [here](../exercises/git_branch/branching_exercise_notebook)
 
 <!-- 
 git commit
@@ -397,9 +368,17 @@ Wir haben uns auch den entgegengesetzten Weg angesehen - git restore und git res
 
 ---
 
-# The three states of a file
+# The three areas of a git repository
 
-Files in the working directory can reside in three states:
+Git tracks files across three areas:
+
+- **Working directory**: Where you edit files directly.
+- **Staging area (index)**: Specific changes selected for the next commit.
+- **.git directory (repository)**: Stores the full history and committed snapshots.
+
+You move changes between these areas using commands like `git add`, `git commit`, and `git restore`.
+
+<!-- 
 
 - New files are initially **untracked**, i.e., Git does not include new files in commits without explicit instruction.
 - With *git add*, file contents are staged and the file is tracked. Given that the file in the working directory is identical with the staged file contents, the file is **unmodified**.
@@ -408,8 +387,9 @@ Files in the working directory can reside in three states:
 - With *git rm*, files are no longer tracked.
 
 Note: *git add* and *git rm* do not change the contents of the file in the working directory.
+ -->
 
-![bg right:38% width:500px](../material/git-areas-2.png)
+![bg right:38% width:500px](../material/git-areas.png)
 
 <!-- 
 Note: there are very few reasons to checkout a commit
@@ -420,9 +400,6 @@ Hogbin-Westby:
 - working directory: what can be seen (in the file explorer)
 - staging area: the difference of what is stored and what is seen (WHAT HAS BEEN MARKED FOR THE NEXT COMMIT)
 - repository: what is stored
--->
-
----
 
 # Resetting changes
 
@@ -433,7 +410,6 @@ To undo changes that are not yet committed, it is important to understand whethe
 
 ![bg right:38% width:500px](../material/git-reset.png)
 
-<!-- 
 TODO : better explain this with a git graph displayed like here:
 
 https://stackoverflow.com/questions/3528245/whats-the-difference-between-git-reset-mixed-soft-and-hard
@@ -476,238 +452,9 @@ TBD/do not cover?
 ---
 -->
 
-In this part, we work with an existing project. To download the example, open the `Git bash` (which should start at ``W:>``, your personal directory on the file server), and run the following commands:
+# Exercise: Committing
 
-```shell
-git clone https://github.com/CoLRev-Environment/colrev
-cd colrev                     # Enter the directory of the colrev project
-```
-
-**Check**: The clone command should print something like the following (with different numbers):
-
-```
-Cloning into 'colrev'...
-remote: Counting objects: 100% (125/125), done.
-remote: Total 22225 (delta 41), reused 54 (delta 27), pack-reused 22100
-Receiving objects: 100% (22225/22225), 10.11 MiB | 2.37 MiB/s, done.
-Resolving deltas: 100% (18519/18519), done.
-```
-**Note**: You do not have to enter the explanation after the hashtag (#). To create an empty Git project, you would run ``git init``.
-
----
-
-Next, we check the current status of the project:
-
-```shell
-git status
-```
-
-This command provides an overview of the current state of the project and the files in the three sections. Therefore, you will need to run ``git status`` regularly.
-
-**Check**: It should print something like the following:
-
-```
-On branch main
-Your branch is up to date with 'origin/main'.
-
-nothing to commit, working tree clean
-```
-
-The last line indicates that there are no changes in the staging area (nothing to commit). The working directory has the same content as the last version in the Git respository (working tree clean).
-
----
-
-Take a look at the files and directories that were retrieved as part of the CoLRev project.
-
-Git stores its data in the `.git` directory. It can be instructive to explore how Git handles data internally, but keep in mind that manual changes in the `.git` directory may break the repository.
-
-**Note**: If you work on your own machine and Git is not yet configured, you need to run ``git config --global user.name "John Doe"`` and ``git config --global user.email johndoe@example.com`` to configure your user name and email.
-
-
-<!-- 
-We start with the setup of a git repository
-
-Start with the slide, after 2 minutes: ask who has already completed the step/who needs help
-Then: proceed: step-by-step with the following slides
--->
-
----
-
-Next, we modify files (state: **untracked**/**modified**), mark them to be in the next commit (state: **staged**) and create the first version (state: **committed**). This corresponds to the three sections of a Git project.
-
-- Open the `README.md` file and add your name to the list of contributors (`# Contributors` section).
-
-```
-git status              # Check the `git status` between each command
-```
-
-- Open the `CONTRIBUTING.md` file and change it.
-
-**Check**: The `git status` should now show two files with changes in the working directory (state: **modified**).
-
----
-
-We decide that the changes in the `README.md` file should be staged for the next commit. The changes in the `CONTRIBUTING.md` file are no longer needed. Use the commands suggested by `git status` to accomplish this.
-
-**Check**: The `git status` should now display 
-
-```
-On branch main
-Your branch is up to date with 'origin/main'.
-
-Changes to be committed:
-  (use "git restore --staged <file>..." to unstage)
-	modified:   README.md
-
-```
-
-This means that changes in the README.md are **staged** (to be committed).
-
----
-
-To create the commit, we run
-
-```
-git commit -m 'add contributor'
-```
-
-The `-m 'add contributor'` adds a short summary message, which is expected for every commit.
-
-**Check**: `git status` should reflect your expected state of files in the three Git sections.
-
----
-
-Sh***! We just committed changes containing an error 🤯
-
-To undo the last commit, we can simply run:
-
-```
-git reset --soft HEAD~1
-```
-
-You should now have the `README.md` file in the staging area again.
-
-**Note**: the `HEAD~1` refers to the last commit.
-
-**Check**: Run `git status` to see the changes.
-
----
-
-We decide to discard our changes. Use the commands suggested by `git status` to do that.
-
-**Check**: The `git status` should show the following:
-
-```
-On branch main
-nothing to commit, working tree clean
-```
-
-<!-- 
-```
-                              # Manually create a REAMDE.md file in the project.
-git status                    # Should show the README.md file as "untracked"
-git add README.md             # Add the README.md file using the `git add` operation
-git status                    # Should show the README.md file as a change "to be committed" (staged)
-                              # Download the MIT license file from https://choosealicense.com/licenses/mit/
-                              # Save it as `LICENSE` (filename) and 
-git add .                     # add all changes to the staging area
-git status                    # Should now show two files "to be committed" (staged)
-
-git commit -m 'Initial comit' # Create the first commit (version of the project)
-git status                    # Should show a clean working directory and staging area
-```
-
-Instead of modifying the files manually, we can also apply patches (i.e., files containing changes):
-
-```
-git apply ../git-tutorial-example/setup.patch
-git status                                   # See which files were changed
-git add .                                    # Add all changes
-git commit -m 'Add code'                     # Create the first commit (version of the project)
-```
-
-In the following, we work with patches to save time while creating changes that resemble a software development project. 
-
-**Check**: The commands did not produce any error messages.
-
-For the next steps, download the code for [colrev](https://github.com/CoLRev-Ecosystem/colrev) as a zip file (through the `Code` button), extract the files and move them to your `colrev_project` directory*. Add all changes and create a new version. -->
-
----
-
-Let's see the changes that were committed in the project.
-
-To analyze the specific changes, open `gitk` (or another Git GUI):
-
-```
-gitk
-```
-
-- Check which files were added and modified by the last commit
-- Check the code that was modified (increase and decrease lines of context in gitk). The next page provides an overview of gitk (other Git GUIs have similar interface elements).
-
----
-
-![width:1000px center](../material/gitk-illustration_explained.png)
-
-<!-- 
-gitk.png screenshot + add explanations similar to https://lostechies.com/joshuaflanagan/2010/09/03/use-gitk-to-understand-git/
--> highlight that versions are identified by their commit-ID/sha-fingerprint
-
-TODO : create another version and check how gitk displays the unstaged/staged changes
-
-Go to the [colrev](https://github.com/CoLRev-Ecosystem/colrev) project on GitHub and explore the version history.
-- Navigate to `commits` and check which files were modified in the most recent version
-- From the [main page](https://github.com/CoLRev-Ecosystem/colrev), navigate to `colrev/dataset.py` and click on `Blame` to see what revision and author last modified specific lines of code
-
-**Check**: When was the `load_records_dict` function last modified?
-
-Note : patches allow us to work with more substantial examples in the following
--->
-
----
-
-It is good practice to create **atomic commits**, i.e., small changes that belong together. One should avoid large commits that modify many unrelated parts of the code base and pursue different objectives.
-
-Analyze the following commits and discuss which ones are atomic and which ones combine changes that do not belong together (i.e., should be in separate commits):
-
- - [commit 1](https://github.com/CoLRev-Environment/colrev/commit/a0c9043784f9342136d2ab214513688769669199)
- - [commit 2](https://github.com/CoLRev-Environment/colrev/commit/5288e92083b6df546d7c8fd590df3e968a909114)
- - [commit 3](https://github.com/CoLRev-Environment/colrev/commit/ba08d4242f48ec96b4fa8cfd053ee3781e32231f)
- - [commit 4](https://github.com/CoLRev-Environment/colrev/commit/ce9850f805a140692866970c92557833e6befa0b)
- - [commit 5](https://github.com/CoLRev-Environment/colrev/commit/93fc7e851d2ba3fc95cc3190b6b71dc4a907c96b)
-
-Also check the commit message (short summary at the beginning). Does the message clearly summarize the changes?
-
----
-
-To create atomic commits, you may need to **add specific lines of code that should go into a commit**, leaving other changes in the working directory.
-
-The changes are provided in the [`rec_dict.patch`](../material/rec_dict.patch) file, which must be placed in the project's working directory. To apply it, run:
-
-```
-git apply rec_dict.patch                # Suggests to rename the method but also introduces unrelated changes.
-git status                              # Different files were modified by the patch
-gitk                                    # Check the changes that were introduced by the patch
-```
-
-In the following, we would like to add *only* the changes in lines related to the `load_records_dict` method and the `skip_notification` parameter (using `-p` for a partial `git add`):
-
-```
-git add -p colrev/dataset.py            # Add specific lines of code from the colrev/dataset.py
-                                        # using y/n to add or skip (confirming with ENTER)
-gitk                                    # Check whether the correct lines were added
-```
-
-Create a commit containing the relevant changes. Afterwards, discard the remaining changes.
-
-
-<!--
-**Check**: The working directory should be clean again.
- TODO : link to good commit messages
-
-git diff > rec_dict.patch
- 
- -->
+The exercise notebook is available [here](../exercises/git_commit/commit_exercise_notebook)
 
 ---
 
@@ -869,9 +616,9 @@ This model works if you are a maintainer of the remote/origin, i.e., if you have
 
 ![bg right:40% width:450px](../material/git-remote-fork.png)
 
----
 
-<!-- _class: centered -->
+<!-- 
+---
 
 # Survey
 
@@ -882,3 +629,5 @@ Please share your feedback to help us improve!
 # Reminder
 
 Summaries are due next week.
+
+-->
