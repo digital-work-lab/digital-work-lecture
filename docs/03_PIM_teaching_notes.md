@@ -108,7 +108,7 @@ E.g., mindmapping: how useful is if if we can't connect it to existing structure
 - TBD: have students work in teams?
 Better: make students think about how they would re-use/retrieve the materials from this lecture later on (e.g., in their job)
 -> remembering in which slide can be challenging.
--> BUT: if we have organized it in a linear fasion, it is hard to extend it, connect it, and really get value out of it.
+-> BUT: if we have organized it in a linear fashion, it is hard to extend it, connect it, and really get value out of it.
 
 -  Raise the question of how to organize that kind of knowledge/information. Illustrate that entering everything in excel is not helpful because there are no connections/it is difficult to organize and retrieve information). - **TBD: maybe explain the principles in the next session?**
 
