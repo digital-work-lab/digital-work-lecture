@@ -24,11 +24,6 @@ footer: "<a href='https://github.com/digital-work-lab/digital-work-lecture/issue
 - Describe the role of situational awareness in communication settings
 - Appreciate different facets and practical consideration related to communication in teams
 
-<!--
- (e.g., conflict, interruption, inclusion).
-- Distinguish synchronous from asynchronous communication settings. / Distinguish forms of synchronous and asynchronous collaborative content creation and select appropriate technologies.
--->
-
 ---
 
 # GitLab: work where you want, when you want
@@ -39,13 +34,6 @@ Read the case of Choudhury et al. (2020) and answer the following questions:
 - What are the **key organizing principles** at GitLab?
 - What are the **boundary conditions** for all-remote approaches?
 
-<!-- 
----
-
-# Break
-
--->
-
 ---
 
 # Communication and media selection
@@ -55,8 +43,8 @@ Key question: which communication media are the most effective ones, or should b
 **Media richness theory** (Daft and Lengel, 1986):
 
 - Communication is essential in organizational information processing to reduce uncertainty and equivocality.
-- Communication media differ in richness, e.g., video calls transmit richer information including gestures and body language.
-- Richer communication media are generally more effective for communicating equivocal issues in contrast with leaner media.
+- Communication media differ in richness (video calls transmit richer information, e.g., including gestures).
+- Richer communication media are generally more effective for communicating equivocal issues.
 
 **Media synchronicity theory** (Dennis et al. 2008)
 - There are different communication tasks:
@@ -66,7 +54,8 @@ Key question: which communication media are the most effective ones, or should b
 - Communiation performance, essentially, depends on the **fit** between communication processes, media synchronicity, and appropriation factors.
 
 <!-- 
-https://is.theorizeit.org/wiki/Media_synchronicity_theory -->
+https://is.theorizeit.org/wiki/Media_synchronicity_theory
+-->
 
 ---
 
@@ -84,68 +73,8 @@ https://is.theorizeit.org/wiki/Media_synchronicity_theory -->
 
 # Media synchronicity theory (MST)
 
-<!--
-
- don't start with media richness theory (maybe a bit too challenging/differences to MST are more difficult to understand) 
-Task: too broad -> MST: communication processes at a micro-level
-Media synchronicity theory (Dennis, Fuller, and Valacich, 2006): 
-- An influential theory in IS (citations, best paper awards)
-- The theory explains communication (and task) performance based on the fit between media synchronicity, communication processe, and appropriation factors
-
-**TODO : start with the fit aspect**
-[[DennisFullerValacich2006]]
--->
-
 ![width:700px center](../material/DennisFullerValacich2006-fig1.png)
 
-<!-- 
-# MST: Communication processes
-
-- Introduce the elements step-by-step:
-
- - Communication processes: conveyance vs. convergence, which are more specific/smaller than tasks (MRT). also distinguish transmission from processing
-
-
-# MST: Media synchronicity
-
- - Media synchronicity: synchronous vs. asynchronous (definition)
-
-
-# MST: Media synchronicity requirements
-
-- Media synchronicity requirements for different communication processess (table 1, proposition P1) -> importance of **fit**
-
-
-# MST: Appropriation factors
-
-- Appropriation factors (**fit**)
-
-
-# MST: Examples I
-
-- **TODO : short exercise for the main concepts (communication processes, media synchronicity, appropriation factors, fit and communcation performance)**
-
-# MST: Media characteristics
-
-- Media characteristics: transmission and processing capabilities: construct figure 2 step-by-step (starting with the simple sender - medium - receiver model and then adding the different elements)
-
-# MST: Examples II
-
-- TODO : exercise: rate different communication media...
-
-# MST: Summary
-
-- refer back to HwangKettingerYi2015 and point out that DennisFullerValacich2006 stop at the hypothesis generation step (no empirical study)
-- Derive implications
-- TODO : application / exercise (short descriptions of scenarios, such as a team rejecting a certain application)
-- TODO : collect and discuss best practices (e.g., signalling availability - are you red/orange/green?) / analyze based on MST (?) / don't cover conflict etc. too much - they are in lecture 7
-
-https://convergencelabs.com/blog/2018/01/the-four-cs-communication-coordination-cooperation-and-collaboration/
-https://coachbetter.tv/the-difference-between-communication-cooperation-coordination-collaboration/
-# Homework
-
-Read [external communication](https://about.gitlab.com/handbook/communication/#external-communication)
--->
 ---
 
 # MST: examples and application
@@ -155,14 +84,6 @@ Read [external communication](https://about.gitlab.com/handbook/communication/#e
 3. When sending out invitations to the weekly video-conference, your colleague emphasizes that he looks forward to **seeing** you in the call, and greets participants who share their video with a "nice to see you". Do you see any connections to MST?
 4. Take a minute to review the features offered by the [Zoom AI assistant](https://www.zoom.com/en/products/collaboration-tools/features/). How do they relate to MST?
 5. Consider a setting in which you would like to help your colleague with a challenging programming task. Your colleague works remotely. Which technologies would you select, and how could your choice be connected to MST?
-
-<!--
-whiteboard: expands the symbol set, e.g., allowing participants to develop sketches or mathematical models. also increases parallelism (audio, video of participants, and video of whiteboard)
-Video: increase symbol set (visual cues, gestures, reactions) - especially when meetings aim to converge on particular items. Appropriation factors: familiar with the challenges, perhaps even trained to increase video-use, could be due to past experiences, or even norms in the team or organization.
-AI assistant: several features to transcribe, summarize, or sub-title meetings - improves reprocessability (during and after the meeting)
-coding: Convergence requires high synchronicity, especially wrt. the symbol set of collaborative coding (synchronous) - e.g., [Visual Studio Live Share](https://visualstudio.microsoft.com/de/services/live-share/)
-
- https://www.zoom.com/en/products/collaboration-tools/features/ -->
 
 ---
 
@@ -177,18 +98,6 @@ Situational awareness involves three levels:
 
 Decisions and actions (related to communication) create a feedback loop, affecting communication partners, and awareness of changing situations over time.
 
-<!-- 
-What can the communication outcomes be?
-e.g., reduce ambiguity, rally support for a project, foster inclusion and trust, discover private information, make decisions, prevent and resolve conflicts
-
-Individual and task/environment factors at play (stress/complexity/technology)
-
-Key message:
-- Communication media and practices should be adapted to the situtation (many facets to consider, many potential outcomes to anticipate)
-- Theories of fit may be particularly suitable, as exemplified by Media Synchronicity Theory
-
-propositions...
--->
 ---
 
 ![width:800px center](../material/Endsley-SA-model.jpg)
@@ -203,9 +112,6 @@ Examples of situational awareness in practice:
 - "Are you green?"
 - "You have been quiet. What is your view on the issue?"
 
-<!--
-- we have a short explanation video for that
-- should we reschedule? should I brief you after the meeting? -->
 ---
 
 # Practice: Communication at GitLab
@@ -253,29 +159,3 @@ Dennis, A. R., Fuller, R. M., & Valacich, J. S. (2008). Media, tasks, and commun
 Endsley, M. R. (1995). Toward a theory of situation awareness in dynamic systems. *Human Factors*, 37(1), 32-64. doi: [10.1518/001872095779049543](https://doi.org/10.1518/001872095779049543)
 
 Moorman, C. and Hinkfuss, K. (2023). Managing the cultural pitfalls of hybrid work. *MIT Sloan Management Review*. [link](https://sloanreview.mit.edu/article/managing-the-cultural-pitfalls-of-hybrid-work/)
-
-<!--
-Homework: 
-read the product-development workflow in the gitlab handbook
-
-# Exercise and homework
-
-Preparation: do a git tutorial (provide short/longer and interactive ones) - be prepared for the in-depth session next week (have your questions ready)
-
-# Materials
-
-- [ ] TODO
-
-check: Superbosses: How Exceptional Leaders Master the Flow of Talent
-Give and Take: Why Helping Others Drives Our Success
-
-TBD: communities-of-practice (e.g., wikipedia on CSCW: awareness)
-
-alternative exercise:
-TBD: maybe give students 2-3 cases, have brief discussion, have them read different papers (MRT,MST,interruptions,conflict,team-leadership,learning/onboarding), and then discuss the cases from the perspective of different theories
-
-Note: possible extensions:
-- zoom-fatigue (what are the different forms of labor that make videoconferences exhausting?)
-- Virtual impression management: https://journals.sagepub.com/doi/10.1177/01492063231225160
-
--->

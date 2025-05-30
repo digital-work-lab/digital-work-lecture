@@ -122,7 +122,7 @@ https://escalla.co.uk/blog-remote-working-5-benefits-challenges/
 - It has over 2,000 pages and everyone can suggest changes
 
 1. Go to the [handbook](https://about.GitLab.com/handbook/) and gain an overview of what is covered
-2. Imagine you were to join GitLab. Navigate to the onboarding page and review the onboarding issue template. What are the key things you are expected to do in the first days?
+2. Imagine you were to join GitLab. Navigate to the onboarding page and the *TaNEWki Tips*. What are the key things you are expected to do in the first days?
 3. Briefly review the strategy document.
 4. Scan the values section. Is there anything surprising, or something you (dis)agree with?
 
