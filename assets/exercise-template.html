@@ -16,17 +16,18 @@
     h1, h2, h3 {
       color: #006e58;
     }
+    pre {
+      background-color: #f4f4f4;
+      padding: 1rem;
+      border-radius: 4px;
+      overflow-x: auto;
+    }
     code {
-      background: #f4f4f4;
+      background-color: #eee;
       padding: 2px 4px;
       border-radius: 4px;
     }
-    pre {
-      background: #f4f4f4;
-      padding: 1rem;
-      overflow-x: auto;
-      border-radius: 4px;
-    }
+
     table {
       width: 100%;
       border-collapse: collapse;
@@ -43,6 +44,32 @@
       max-width: 100%;
       height: auto;
     }
+    .callout {
+      border-left: 4px solid #006e58;
+      background-color: #e6f4f1;
+      padding: 1rem;
+      margin: 1rem 0;
+      border-radius: 6px;
+    }
+
+    .callout.info {
+      border-left-color: #007acc;
+      background-color: #eaf4fd;
+      color: #003c66;
+    }
+
+    .callout.warning {
+      border-left-color: #e6a700;
+      background-color: #fff3cd;
+      color: #664d03;
+    }
+
+    .callout.danger {
+      border-left-color: #cc0000;
+      background-color: #ffe6e6;
+      color: #800000;
+    }
+
   </style>
 </head>
 <body>

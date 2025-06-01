@@ -9,12 +9,12 @@ title: "Exercise: Git branching"
 
 <p style="max-width: 730px; margin-left: 0; margin-right: 0; text-align: justify;"><img src="../../material/iconmonstr-certificate-6.svg" alt="Edit" width="16" height="16">  The notebook builds on our peer-reviewed <a href="https://digital-work-lab.github.io/rethink-git-teaching/">pedagogical foundations</a>. The interactive visualization and tutorial are based on the amazing <a href="https://github.com/pcottle/learnGitBranching">learnGitBranching</a> repository.</p>
 
-<p style="max-width: 730px; margin-left: 0; margin-right: 0; text-align: justify;">We  <img src="../../material/iconmonstr-favorite-2.svg" alt="Edit" width="12" height="12">  your <a href="https://github.com/digital-work-lab/practice-git/issues/new/choose" target="_blank">feedback</a> and <a href="https://github.com/digital-work-lab/practice-git/edit/main/notebooks/git_committing.ipynb" target="_blank">suggestions</a> on this notebook!</p>
+<p style="max-width: 730px; margin-left: 0; margin-right: 0; text-align: justify;">We  <img src="../../material/iconmonstr-favorite-2.svg" alt="Edit" width="12" height="12">  your <a href="https://github.com/digital-work-lab/digital-work-lecture/issues/new/choose" target="_blank">feedback</a> and <a href="https://github.com/digital-work-lab/digital-work-lecture/edit/main/exercises/git_branch/branching_exercise_notebook.md" target="_blank">suggestions</a> on this notebook!</p>
 
 ---
 
-<div style="border-left: 4px solid #026e57; background-color: #d0f0e4; padding: 15px; margin: 10px 0; color: #026e57; border-radius: 5px; width:730px;">
-    <strong>Concepts: Git branching</strong> <br><br>The slides explaining Git branching are <a href="../output/02-git.html#part-1-branching" target="_blank">here</a>.
+<div class="callout info">
+ <strong>Concepts: Git branching</strong> <br><br>The slides explaining Git branching are <a href="../../output/07-collaborative-content-creation.html#9" target="_blank">here</a>.
 </div>
 
 With this notebook, you can practice branching in Git.
@@ -35,7 +35,7 @@ With this notebook, you can practice branching in Git.
 
 We have covered `git commit`, as well as `git branch`, `git switch`, and `git merge` operations in the lecture.
 
-**Task**: To practice branching and manipulating the Git graph, complete level 1 (introduction) of the [learngitbranching](https://learngitbranching.js.org/?locale=en_EN){: target="_blank"} tutorial.
+**Task**: To practice branching and manipulating the Git graph, complete level 1 (introduction) of the [learngitbranching](https://learngitbranching.js.org/?locale=en_EN) tutorial.
 
 Hints:
 
@@ -53,7 +53,7 @@ IFrame('https://learngitbranching.js.org/', width=1400, height=800)
 
 If you have completed Part 1 quickly, you may continue practicing with the following challenge.
 
-**Task**: To continue practicing, create the following tree, which resembles a typical setup of Git branches. To do this, you can open [learngitbranching](https://learngitbranching.js.org/?locale=en_EN){: target="_blank"} in a separate window.
+**Task**: To continue practicing, create the following tree, which resembles a typical setup of Git branches. To do this, you can open [learngitbranching](https://learngitbranching.js.org/?locale=en_EN) in a separate window.
 
 <img src="../../material/git-branches.png" style="width: 600px;" alt="Git branches"/>
 
@@ -150,7 +150,7 @@ There is another option: to **squash** changes from another branch. This effecti
 We will now practice the different methods in a real Git repository.
 
 
-**Task**: Start GitHub Codespaces from the [CoLRev repository](https://github.com/CoLRev-Environment/colrev){: target="_blank"} and set up the `quality_model_docs` branch, using the following commands.
+**Task**: Start GitHub Codespaces from the [CoLRev repository](https://github.com/CoLRev-Environment/colrev) and set up the `quality_model_docs` branch, using the following commands.
 
 ```python
 cd /workspaces/colrev
@@ -160,10 +160,10 @@ git switch -c quality_model_docs
 git remote remove origin
 ```
 
-<div style="border: 2px solid #ff9800; padding: 10px; background-color: #ffe0b2; color: #e65100; border-radius: 5px; display: inline-block; width: fit-content; width:730px;">
-    <strong>Important:</strong> Make sure to copy the commands and enter them in the shell as shown in the screenshot. It is not possible to run the cells in this notebook.
-    <div style="clear: both;"></div>
-    <img src="../../material/codespace-shell.png" width="800"/>
+<div class="callout warning">
+<strong>Important:</strong> Make sure to copy the commands and enter them in the shell as shown in the screenshot. It is not possible to run the cells in this notebook.
+<div style="clear: both;"></div>
+<img src="../../material/codespace-shell.png" width="800"/>
 </div>
 
 **Task**: Go through the following options, and run the commands. Take notes on the Git graph, i.e., the structure and IDs of commits, by completing the three Git graphs (you can open the page as a <a href="../../material/overview-task.pdf">PDF</a>):

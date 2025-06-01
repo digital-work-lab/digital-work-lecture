@@ -51,10 +51,15 @@ jobs:
           docker pull pandoc/ubuntu-latex
       - name: make slides
         run: make -B slides
+      - name: make exercises
+        run: make -B exercises
       - name: Copy output to _site/output
         run: |
           mkdir -p _site/output/
           cp -r output/* _site/output/
+          mkdir -p _site/exercises/
+          cp -r exercises/* _site/exercises/
+
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v3

@@ -13,12 +13,12 @@ has_toc: true
 
 <img src="../../material/iconmonstr-certificate-6.svg" alt="Edit" width="16" height="16">  The notebook builds on our peer-reviewed <a href="https://digital-work-lab.github.io/rethink-git-teaching/">pedagogical foundations</a>.
 
-We  <img src="../../material/iconmonstr-favorite-2.svg" alt="Edit" width="12" height="12">  your <a href="https://github.com/digital-work-lab/practice-git/issues/new/choose" target="_blank">feedback</a> and <a href="https://github.com/digital-work-lab/practice-git/edit/main/notebooks/git_committing.ipynb" target="_blank">suggestions</a> on this notebook!
+We  <img src="../../material/iconmonstr-favorite-2.svg" alt="Edit" width="12" height="12">  your <a href="https://github.com/digital-work-lab/digital-work-lecture/issues/new/choose" target="_blank">feedback</a> and <a href="https://github.com/digital-work-lab/digital-work-lecture/edit/main/exercises/git_commit/commit_exercise_notebook.md" target="_blank">suggestions</a> on this notebook!
 
 ---
 
-<div style="border-left: 4px solid #026e57; background-color: #d0f0e4; padding: 15px; margin: 10px 0; color: #026e57; border-radius: 5px; width:730px;">
-    <strong>Concepts: Git areas</strong> <br><br>The slides explaining the Git areas are <a href="../output/02-git.html#part-2-committing" target="_blank">here</a>.
+<div class="callout info">
+<strong>Concepts: Git areas</strong> <br><br>The slides explaining the Git areas are <a href="../../output/07-collaborative-content-creation.html#13" target="_blank">here</a>.
 </div>
 
 <br>
@@ -43,14 +43,14 @@ With this notebook, you can practice committing changes in Git.
 
 ## Part 1: Set up the repository <a id="clone"></a>
 
-**Task**: Start GitHub Codespaces from the [CoLRev repository](https://github.com/CoLRev-Environment/colrev){: target="_blank"}.
+**Task**: Start GitHub Codespaces from the [CoLRev repository](https://github.com/CoLRev-Environment/colrev).
 
 **Note**: To create an empty git project, you would run `git init`.
 
-<div style="border: 2px solid #ff9800; padding: 10px; background-color: #ffe0b2; color: #e65100; border-radius: 5px; display: inline-block; max-width: 800px; width: 100%;">
-    <strong>Important:</strong> Make sure to copy the commands and enter them in the shell as shown in the screenshot. It is not possible to run the cells in this notebook.
-    <div style="clear: both;"></div>
-    <img src="../../material/codespace-shell.png" style="max-width: 100%; border-radius: 5px;">
+<div class="callout warning">
+<strong>Important:</strong> Make sure to copy the commands and enter them in the shell as shown in the screenshot. It is not possible to run the cells in this notebook.
+<div style="clear: both;"></div>
+<img src="../../material/codespace-shell.png" style="max-width: 100%; border-radius: 5px;">
 </div>
 
 The status command provides an overview of the current state of the project and the files in the three sections. Therefore, you will need to run `git status` regularly.
@@ -237,7 +237,7 @@ It is ok to combine functionality, tests, and docs that belong together in one c
 
 </details>
 
-**Optional**: If you have the time, you may check the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/){: target="_blank"} specification.
+**Optional**: If you have the time, you may check the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) specification.
 
 To create atomic commits, you may need to **add specific lines of code that should go into a commit**, leaving other changes in the working directory.
 
@@ -274,8 +274,8 @@ If you have the time, try the different undo operations in the session.
 
 (*) Important: only amend commits that are not yet shared with the team. Otherwise, a revert is preferred.
 
-<div style="border: 2px solid #03a9f4; padding: 10px; background-color: #b3e5fc; color: #01579b; border-radius: 5px; display: inline-block; width:730px;">
-    <strong>Info</strong> Once you have committed changes, Git takes care of the data and it is very hard to lose the data. Uncommitted data can be lost more easily. Therefore, commit often!<br><br> Even if you run <code>git reset --hard ...</code>, you can still recover commits using <code>git reflog</code>. Committed data will only be lost permanently if you run <code>git reflog expire --expire=now --all</code> and <code>git gc --prune=now --aggressive</code>. If the commits are already on GitHub, you would need <code>git push --force</code> and the changes may also be synchronized in other local repositories. <br><br>Avoid options like <code>--force</code>, <code>--hard</code>, or <code>--aggressive</code>. Use them only if you know what you are doing.
+<div class="callout info">
+<strong>Info</strong> Once you have committed changes, Git takes care of the data and it is very hard to lose the data. Uncommitted data can be lost more easily. Therefore, commit often!<br><br> Even if you run <code>git reset --hard ...</code>, you can still recover commits using <code>git reflog</code>. Committed data will only be lost permanently if you run <code>git reflog expire --expire=now --all</code> and <code>git gc --prune=now --aggressive</code>. If the commits are already on GitHub, you would need <code>git push --force</code> and the changes may also be synchronized in other local repositories. <br><br>Avoid options like <code>--force</code>, <code>--hard</code>, or <code>--aggressive</code>. Use them only if you know what you are doing.
 </div>
 
 
@@ -291,4 +291,4 @@ In this notebook, we have learned to
 - Undo changes
 - Navigate VisualStudio Code on GitHub Codespaces
 
-Remember to delete your codespace [here](https://github.com/codespaces){: target="_blank"} (see [instructions](codespaces.ipynb)).
+Remember to delete your codespace [here](https://github.com/codespaces) (see [instructions](codespaces.ipynb)).

@@ -24,3 +24,20 @@ output/%.html: slides/%.md assets/template/theme.css
 
 output/%.pdf: slides/%.md assets/template/theme.css
 	docker run --rm --init -v "$(shell pwd)":/home/marp/app/ -v "$(shell pwd)/assets":/home/marp/app/assets -v "$(shell pwd)/material":/home/marp/app/material -e LANG=$(LANG) -e MARP_USER=$(shell id -u):$(shell id -g) marpteam/marp-cli:v3.4.0 /home/marp/app/$< --theme-set /home/marp/app/assets/template/theme.css --pdf --allow-local-files -o /home/marp/app/$@
+
+# Collect all exercise markdown files
+EXERCISE_MD := $(shell find exercises -name '*.md')
+EXERCISE_HTML := $(patsubst %.md,%.html,$(EXERCISE_MD))
+
+# Add exercises target
+exercises: $(EXERCISE_HTML)
+
+# Rule to generate HTML in-place (same directory) using Pandoc
+%.html: %.md
+	$(PANDOC_CALL) \
+		--standalone \
+		--from markdown \
+		 --highlight-style=breezedark \
+		--to html5 \
+		--template=/assets/exercise-template.html \
+		--output=/data/$@ /data/$<
