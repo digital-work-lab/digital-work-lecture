@@ -43,7 +43,7 @@ With this notebook, you can practice committing changes in Git.
 
 ## Part 1: Set up the repository <a id="clone"></a>
 
-**Task**: Start GitHub Codespaces from the [CoLRev repository](https://github.com/CoLRev-Environment/colrev).
+**Task**: Start GitHub Codespaces from the [CoLRev repository](https://github.com/CoLRev-Environment/colrev){: target="_blank"}.
 
 **Note**: To create an empty git project, you would run `git init`.
 
@@ -237,7 +237,7 @@ It is ok to combine functionality, tests, and docs that belong together in one c
 
 </details>
 
-**Optional**: If you have the time, you may check the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) specification.
+**Optional**: If you have the time, you may check the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/){: target="_blank"} specification.
 
 To create atomic commits, you may need to **add specific lines of code that should go into a commit**, leaving other changes in the working directory.
 
@@ -291,4 +291,4 @@ In this notebook, we have learned to
 - Undo changes
 - Navigate VisualStudio Code on GitHub Codespaces
 
-Remember to delete your codespace [here](https://github.com/codespaces) (see [instructions](codespaces.ipynb)).
+Remember to delete your codespace [here](https://github.com/codespaces){: target="_blank"} (see [instructions](codespaces.ipynb)).
