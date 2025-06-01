@@ -204,7 +204,7 @@ blockquote {
 ![bg right:45% width:230px center](../material/git-commit.png)
 
 > \* Notes: If any of the meta data or content changes, the SHA will be completely different.
-> `git cat-file -p sha` shows the contents of a Git object.
+> To show the contents of a Git object, run `git cat-file -p sha` (with the *sha* value of a commit, file, or directory).
 
 <!--
 Author/date/message
@@ -458,6 +458,7 @@ The exercise notebook is available [here](../exercises/git_commit/commit_exercis
 
 ---
 
+<!-- 
 When writing code, we can make mistakes, or we may need to undo or modify previous changes. To undo changes, it is important to understand whether they are unstaged, staged, or committed.
 
 To **undo unstaged or staged changes**, `git status` suggests the corresponding operations (`git restore <file>` and `git restore --staged <file>`). To see how `git restore` works:
@@ -480,7 +481,8 @@ If you have the time, try the different undo operations in the session.
 
 \* Important: only amend commits that are not yet shared with the team. Otherwise, revert is preferred.
 
-<!-- 
+
+
 HEAD~
 shorthand for
 HEAD~1
@@ -631,3 +633,20 @@ Please share your feedback to help us improve!
 Summaries are due next week.
 
 -->
+
+---
+
+# Ready to level up your Git skills?
+
+## 💡 Join our open-source project!
+
+Contribute to a real-world GitHub project and gain hands-on experience with:
+
+- Open collaboration workflows  
+- Writing and reviewing code and documentation  
+- Version control best practices  
+
+🔗 Visit  
+[**digital-work-lab.github.io/open-source-project**](https://digital-work-lab.github.io/open-source-project)
+
+![bg right:35% width:400px vertical](../assets/images/logo-project.png)
