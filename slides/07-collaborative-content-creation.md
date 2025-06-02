@@ -636,7 +636,9 @@ Summaries are due next week.
 
 ---
 
-# Summary: Collaborative Content Creation with Git
+# Summary
+
+**We covered...**
 
 - Key differences in collaborative content creation tools (synchronous, asynchronous, branching, locking)
 - Core concepts of Git: commits, branches, merges, HEAD, and the three areas
@@ -647,7 +649,7 @@ Summaries are due next week.
 - Compare collaborative tools and their modes (e.g., SharePoint vs. Git)
 - Explain the role of the **working directory**, **staging area**, and **.git directory**
 - Interpret Git graphs and specify the commands to create the graph
-- Apply Git commands to describe or complete basic versioning tasks
+- Apply Git commands to complete basic versioning tasks
 
 ---
 
