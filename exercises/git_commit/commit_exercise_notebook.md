@@ -41,11 +41,12 @@ With this notebook, you can practice committing changes in Git.
 
 ---
 
-## Part 1: Set up the repository <a id="clone"></a>
+## Part 1: Set up <a id="clone"></a>
 
 **Task**: Start GitHub Codespaces from the [CoLRev repository](https://github.com/CoLRev-Environment/colrev).
 
-**Note**: To create an empty git project, you would run `git init`.
+
+**Note**: When starting the Codespace, the repository is **cloned** on a virtual machine (`git clone URL`). To create an empty git project, you would run `git init`.
 
 <div class="callout warning">
 <strong>Important:</strong> Make sure to copy the commands and enter them in the shell as shown in the screenshot. It is not possible to run the cells in this notebook.
@@ -244,6 +245,9 @@ To create atomic commits, you may need to **add specific lines of code that shou
 The changes are provided in the [rec_dict.patch](rec_dict.patch) file, which must be placed in the project's working directory. To apply it, run:
 
 ```python
+# Reset main to a recent commit
+git checkout main
+git reset --hard 3821b922cb4179691dc540b2d2b61902604ce4d5
 # Suggests to rename the method but also introduces unrelated changes.
 git apply rec_dict.patch
 # Different files were modified by the patch
@@ -291,4 +295,4 @@ In this notebook, we have learned to
 - Undo changes
 - Navigate VisualStudio Code on GitHub Codespaces
 
-Remember to delete your codespace [here](https://github.com/codespaces) (see [instructions](codespaces.ipynb)).
+Remember to delete your codespace [here](https://github.com/codespaces).

@@ -237,10 +237,6 @@ The commit object always contains the commit author and date. If they differ, Gi
 
 </details>
 
-**Note**: You can use the merge methods in a Codespace environment (as you just did), in a local Git repository, and even online on GitHub:
-
-<img src="../../material/pull-request-options.png" width="800"/>
-
 ## Wrap-up  <a id="wrap-up"></a>
 
 🎉🎈 You have completed the Git branching notebook - good work! 🎈🎉
@@ -250,6 +246,3 @@ In this notebook, we have learned
 - To create a given Git graph using the `git commit`, `git branch`, `git switch`, and `git merge` commands
 - To explain typical branching strategies
 - The differences between merge commits, rebases, and squashed merges
-
-
-

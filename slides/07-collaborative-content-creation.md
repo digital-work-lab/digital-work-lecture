@@ -289,7 +289,9 @@ Break
 
 # Exercise: Branching
 
-The exercise notebook is available [here](../exercises/git_branch/branching_exercise_notebook)
+The exercise notebook is available [here](../exercises/git_branch/branching_exercise_notebook).
+
+Please also start a Codespace [here](https://github.com/CoLRev-Environment/colrev) (GitHub account required).
 
 <!-- 
 git commit
@@ -497,8 +499,6 @@ TODO : how to test/demonstrate undoing an error?
 **TODO**: include examples for undoing changes
 -->
 
----
-
 # Transfer challenges I 
 
 1. Consider how the **git switch** (or the revert/checkout) command affects the Git areas. How does it affect the working directory?
@@ -633,6 +633,21 @@ Please share your feedback to help us improve!
 Summaries are due next week.
 
 -->
+
+---
+
+# Summary: Collaborative Content Creation with Git
+
+- Key differences in collaborative content creation tools (synchronous, asynchronous, branching, locking)
+- Core concepts of Git: commits, branches, merges, HEAD, and the three areas
+- Git workflows for individual and collaborative development (local operations, remotes, forks)
+
+**Expectations for the exam**
+
+- Compare collaborative tools and their modes (e.g., SharePoint vs. Git)
+- Explain the role of the **working directory**, **staging area**, and **.git directory**
+- Interpret Git graphs and specify the commands to create the graph
+- Apply Git commands to describe or complete basic versioning tasks
 
 ---
 
