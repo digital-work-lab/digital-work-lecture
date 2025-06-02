@@ -564,6 +564,8 @@ mention johnny decimal?
 
 ---
 
+<!-- _class: centered -->
+
 # Part 3: Collaborating
 
 ---
