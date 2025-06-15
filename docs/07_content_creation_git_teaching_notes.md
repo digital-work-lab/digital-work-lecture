@@ -10,17 +10,16 @@ search_exclude: true
 
 Starter question:
 
+- Prior experience with Git?
 - What are suitable software packages and how would you select one?
 
 **TODO**:
-- Update Git slides: remove exercise and replace by practice-git notebooks
 - elaborate on technology choice (theory), including functional/non-functional criteria
 - develop a decision matrix (?) covering dropbox/sharepoint/wiki/git, with storage size and types, collaboration control or consensus, scalability of collaboration and parallel work.
 - highlight that we look at Git as a particular powerful system (one that requires deeper understanding)
+- Use Mermaid for Git graps?
 
 ## Branching: Theory (CONCENTRATE)
-
-### Branches
 
 Wenn wir uns jetzt ein größeres Softwareprojekt vorstellen, also beispielsweise den Linux-Kernel, dann werden da fast im Sekundentakt neue Versionen angelegt. Wenn wir da bei einer linearen Versionsgeschichte bleiben, dann wird das schnell chaotisch.
 Beispiel: Ich ändere die USB-Treiber, Sie Ändern ein Transportprotokoll, und Sie arbeiten an einem neuen Dateisystem. Wenn das wahllos durcheinander läuft dann gibt es Abhängigkeiten und Fehler, die wir vermeiden wollen. Idealerweise wollen wir an unserem Code arbeiten, ohne, dass jemand anders uns da Änderungen einfügt, die gar nichts mit unserer Arbeit zu tun haben.
@@ -29,8 +28,11 @@ Dafür gibt Git uns die Möglichkeit, mit Branches zu arbeiten, also mit separat
 - Explain HEAD (TO WHICH BRANCH should commits be added?) and git switch branch_name
 - Explain merge (common ancestor required, ideally: fast-forward (very efficient compared to other systems), otherwise: raise merge conflict)
 
+Explain Commits (contents, git object handling) AFTER the DAG (slides are the other way around, which is ok) 
 
-### creating changes
+Learn-git-branching: helpful because often, we need to "imagine" the Git graph
+
+## Committing: Theory
 
 - How should a versioning system look like? - area where you have the project files that you work with, and a separate "version database". Git calls it the "working directory" and the git directory. It has operations to create new versions from the files in your working directory. And it also has operations to retrieve files from the "version database" or the "history". That's what we will focus on for now (local operations). [AREAS AUFZEICHNEN]
 - Zusätzlich gibt es noch eine Staging Area [IN DER MITTE  EINZEICHNEN]. 
