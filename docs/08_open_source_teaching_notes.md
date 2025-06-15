@@ -6,7 +6,18 @@ nav_exclude: true
 search_exclude: true
 --- 
 
+TBD: Summaries for part 2: Digital work in teams
+
 # Teaching notes: Open-Source
+
+Transition: Teams to Crowds (lecture)
+
+
+organizations (OSI, ...?)
+
+Influence on organizational work: Mention science (open-source research software), data/knowledge?
+
+## Open-source collaboration game
 
 When commenting on code in Pull-request: need to complete/submit!
 
