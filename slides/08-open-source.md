@@ -19,7 +19,7 @@ footer: "<a href='https://github.com/digital-work-lab/digital-work-lecture/issue
 
 # Learning objectives
 
-- Describe the key **open-source concepts** in projects and organizational work
+- Describe the key **open-source concepts** in the context of organizational work
 - Learn how to **use the collaboration features of Git**, including forks, pull requests, merges, and issues
 - Familiarize with the **key elements of open-source project documentation**
 
@@ -52,7 +52,7 @@ https://opensource.org/osd
 > “Open source promotes universal access via an open-source license to a product’s design or blueprint” 
 -->
 
-Open source is enabled through specific **licenses** that allow use, modification, and redistribution. Examples include MIT License (permissive), GNU General Public License (GPL) (copyleft), Apache License 2.0
+Open source is enabled through specific **licenses** that allow use, modification, and redistribution. Examples: MIT License (permissive), GNU General Public License (GPL) (copyleft), Apache License 2.0.
 
 <!-- Each license governs how software can be reused or altered. -->
 
@@ -61,20 +61,22 @@ Open source is enabled through specific **licenses** that allow use, modificatio
 - Contributions via issue tracking, pull requests, and peer review.
 - Guided by the "bazaar" model (Raymond, 1999) — fast iterations, collective debugging.
 
-> “Given enough eyeballs, all bugs are shallow.” – Linus’s Law
+<!-- > “Given enough eyeballs, all bugs are shallow.” – Linus’s Law -->
+
+> Open-source offers a new model for organizing work, with distinct principles for task division, task allocation, reward distribution, and information flows (Puranam et al., 2013).
 
 ---
 
 # Diffusion and Impact
 
 **Pervasiveness:**
-- 96% of commercial applications include OSS components (HBS Working Knowledge, 2024).
+- Commercial applications include OSS components (even exceeding 95%).
 - OSS underpins operating systems (Linux), programming libraries, infrastructure (Kubernetes), AI (TensorFlow).
 - Dedicated organizations support OSS (e.g., Linux Foundation, Apache, OSI).
 
 **Economic Value:**
 - Firms would need to spend $8.8 trillion to replace freely available OSS (Hoffmann et al., 2024).
-- Recreating the top 50 OSS packages alone would cost ~$4.2B.
+<!-- - Recreating the top 50 OSS packages alone would cost ~$4.2B. -->
 
 **Labor Market:**
 - Open-source skills (Linux, Python, Docker) are in high demand.
@@ -84,36 +86,6 @@ Open source is enabled through specific **licenses** that allow use, modificatio
 > Hiring open-source experts brings external credibility and internal expertise. (Hoffmann et al., 2024)
 
 <!-- https://www.library.hbs.edu/working-knowledge/open-source-software-the-nine-trillion-resource-companies-take-for-granted -->
-
----
-
-# Principles and Influence of Open Source
-
-**Core Principles:**
-- **Self-selection:** Contributors choose tasks freely.
-- **Meritocracy:** Influence is earned through contributions, not hierarchy.
-- **Transparency:** All code and discussions are public.
-
-**Beyond Organizational Boundaries and Hierarchies:**
-- Teams operate without formal management and beyond organizational boundaries.
-- Trust, documentation, and community guidelines replace supervision.
-
-**Influence on Models of Organizational Work:**
-- **Agile & DevOps:** Iterative, transparent workflows echo open-source development.
-- **InnerSource:** Internal OSS-style collaboration across departments.
-- **Holacracy:** Inspired by OSS governance (no managers, roles evolve).
-
-> The bazaar model is not just for code — it's reshaping how organizations work. (Fitzgerald & Stol, 2016)
-
-<!-- Note: examples: GitLab 
-
-Fitzgerald and Stol: the bazaar model from open-source development is influencing broader organizational practices—reshaping how teams collaborate, coordinate, and govern beyond code.
-
-Crowston and Howison (2005)
-
-https://github.com/InnerSourceCommons/awesome-innersource
-https://innersourcecommons.org/stories/
--->
 
 ---
 
@@ -139,6 +111,37 @@ https://learn.microsoft.com/en-us/windows/wsl/tutorials/gui-apps
 
 Steve Ballmer, Microsoft CEO, 2001 interview with the Chicago Sun-Times
 Satya Nadella, Microsoft CEO, 2014 keynote at Connect();
+-->
+
+---
+
+# Principles and Influence of Open Source
+
+**Core Principles:**
+- **Self-selection:** Contributors choose tasks freely.
+- **Meritocracy:** Influence is earned through contributions, not hierarchy.
+- **Transparency:** All code and discussions are public.
+
+**Beyond Organizational Boundaries and Hierarchies:**
+- Teams operate without formal management and beyond organizational boundaries.
+- Trust, documentation, and community guidelines replace supervision.
+
+**Influence on Models of Organizational Work:**
+- **Agile & DevOps:** Iterative, transparent workflows echo open-source development.
+- **InnerSource:** Internal OSS-style collaboration across departments.
+- **Holacracy:** Inspired by OSS governance (no managers, roles evolve).
+
+<!-- 
+> The bazaar model is not just for code — it's reshaping how organizations work. (Fitzgerald & Stol, 2016)
+
+Note: examples: GitLab 
+
+Fitzgerald and Stol: the bazaar model from open-source development is influencing broader organizational practices—reshaping how teams collaborate, coordinate, and govern beyond code.
+
+Crowston and Howison (2005)
+
+https://github.com/InnerSourceCommons/awesome-innersource
+https://innersourcecommons.org/stories/
 -->
 
 ---
@@ -299,6 +302,8 @@ Crowston, K., & Howison, J. (2005). The social structure of Free and Open Source
 Fitzgerald, B., & Stol, K.-J. (2016). Continuous software engineering: A roadmap and agenda. *Journal of Systems and Software*, 123, 176--189.
 
 Hoffmann, M., Nagle, F., & Zhou, Y. (2024). The value of open source software. *Harvard Business School Working Paper*, (24-038).
+
+Puranam, P., Alexy, O., & Reitzig, M. (2014). What's “new” about new forms of organizing?. *Academy of Management Review*, 39(2), 162-180.
 
 Raymond, E. S. (1999). *The Cathedral and the Bazaar*. O’Reilly.
 
