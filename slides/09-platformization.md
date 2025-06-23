@@ -34,9 +34,9 @@ style: |
 
 Our focus: Digital platforms as two-sided online markets involving supply and demand-side users
 
-- Platforms rely on network effects: the incremental benefit gained by each user for each new user that joins the platform
-- Platforms generally decrease transaction costs (e.g., search costs, bargaining costs, etc.)
-- Platforms lower the barrier for individuals to pursue entrepreneurial activity
+- Platforms rely on **network effects**: the incremental benefit gained by each user for each new user that joins the platform
+- Platforms generally **decrease transaction costs** (e.g., search costs, bargaining costs, etc.)
+- Platforms **lower entry barriers** for individuals to pursue entrepreneurial activity
  
 ![bg right:48% width:600px](../material/digital-platform.png)
 
@@ -111,9 +111,9 @@ Traditional alternatives: Venture capital, loans, IPOs
 
 Typical mechanism to raise capital on crowd-funding platforms:
 
-- Sequential crowdfunding, with previous customers' decisions available
-- Later customers make decisions on whether to back a project, they know their own valuations but also see the aggregate contribution made by previous customers
-- Funds are transferred when a predefined threshold is met (all-or-nothing funding)
+- Sequential crowdfunding, with previous funding levels available
+- When funders make decisions on whether to back a project, they know their own valuations but also see the aggregate contribution made by previous customers
+- Funds are transferred when a predefined threshold is met (*all-or-nothing funding*)
 
 Example: [Kickstarter](https://help.kickstarter.com/hc/en-us/articles/115005028514-What-are-the-basics-)
 
@@ -136,7 +136,7 @@ Traditional alternatives: in-house innovation, innovation through external agenc
 Typical mechanism to source from innovation platforms:
 
 - A requester posts a task (e.g. logo design) and announces a monetary reward for the winning solution
-- Contestants submit solutions on the platform
+- Contestants submit solutions on the platform, typically without information on other submissions
 - The requester chooses the best solution(s) and awards the prize
 
 Example: [Crowdspring](https://www.crowdspring.com/how-it-works/)
@@ -197,7 +197,7 @@ Typical mechanism to post advertising on the web:
 Examples for marketing platforms:
 
 - Google Ads
-- Social media (influencers, sponsored ads)
+- Upfluence, Aspire (influencers, sponsored ads)
 
 <!-- 
 Viral
@@ -224,7 +224,6 @@ Payments, communication infrastructure, computational resources, web-hosting, id
 - Typically provided by third-party providers (e.g., Cloud-Computing)
 
 ---
--->
 
 # Platform entrepreneurship in practice
 
@@ -233,6 +232,7 @@ We have seen *that* platforms offer a range of opportunities for individual entr
 **Task**: Select one of the platformization examples, search for best practices, and create a short guideline. For instance, what are the key things to consider when using a crowdfunding platform? Which challenges or risks should be avoided?
 
 ---
+-->
 
 # Platform governance and regulation of platforms
 
@@ -271,6 +271,22 @@ Khanna and Palepu (2005) identify six market institutions that are critical in e
 Platform owners create their own "ecosystem" in which they play the role of the regulator, judiciary, and executive branch (based on the terms of service/as far as the law permits)
 This dramatically lowers enforcement costs, in particular for demand-side users (may not always be fair)
 -->
+
+---
+
+# Summary: Platformization & Entrepreneurial Work
+
+- **Platformization** refers to the growing role of digital platforms in organizing economic activity.
+- Entrepreneurs engage with platforms as **supply-side** (e.g., selling goods/services) and **demand-side** actors (e.g., sourcing talent, innovation).
+- Platforms lower transaction costs and entry barriers, enabling **micro-entrepreneurship** at scale.
+- Examples include:
+  - **Crowdfunding** (Kickstarter): raising capital
+  - **Innovation platforms** (Crowdspring): sourcing ideas
+  - **Micro-tasking** (MTurk): completing small tasks
+  - **Freelance marketplaces** (Upwork): hiring knowledge workers
+  - **Marketing platforms** (Google Ads, Aspire): audience targeting
+- Platform owners act as market **orchestrators**, assuming roles like regulators, aggregators, and adjudicators.
+- Governance models vary from centralized to cooperative; regulation (e.g., **DSA/DMA**) is catching up.
 
 ---
 
