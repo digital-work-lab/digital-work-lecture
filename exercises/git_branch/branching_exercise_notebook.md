@@ -1,5 +1,7 @@
 ---
 title: "Exercise: Git branching"
+nav_exclude: true
+search_exclude: true
 ---
 
 # Exercise: Git branching
