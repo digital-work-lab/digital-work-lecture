@@ -21,8 +21,7 @@ footer: "<a href='https://github.com/digital-work-lab/digital-work-lecture/issue
 
 - [Conceptual foundations](#5)
 - [Use of agentic AI in organizations](#8)
-- [Spotlight: Large Language Models (LLM)](#8)
-- [Interaction Modalities](#12)
+- [Spotlight: Large Language Models (LLM)](#10)
 
 <style scoped>
 .callout {
@@ -204,21 +203,20 @@ Note: bots vs. AI (technology is often hard to distinguish by users, may be a co
 - Opportunity to explore AI tools and identify promising use cases
 - Threat of leaking sensitive data, running ineffective prompts
 
-Worker-centric institutionalization:
+**Worker-centric institutionalization**
 
 - Bring-your-own-AI as an extension of bring-your-own-device ?
 
-Organizational institutionalization:
+**Organizational institutionalization**
 
-- 
-
-Technology/design perspective
-Shadow AI (defined, risks) vs. local-LLMs/integrated approaches (illustrate Handbook/obsidian!)
--> mention MCP, obsidian, ...
-- responsible use and compliance (Git/transparency and undoability of enactment?)
-
+<!-- - Management by the IT department -->
+- Custom interfaces and integrations, e.g., through Application Programming Interfaces (API) and local LLMs
+- Provision of context and integration with existing tools, e.g., through Model Context Protocol (MCP)
+- Responsible use and compliance
 
 <!--
+tbd: handbook/obsidian/git
+
 Thought: LLM as a powerful capability, but its effectiveness depends on engineering the right environment
 
 
@@ -312,6 +310,9 @@ Disadvantages:
 - Directionality of the language model ("reversal curse")
 
 <!--
+
+- Non-determinism (temperature parameter)
+
 ## 🧩 Foundation Models  
 - Transformer-based neural nets pretrained on massive unlabeled text/data to predict next tokens 
 - GPT‑3 debuted May 2020; GPT‑4 released March 14 2023; ChatGPT launched November 30 2022
@@ -358,7 +359,7 @@ TBD: Shortcomings (statistical parrot, reasoning, ...)
    Use precise, unambiguous language. Avoid vague questions.
 
 2. **Assign Roles**  
-   Set a clear persona or role to shape tone and expertise (e.g., "You are a reviewer for a top journal...").
+   Set a clear persona or role to shape tone and expertise (e.g., "You are a dev-ops software engineer...").
 
 3. **Guide Step-by-Step Reasoning**  
    Encourage stepwise thinking with phrases like "Let's think step by step."
@@ -367,7 +368,7 @@ TBD: Shortcomings (statistical parrot, reasoning, ...)
    Provide one-shot or few-shot examples to illustrate format or logic.
 
 5. **Provide Relevant Context**  
-   Include background information or documents the model needs to ground its answer.
+   Include background information or documents the model needs to ground its answer (see Retrieval-Augmented Generation, RAG).
 
 6. **Specify Output Constraints**  
    Set expectations for length, format, tone, or target audience (e.g., "Explain in <150 words for beginners").
@@ -379,7 +380,7 @@ TBD: Shortcomings (statistical parrot, reasoning, ...)
 Distinguish prompting techniques and interaction modalities (must)
     • Clarity, context and role assignment, output constraints
     • One-shot/few-shot, retrieval-augmented generation, reasoning chains
- -->
+-->
 
 ---
 
@@ -456,7 +457,6 @@ Give me an opinionated overview of [Tool Name] for knowledge workers in organiza
 ```
 
 *Tip: When evaluating your prompts, consider if they provide the LLM with enough context, specify the desired format, and include role or tone instructions.*
-
 
 TODO : share solutions via rustpad
 
