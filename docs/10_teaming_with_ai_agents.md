@@ -47,12 +47,8 @@ When time runs out: Additional cases can be prepared at home
 
 **Exercise 1: Catching Up After Vacation**
 
-```text
-You are an expert assistant helping me catch up on work after a 2-week absence. I will paste Slack messages and email excerpts from the last two weeks. Summarize the most important topics, decisions made, unresolved issues, and action items relevant to me. Group the information by project if possible.
-```
+> You are an expert assistant helping me catch up on work after a 2-week absence. I will paste Slack messages and email excerpts from the last two weeks. Summarize the most important topics, decisions made, unresolved issues, and action items relevant to me. Group the information by project if possible.
 
 ## Exercise 2: Self-Coaching Through a Challenging Situation
 
-```text
-Act as a self-coaching assistant trained in productivity and well-being. Ask me reflective questions to help me identify my current challenges, clarify priorities, and explore ways to manage my time and energy more effectively. Begin by asking: "What are the main things on your mind right now?"
-```
+> Act as a self-coaching assistant trained in productivity and well-being. Ask me reflective questions to help me identify my current challenges, clarify priorities, and explore ways to manage my time and energy more effectively. Begin by asking: "What are the main things on your mind right now?"
