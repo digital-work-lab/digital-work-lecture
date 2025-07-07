@@ -305,5 +305,5 @@ Hoffmann, M., Nagle, F., & Zhou, Y. (2024). The value of open source software. *
 
 Puranam, P., Alexy, O., & Reitzig, M. (2014). What's “new” about new forms of organizing?. *Academy of Management Review*, 39(2), 162-180.
 
-Raymond, E. S. (1999). *The Cathedral and the Bazaar*. O’Reilly.
+Raymond, E. S. (1999). *The Cathedral and the Bazaar*. OReilly.
 

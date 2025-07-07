@@ -1373,7 +1373,6 @@ DennisFullerValacich
 HwangKettingerYi
 wrt
 TaNEWki
-O’Reilly
 Alexy
 Puranam
 Reitzig
@@ -1432,4 +1431,3 @@ Arbaugh
 Noland
 BCI
 orchestrators
-"O’Reilly"
