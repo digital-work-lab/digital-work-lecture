@@ -1427,3 +1427,9 @@ agentic
 curation
 rebalance
 Gartner
+summarization
+Arbaugh
+Noland
+BCI
+orchestrators
+"O’Reilly"
