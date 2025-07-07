@@ -23,7 +23,9 @@ footer: "<a href='https://github.com/digital-work-lab/digital-work-lecture/issue
 
 # Warm-up question
 
-- What is the future of human labor vis-à-vis machines?
+- What is the future of human labor in light of recent breakthroughs in AI and automation technologies?
+
+<!-- - What is the future of human labor vis-à-vis machines? -->
 
 ![bg right:55% Humans vs machines width:600px](../material/Humans_machines.jpg)
 
