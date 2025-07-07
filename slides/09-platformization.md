@@ -112,7 +112,7 @@ Traditional alternatives: Venture capital, loans, IPOs
 Typical mechanism to raise capital on crowd-funding platforms:
 
 - Sequential crowdfunding, with previous funding levels available
-- When funders make decisions on whether to back a project, they know their own valuations but also see the aggregate contribution made by previous customers
+- When backers make decisions on whether to back a project, they know their own valuations but also see the aggregate contribution made by previous customers
 - Funds are transferred when a predefined threshold is met (*all-or-nothing funding*)
 
 Example: [Kickstarter](https://help.kickstarter.com/hc/en-us/articles/115005028514-What-are-the-basics-)

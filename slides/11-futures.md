@@ -95,35 +95,16 @@ Extant research has identified task properties associated with automation (Deran
 - Repetitive, documented, and atomic tasks with a clear objective
 - Large amounts of data available for analysis
 - Automated enactment does not raise ethical concerns
+- **Language-related tasks such as translation, summarization, and creative text generation**
 
 <!--
 also: MithasWhitaker2007 Table 2
  - Routine (low-context) environments
-f-->
-
----
-
-# Non-substitutable skills
-
-In an [HBR article](https://hbr.org/2018/07/7-skills-that-arent-about-to-be-automated), Gustein and Sviokla suggest the following skills are hard to substitute by AI:
-
-- Communication
-- Context
-- Emotional competence
-- Teaching
-- Connections
-- An ethical compass
-
-<!-- 
-TODO : Analyze the paper and link it
--> TBD: discuss (e.g., teaching: MOOC?)
-
-teaching: the authors refer more to on-the-job training
 -->
 
 ---
 
-# Non-substitutable skills: IT
+# Non-substitutable: IT skills
 
 Atasoy, Banker, and Pavlou (2021) use panel data from Turkey to analyze how IT skills impact labor market outcomes:
 
@@ -135,11 +116,33 @@ Note: similar to digital (technical) skills (in the first lectures)
 [[AtasoyBankerPavlou2021]]
 -->
 
+---
+
+# Still non-substitutable skills?
+
+In an [HBR article](https://hbr.org/2018/07/7-skills-that-arent-about-to-be-automated), Gustein and Sviokla (2018) suggest the following skills are hard to substitute by AI:
+
+- Communication
+- Context
+- Emotional competence
+- Teaching
+- Connections
+- An ethical compass
+
+![image](../material/iconmonstr-help-6.svg) **Task**: To what extent do you expect these tasks to be substitutable by generative AI or large language models?
+
+<!-- 
+TODO : Analyze the paper and link it
+-> TBD: discuss (e.g., teaching: MOOC?)
+
+teaching: the authors refer more to on-the-job training
+-->
+
 --- 
 
 # Disaggregation of human labour
 
-Mithas and Whitaker propose a **theory of service disaggregation**: High information intensity makes an occupation more amenable to disaggregation because the activities in such occupations can be codified, standardized, and modularized.
+Mithas and Whitaker (2007) propose a **theory of service disaggregation**: High information intensity makes an occupation more amenable to disaggregation because the activities in such occupations can be codified, standardized, and modularized.
 
 - **Codifiability**: The extent to which knowledge can be converted into a form suitable for transfer across economic agents.
 - **Standardizability**: A common framework and vocabulary to define business processes.
@@ -186,7 +189,7 @@ TBD: "continuity of nature" assumption?
 
 ---
 
-# Future 1
+# Future 1: Human Service for a Premium
 
 - When most jobs have become automated, human interaction will become the premium alternative
 - Customers want to pay extra for having contact with a human representative
@@ -202,7 +205,7 @@ Example: Fast-food restaurants like McDonalds expand and test the use of AI ([Th
 
 ---
 
-# Future 2
+# Future 2: Augmented Expertise
 
 - Humans and machines have a complementary division of labor
 - Computers will not be able to fully replicate human emotions
@@ -222,7 +225,15 @@ Example: Radiologists and AI
 -->
 ---
 
-# Future 3
+<style>
+blockquote {
+    border-top: 0.1em;
+    font-size: 60%;
+    margin-top: auto;
+}
+</style>
+
+# Future 3: AI as Enables of Fulfilling Work
 
 - A human-centric view of AI
 - People retain full control over AI development
@@ -236,25 +247,41 @@ Example: Industrial production and retail
 
 ![bg right:35% width:350px](../material/cleaning_robot.jpg)
 
+> 💡 Remember: Fritjof Bergmann’s vision of New Work emphasizes the ideal of meaningful work—enabled by greater flexibility and self-determination in how work is organized (see first lecture).
+
 ---
 
-# Future 4
+# Future 4: Enhanced Humans
 
 - A physical and cognitive integration of humans and machines
 - People will be able to have body and mind enhancement
 
-Example: Elon Musk's Neuralink project - "A merger between biological and digital intelligence"
+Example: The Neuralink project - "A merger between biological and digital intelligence"
 
+- **2017‑05‑05**: Launch of Neuralink, aiming to develop brain–computer interfaces.
+
+- **2023‑05‑25**: FDA grants approval for human clinical trials.
+
+- **2024‑01‑29**: First human implant (Noland Arbaugh), marking a milestone in “Telepathy”. Controls a computer cursor and browser via thought.
+
+- **Mid‑2024**: Second patient implanted; uses BCI for 3D design and gaming.  
+
+- **Early 2025**: Third patient uses the implant to type, edit video, and communicate via AI‑synthesized voice.
+
+- **April 2025**: Fourth patient (a paralyzed veteran) controls smartphone and computer via thought.  
+
+<!-- 
 - 2017-05-05 Launch of Neuralink to develop Brain-computer interfaces
 - 2023-05-25 Approval for clinical trials by the FDA
 - 2024-01-29 Successful implantation with promising results
 - 2024-02-20 Human participant is able to control a computer mouse through thought
+ -->
 
 ![bg right:35% width:400px](../material/neuralink.jpg)
 
 ---
 
-# Future 5
+# Future 5: Dystopia of Algorithmic Dominance
 
 - Machines completely dominate over humans
 - Interconnected AI systems are powerful and human behavior is imperfect

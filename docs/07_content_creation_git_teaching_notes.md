@@ -17,7 +17,7 @@ Starter question:
 - elaborate on technology choice (theory), including functional/non-functional criteria
 - develop a decision matrix (?) covering dropbox/sharepoint/wiki/git, with storage size and types, collaboration control or consensus, scalability of collaboration and parallel work.
 - highlight that we look at Git as a particular powerful system (one that requires deeper understanding)
-- Use Mermaid for Git graps?
+- Use Mermaid for Git graphs?
 
 ## Branching: Theory (CONCENTRATE)
 

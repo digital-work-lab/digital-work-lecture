@@ -39,7 +39,7 @@ footer: "<a href='https://github.com/digital-work-lab/digital-work-lecture/issue
 <div class="callout">
   <strong>Learning objectives</strong> 
   <ul>
-  <li>Desribe the concept of agentic AI</li>
+  <li>Describe the concept of agentic AI</li>
   <li>Use LLMs effectively by selecting appropriate prompting techniques</li>
   <li>Discuss interaction modalities</li>
   </ul>
@@ -287,7 +287,7 @@ blockquote {
 }
 </style>
 
-# Spotlight: Large Lanuage Models (LLMs)
+# Spotlight: Large Language Models (LLMs)
 
 ![bg right:35% width:350px](../material/llm_explanation.png)
 

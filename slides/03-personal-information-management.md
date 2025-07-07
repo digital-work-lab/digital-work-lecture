@@ -70,7 +70,7 @@ footer: "<a href='https://github.com/digital-work-lab/digital-work-lecture/issue
 
 ![width:750px center](../material/HwangKettingerYi2015-fig4.png)
 
-> - **Effects**: Coefficients (β) how the *direction and strength* of relationships (positive = increase, negative = decrease). *p-values* indicate *significance* (often marked with *, **, ***).
+> - **Effects**: Coefficients (β) how the *direction and strength* of relationships (positive = increase, negative = decrease). *p-values* indicate *significance* (typically marked with *, **, ***).
 > - **Explained variables**: *R² (R-squared)* % of *variance explained* by the model (closer to 1 = better fit).  
 
 <!-- [[HwangKettingerYi2015]] -->
