@@ -191,7 +191,7 @@ TBD: "continuity of nature" assumption?
 
 ---
 
-# Future 1: Human Service for a Premium
+# Future 1: Human service for a premium
 
 - When most jobs have become automated, human interaction will become the premium alternative
 - Customers want to pay extra for having contact with a human representative
@@ -207,7 +207,7 @@ Example: Fast-food restaurants like McDonalds expand and test the use of AI ([Th
 
 ---
 
-# Future 2: Augmented Expertise
+# Future 2: Augmented expertise
 
 - Humans and machines have a complementary division of labor
 - Computers will not be able to fully replicate human emotions
@@ -235,7 +235,7 @@ blockquote {
 }
 </style>
 
-# Future 3: AI as Enables of Fulfilling Work
+# Future 3: AI as enablers of fulfilling work
 
 - A human-centric view of AI
 - People retain full control over AI development
@@ -253,7 +253,7 @@ Example: Industrial production and retail
 
 ---
 
-# Future 4: Enhanced Humans
+# Future 4: Enhanced humans
 
 - A physical and cognitive integration of humans and machines
 - People will be able to have body and mind enhancement
@@ -273,6 +273,8 @@ Example: The Neuralink project - "A merger between biological and digital intell
 - **April 2025**: Fourth patient (a paralyzed veteran) controls smartphone and computer via thought.  
 
 <!-- 
+TODO : specific description of the vision ("downloading languages")
+
 - 2017-05-05 Launch of Neuralink to develop Brain-computer interfaces
 - 2023-05-25 Approval for clinical trials by the FDA
 - 2024-01-29 Successful implantation with promising results
@@ -283,7 +285,7 @@ Example: The Neuralink project - "A merger between biological and digital intell
 
 ---
 
-# Future 5: Dystopia of Algorithmic Dominance
+# Future 5: Dystopia of algorithmic dominance
 
 - Machines completely dominate over humans
 - Interconnected AI systems are powerful and human behavior is imperfect
