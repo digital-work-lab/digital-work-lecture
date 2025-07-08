@@ -28,7 +28,7 @@ search_exclude: true
 
 Backup:
 
-- [Session: Knowledge work services](10_knowlege_work_services_teaching_notes.html){: target="_blank"}
+- [Session: Knowledge work services](10_knowledge_work_services_teaching_notes.html){: target="_blank"}
 
 ## Preparation
 

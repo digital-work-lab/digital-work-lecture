@@ -185,7 +185,7 @@ Live illustration
 
 Best Practice für Knoten, Tags, etc.
 
-- Es bestehen keine generellen best pratices für den Aufbau, die Bennenung von Objekten oder sonstigen
+- Es bestehen keine generellen Best Practices für den Aufbau, die Benennung von Objekten oder sonstigen
 - Es gibt von bestimmten Personen Tipps für Anfänger zum Aufbau der Obsidian App
 - Es gibt auch Erklärungsvideos auf Youtube für Obsidian, hier sind ein paar Links zu relativ guten Erklärungsvideos:
 - Erstes Video von einer Obsidian Serie: https://www.youtube.com/watch?v=svqJ8BUh8mU

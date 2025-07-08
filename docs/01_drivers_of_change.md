@@ -52,7 +52,7 @@ appreciate the scientific origins (theory, method, evidence)
 
 not everyone will use the same system
 
--> also: policies (society/team/organiazation)
+ -> also: policies (society/team/organization)
 
 Learning: self-directed (additional resources), slides need to be complemented with notes (examples, ...)
 
