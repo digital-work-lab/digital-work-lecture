@@ -8,23 +8,36 @@ search_exclude: true
 
 # Teaching notes: Ethics
 
-Upload combined pdf:
+- Upload the slide after the session (to allow for open discussions without seeing the discussion prompts)
+- Upload combined PDF to facilitate exam preparation (reduce PDF size):
+
+```
 pdftk file1.pdf file2.pdf cat output mergedfile.pdf
+```
 
-Fragen für die letzte Session
+- Reminder: Course evaluations
+- Next session: Questions/Test exam
 
-Liebe Studierende,
 
-in der letzten Session haben wir wie besprochen die Gelegenheit, neben der Probeklausur auch offene Fragen zu klären. Wenn Sie Fragen oder Themen dafür einbringen möchten, posten Sie diese gerne in unter diesem Beitrag.
+> **Fragen für die letzte Session**
+> 
+> Liebe Studierende,
+> 
+> in der letzten Session haben wir wie besprochen die Gelegenheit, neben der Probeklausur auch offene Fragen zu klären. Wenn Sie Fragen oder Themen dafür einbringen möchten, posten Sie diese gerne in unter diesem Beitrag.
+> 
+> Mit besten Grüßen
+> 
+> Gerit Wagner
 
-Mit besten Grüßen
+## Introductory notes
 
-Gerit Wagner
+- Ethical questions are pervasive in the world of work (compensation, leadership and monitoring, platform-work)
+- There are different ethical perspectives 
 
 ## Fair compensation
 
-- Ask students what they expect as a starting salary (e.g., 70.000 €)
-- Scenario: an employee (Markus) makes 160 €.
+- Ask students what they expect as a starting salary (e.g., 60,000 €)
+- Scenario: an employee (Markus) makes 120,000 €.
 - Is that fair? Who agrees/disagrees? Why?
 
     - Merit
