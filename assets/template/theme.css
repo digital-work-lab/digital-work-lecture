@@ -140,12 +140,6 @@ footer a:hover {
   text-decoration: underline;
 }
 
-@media print {
-  footer {
-    display: none;  /* Hides the footer when printing or exporting to PDF */
-  }
-}
-
 /* pages */
 section::after {
   position: absolute;
@@ -171,4 +165,17 @@ blockquote.footnote {
   border-top: 0.1em;
   font-size: 60%;
   margin-top: auto;
+}
+
+@media print {
+  footer {
+    display: none;  /* Hides the footer when printing or exporting to PDF */
+  }
+}
+
+@media print {
+  .page-break {
+    display: block;
+    page-break-before: always;
+  }
 }
