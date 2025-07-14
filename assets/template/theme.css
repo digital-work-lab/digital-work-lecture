@@ -172,10 +172,3 @@ blockquote.footnote {
     display: none;  /* Hides the footer when printing or exporting to PDF */
   }
 }
-
-@media print {
-  .page-break {
-    display: block;
-    page-break-before: always;
-  }
-}
