@@ -8,7 +8,7 @@ search_exclude: true
 
 TBD: Summaries for part 2: Digital work in teams
 
-TODO: print playbooks for maintainers ([M1-M3](https://github.com/digital-work-lab/open-source-collaboration-game/blob/main/readme.md))
+TODO: print playbooks for maintainers ([M1-M3](https://github.com/digital-work-lab/open-source-collaboration-game/blob/main/readme.md){: target="_blank"})
 
 # Teaching notes: Open-Source
 
