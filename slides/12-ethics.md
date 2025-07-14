@@ -99,7 +99,7 @@ Key proponents: Socrates, Niccolò Machiavelli, David Hume
 
 # Case 2: Workplace Surveillance – Discussion Prompts
 
-We revisited a remote-working team and considered various monitoring actions by their manager — from casual checking of availability statusto using machine learning to analyze behavior and automate sanctions. In addition, we considered twists, with declining team performance or individuals, who may be engaging in overemployment (holding multiple full-time jobs).
+We revisited a remote-working team and considered various monitoring actions by their manager — from casual checking of availability status to using machine learning to analyze behavior and automate sanctions. In addition, we considered twists, with declining team performance or individuals, who may be engaging in overemployment (holding multiple full-time jobs).
 
 <!-- 
   - Checking availability status  
