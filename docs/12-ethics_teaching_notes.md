@@ -34,7 +34,9 @@ pdftk file1.pdf file2.pdf cat output mergedfile.pdf
 - Ethical questions are pervasive in the world of work (compensation, leadership and monitoring, platform-work)
 - There are different ethical perspectives 
 
-## Fair compensation
+<div class="page-break"></div>
+
+## Case 1: Fair compensation
 
 - Ask students what they expect as a starting salary (e.g., 60,000 €)
 - Scenario: an employee (Markus) makes 120,000 €.
@@ -71,16 +73,20 @@ If necessary:
     - communitarianism: diversity/gender (market mechanisms vs what society (should) value)
 -->
 
-## Utilitarianism
+<div class="page-break"></div>
 
-cost-benefit:
+## Ethical theory
+
+**Utilitarianism**
+
+Cost-benefit rationale:
 
 - Classical example: Gladiator games
 - Common in ethics of autonomous/self-driving vehicles
 
 <div class="page-break"></div>
 
-## Deontology
+**Deontology**
 
 - Medical context: mandatory vaccination (or ventilators during covid)
 
@@ -94,8 +100,7 @@ Analysis:
 - Deontological Perspective: The worker's initial actions of manipulating ratings and undermining competitors are considered morally wrong because they involve deceit and unfair practices.
 - Consequences: The positive outcome is the high-quality work on a critical task that leads to significant public health benefits. In this scenario, the worker's unethical behavior of manipulating the crowdsourcing system (bad intentions) results in a situation where their skills can be applied to produce a highly beneficial outcome (good consequences). From a deontological standpoint, the emphasis would remain on the immoral nature of the worker's actions rather than the beneficial result. This example underscores the ethical dilemmas that can arise in crowdwork, where the morality of actions is distinct from their outcomes.
 
-
-## Virtue ethics
+**Virtue ethics**
 
 Leading with Integrity in a Virtual Team (even under pressure)
 
@@ -120,7 +125,9 @@ Focus on Character: Alex's behavior is guided by virtues such as honesty, integr
 Moral Development: By leading with these virtues, Alex not only helps the team succeed in the project but also contributes to the moral development of his team members, encouraging them to embody similar virtues in their work.
 -->
 
-## Workplace surveillance
+<div class="page-break"></div>
+
+## Case 2: Workplace surveillance
 
 Revisit the team, which has transitioned into remote work over the pandemic.
 
@@ -161,7 +168,9 @@ Today/In practice, justifications for surveillance often include both consequent
 Cambridge analytica (misusing massive Facebook data in the election)
 - surveillance is hidden (resembling totalitarian tendencies of Orwell)
 
-## Platforms and crowd-worker exploitation
+<div class="page-break"></div>
+
+## Case 3: Platforms and crowd-worker exploitation
 
 - overall utility: honest or even hard feedback can have positive effects (for clients and workers). If a few workers fail, the overall utility may still be positive.
 - duty to fulfill contracts/terms-of-service? duty as an employer?
