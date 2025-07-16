@@ -58,3 +58,15 @@ Mit besten Grüßen
 
 Gerit Wagner
 
+## Week 11: Questions/Evaluation/Test-exam
+
+Liebe Studierende,
+
+in der letzten Session haben wir – wie angekündigt – die Möglichkeit, neben der Probeklausur auch offene Fragen zu klären. Wenn Sie Themen oder Fragen einbringen möchten, können Sie diese gerne vorab über folgenden Link einreichen:
+
+👉 https://vc.uni-bamberg.de/mod/feedback/view.php?id=2015435
+
+Außerdem sollten Sie inzwischen den Link zur Kursevaluation erhalten haben. Die Evaluation ist noch bis Freitag geöffnet – aktuell liegt die Rücklaufquote leider noch bei 0 %. Ich würde mich sehr freuen, wenn Sie sich ein paar Minuten Zeit nehmen und daran teilnehmen. Ihre Rückmeldung ist mir wichtig und hilft, den Kurs weiter zu verbessern.
+
+Mit besten Grüßen
+Gerit Wagner

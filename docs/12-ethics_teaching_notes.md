@@ -84,8 +84,6 @@ Cost-benefit rationale:
 - Classical example: Gladiator games
 - Common in ethics of autonomous/self-driving vehicles
 
-<div class="page-break"></div>
-
 **Deontology**
 
 - Medical context: mandatory vaccination (or ventilators during covid)
