@@ -21,6 +21,7 @@ search_exclude: true
 - [Session: Communication](06_communication_teaching_notes.html){: target="_blank"}
 - [Session: Collaborative content creation/Git](07_content_creation_git_teaching_notes.html){: target="_blank"}
 - [Session: Open source work](08_open_source_teaching_notes.html){: target="_blank"}
+- [Session: Platformization](09_platformization.md){: target="_blank"}
 - [Session: Teaming with (AI) agents](10_teaming_with_ai_agents.html){: target="_blank"}
 - [Session: Futures](11-futures-notes_teaching_notes.html){: target="_blank"}
 - [Session: Ethics](12-ethics_teaching_notes.html){: target="_blank"}
