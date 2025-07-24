@@ -45,9 +45,9 @@ footer: "<a href='https://github.com/digital-work-lab/digital-work-lecture/issue
 - For the discussions and excitement
 - For your patience when things were not (yet) perfect
 
-Keep in touch, keep up with digital work trends, and enjoy summer vacations!
+Keep in touch, keep up with digital work trends, and enjoy the upcoming vacations!
 
-![bg right:50% width:400px](../material/ressources.PNG)
+![bg right:45% width:400px](../material/ressources.PNG)
 
 <!-- 
 Recap / typical exam questions
