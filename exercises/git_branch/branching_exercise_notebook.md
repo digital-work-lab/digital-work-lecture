@@ -37,7 +37,7 @@ With this notebook, you can practice branching in Git.
 
 We have covered `git commit`, as well as `git branch`, `git switch`, and `git merge` operations in the lecture.
 
-**Task**: To practice branching and manipulating the Git graph, complete level 1 (introduction) of the [learngitbranching](https://learngitbranching.js.org/?locale=en_EN) tutorial.
+**Task**: To practice branching and manipulating the Git graph, complete level 1 (introduction) of the [learngitbranching](https://learngitbranching.js.org/?locale=en_EN){: target="_blank"} tutorial.
 
 Hints:
 
@@ -55,7 +55,7 @@ IFrame('https://learngitbranching.js.org/', width=1400, height=800)
 
 If you have completed Part 1 quickly, you may continue practicing with the following challenge.
 
-**Task**: To continue practicing, create the following tree, which resembles a typical setup of Git branches. To do this, you can open [learngitbranching](https://learngitbranching.js.org/?locale=en_EN) in a separate window.
+**Task**: To continue practicing, create the following tree, which resembles a typical setup of Git branches. To do this, you can open [learngitbranching](https://learngitbranching.js.org/?locale=en_EN){: target="_blank"} in a separate window.
 
 <img src="../../material/git-branches.png" style="width: 600px;" alt="Git branches"/>
 
@@ -152,7 +152,7 @@ There is another option: to **squash** changes from another branch. This effecti
 We will now practice the different methods in a real Git repository.
 
 
-**Task**: Start GitHub Codespaces from the [CoLRev repository](https://github.com/CoLRev-Environment/colrev) and set up the `quality_model_docs` branch, using the following commands.
+**Task**: Start GitHub Codespaces from the [CoLRev repository](https://github.com/CoLRev-Environment/colrev){: target="_blank"} and set up the `quality_model_docs` branch, using the following commands.
 
 ```python
 cd /workspaces/colrev
