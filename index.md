@@ -28,29 +28,30 @@ You can find all information about this lecture in the [syllabus](docs/syllabus.
 
 ## Regular lecture sessions
 
-- From 2025-04-28 to 2025-07-21
-- Monday, 8:15 - 11:45, WE5/04.003
+- From 2025-10-14 to 2026-02-03
+- Tuesday, 8:15 - 11:45, WE5/04.003
 
 ## Course outline
-
+<!--
 {: .info }
 > 2025-06-09 is a public holiday (no lecture)
+-->
 
 | No. | Date       | Level           | Session and slides                                                                                      |
 |-----|------------|-----------------|---------------------------------------------------------------------------------------------------------|
-| 00  | 2025-04-28 |                 | [Orga](output/00-orga.html){: target="_blank"}                                                          |
-| 01  | 2025-04-28 | General         | [Drivers of Change](output/01-drivers-of-change.html){: target="_blank"}                                |
-| 02  | 2025-05-05 | **Individual**  | [Basics of Digital Work](output/02-basics-of-individual-work.html){: target="_blank"}                   |
-| 03  | 2025-05-12 | **Individual**  | [Personal Information Management](output/03-personal-information-management.html){: target="_blank"}    |
-| 04  | 2025-05-19 | **Team**        | [Remote Teams](output/05-remote-teams.html){: target="_blank"}                                          |
-| 05  | 2025-05-26 | **Team**        | [Communication](output/06-communication.html){: target="_blank"}                                        |
-| 06  | 2025-06-02 | **Team**        | [Collaborative Content Creation](output/07-collaborative-content-creation.html){: target="_blank"}      |
-| 07  | 2025-06-16 | **Crowd**       | [Open Source](output/08-open-source.html){: target="_blank"}                                            |
-| 08  | 2025-06-23 | **Crowd**       | [Platformization](output/09-platformization.html){: target="_blank"}                                    |
-| 09  | 2025-06-30 | **Crowd**       | [Teaming with AI Agents](output/10-teaming-with-ai-agents.html){: target="_blank"}                      |
-| 10  | 2025-07-07 | General         | [Futures](output/11-futures.html){: target="_blank"}                                                    |
-| 11  | 2025-07-14 | General         | [Ethics](output/12-ethics.html){: target="_blank"}                                                      |
-| 12  | 2025-07-21 |                 | [Exam Prep](output/13-exam-prep.html){: target="_blank"}                                                |
+| 00  | 2025-10-14 |                 | [Orga](output/00-orga.html){: target="_blank"}                                                          |
+| 01  | 2025-10-21 | General         | [Drivers of Change](output/01-drivers-of-change.html){: target="_blank"}                                |
+| 02  | 2025-10-28 | **Individual**  | [Basics of Digital Work](output/02-basics-of-individual-work.html){: target="_blank"}                   |
+| 03  | 2025-11-04 | **Individual**  | [Personal Information Management](output/03-personal-information-management.html){: target="_blank"}    |
+| 04  | 2025-11-11 | **Team**        | [Remote Teams](output/05-remote-teams.html){: target="_blank"}                                          |
+| 05  | 2025-11-18 | **Team**        | [Communication](output/06-communication.html){: target="_blank"}                                        |
+| 06  | 2025-11-25 | **Team**        | [Collaborative Content Creation](output/07-collaborative-content-creation.html){: target="_blank"}      |
+| 07  | 2025-12-02 | **Crowd**       | [Open Source](output/08-open-source.html){: target="_blank"}                                            |
+| 08  | 2025-12-09 | **Crowd**       | [Platformization](output/09-platformization.html){: target="_blank"}                                    |
+| 09  | 2025-12-16 | **Crowd**       | [Teaming with AI Agents](output/10-teaming-with-ai-agents.html){: target="_blank"}                      |
+| 10  | 2026-01-13 | General         | [Futures](output/11-futures.html){: target="_blank"}                                                    |
+| 11  | 2026-01-20 | General         | [Ethics](output/12-ethics.html){: target="_blank"}                                                      |
+| 12  | 2025-01-27 |                 | [Exam Prep](output/13-exam-prep.html){: target="_blank"}                                                |
 
 <!-- 
 | 03  | 2025-05-12 | **Individual**  | [Excellence](output/04-excellence.html){: target="_blank"}                                              |
