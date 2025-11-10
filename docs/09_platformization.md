@@ -43,4 +43,4 @@ Development of costs/risks/uncertainty over time
 - From positive platform effects on startup to negative platform effects in the maturity stage
 
 
-**Discussion prompt**: What is the methodolgoy of the paper (according to the hierarchy of evidence)?
+**Discussion prompt**: What is the methodology of the paper (according to the hierarchy of evidence)?
