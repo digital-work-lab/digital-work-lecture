@@ -52,6 +52,9 @@ def link_check():
         # Ignore first-level markdown files by checking the depth of the path
         if len(file_path.relative_to(directory).parts) == 1:
             continue
+        
+        if "exercise" in str(file_path):
+            continue
 
         append_target_blank_to_links(file_path)
 
